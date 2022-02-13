@@ -3,9 +3,9 @@ Data files is extending day after day so I am convinced to make this repo to tra
 You can see this repo as a tracker of n-things I am exploring in this journey of Data
 
 
-# Math
+# Linear Algebra, Statistics, Probability
 
-| Math                                                                | Blog Link                                                                                                               | Code Link                                                                          |
+| Math's                                                                | Blog Link                                                                                                               | Code Link                                                                          |
 |--------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
 | NA                                            | [Blog]()                                | [Code](link)   |
 
