@@ -7,24 +7,16 @@ You can see this repo as a tracker of n-things I am exploring in this journey of
 
 | Math                                                                | Blog Link                                                                                                               | Code Link                                                                          |
 |--------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| Linear Algebra                                            | [Blog]()                                | [Code](link)   |
-| Stats                                           | [Blog]()                                | [Code]()   |
+| NA                                            | [Blog]()                                | [Code](link)   |
+
 
 
 # Machine Learning 
 
 | Machine Learning                                                                 | Blog Link                                                                                                               | Code Link                                                                          |
 |--------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| Python                             | [Blog]()              | [Code](link) |
-| Data Analysis                                             | [Blog]()                                | [Pandas](link)      |
-| EDA          | [Blog]()               | [Code](link)              |
-| Feature Engineering                              | [Blog]()                   | [Code](link)          |
-| Machine learning Models | [Blog]() | [KNN](link), [NB](link), [LogisticR](link), [SVM](), [DT](), [LinearR]()        |
-| Ensemble Learning              | [Blog]()  | [Code](link)       |
-| Hyperparameter Optimization                             | [Blog]()              | [Code](link) |
-| Optimization                             | [Blog]()              | [Code](link) |
-| Deploy ML models using docker                             | [Blog]()              | [Code](link) |
-| Software Engineering Practices for Data Science                             | [Blog]()              | [Code](link) |
+| NA                             | [Blog]()              | [Code](link) |
+
 
 # Deep Learning
 
@@ -32,7 +24,7 @@ You can see this repo as a tracker of n-things I am exploring in this journey of
 |--------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
 | NA                                           | [Blog]()                                | [Code](link)   |
 
-<hr style="border:40px solid red"> </hr>
+<hr style="border:40px solid gray"> </hr>
 
 
 # Machine Learning Applications
@@ -40,6 +32,7 @@ You can see this repo as a tracker of n-things I am exploring in this journey of
 | Machine Learning Application Name                                                                  | Demo Link                                                                                                              | Code Link                                                                          |
 |--------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
 | NA                                            | [Blog]()                                | [Code](link)   |
+
 
 # Deep Learning Applications
 
