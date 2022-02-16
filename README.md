@@ -13,9 +13,9 @@ You can see this repo as a tracker of n-things I am exploring in this journey of
 
 # Machine Learning 
 
-| Machine Learning                                                                 | Blog Link                                                                                                               | Code Link                                                                          |
-|--------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| NA                             | [Blog]()              | [Code](link) |
+| Machine Learning  | Blog Link        | Code Link     | Video Link   |
+|-------------------|------------------|---------------|--------------|
+| NA                             | [Blog]()              | [Code](link) | [Video](Link)
 
 
 # Deep Learning
