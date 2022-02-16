@@ -13,9 +13,9 @@ You can see this repo as a tracker of n-things I am exploring in this journey of
 
 # Machine Learning 
 
-| Machine Learning  | Blog Link        | Code Link     | Video Link   |
-|-------------------|------------------|---------------|--------------|
-| NA                             | [Blog]()              | [Code](link) | [Video](Link)
+| Machine Learning                | Blog Link                                                       | Code Link     | Video Link   |
+|---------------------------------|-----------------------------------------------------------------|---------------|--------------|
+|Simple to understand ML framework| [Blog](https://github.com/MvMukesh/ML-ProblemSolving-FrameWork) | [---](link) | [---](Link) |
 
 
 # Deep Learning
