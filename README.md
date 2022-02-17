@@ -16,7 +16,8 @@ You can see this repo as a tracker of n-things I am exploring in this journey of
 | Machine Learning                | Blog Link                                                       | Code Link     | Video Link   |
 |---------------------------------|-----------------------------------------------------------------|---------------|--------------|
 |Simple to understand ML framework| [Blog](https://github.com/MvMukesh/ML-ProblemSolving-FrameWork) |  |  |
-| Propose Saving Options for for India based Poultry Farm having spending of appx 22 billion | | [Proposed Saving Options](https://github.com/MvMukesh/Spend_Analysis-ProposedSavingOptions)   |
+| Propose Saving Options for for India based Poultry Farm having spending of appx 22 billion | | [Proposed Saving Options](https://github.com/MvMukesh/Spend_Analysis-ProposedSavingOptions)|
+|Deriving Logistic Regression-Maths(plane + hyper-plane + Probabilistic interpretations + Geometric interpretations + Loss interpretations + Squashing Function Optimization + Regularization) + Application |[Blog](https://www.kaggle.com/mukeshmanral/derivinglogisticregression-maths-application) | [Code](https://www.kaggle.com/mukeshmanral/derivinglogisticregression-maths-application)| |
 
 
 # Deep Learning
