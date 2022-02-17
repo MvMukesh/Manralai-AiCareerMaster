@@ -8,11 +8,16 @@ You can see this repo as a tracker of n-things I am exploring in this journey of
 | Machine Learning                | Blog Link                                                       | Code Link     | Video Link   |
 |---------------------------------|-----------------------------------------------------------------|---------------|--------------|
 |Simple to understand ML framework| [Blog](https://github.com/MvMukesh/ML-ProblemSolving-FrameWork) |  |  |
-| Propose Saving Options for for India based Poultry Farm having spending of appx 22 billion | | [Proposed Saving Options](https://github.com/MvMukesh/Spend_Analysis-ProposedSavingOptions)|
-|Deriving Logistic Regression-Maths(plane + hyper-plane + Probabilistic interpretations + Geometric interpretations + Loss interpretations + Squashing Function Optimization + Regularization) + Application |[Blog](https://www.kaggle.com/mukeshmanral/derivinglogisticregression-maths-application) | [Code](https://www.kaggle.com/mukeshmanral/derivinglogisticregression-maths-application)| |
 |Linear Regression (Basic)| |[Code + Blog](https://www.kaggle.com/mukeshmanral/linear-regression-basic)| |
-|PCA application you must know things | |[Code + Blog](https://www.kaggle.com/mukeshmanral/pca-basic) | |
 |Multiple Linear Regression (Basic) | |[Code + Blog](https://www.kaggle.com/mukeshmanral/multiple-linear-regression-basic/notebook) | |
+|Polynomial Regression (Basic) | |[Code + Blog](https://www.kaggle.com/mukeshmanral/polynomial-regression-basic) | |
+|Advance Linear Regression  +GridSearchCV + HyperParameterTuning(Basic) | |[Code](https://www.kaggle.com/mukeshmanral/advance-linear-regression-gridsearchcv-hpt-basic?scriptVersionId=77957379) | |
+|PCA application you must know things | |[Code + Blog](https://www.kaggle.com/mukeshmanral/pca-basic) | |
+|Deriving Logistic Regression-Maths(plane + hyper-plane + Probabilistic interpretations + Geometric interpretations + Loss interpretations + Squashing Function Optimization + Regularization) + Application |[Blog](https://www.kaggle.com/mukeshmanral/derivinglogisticregression-maths-application) | [Code](https://www.kaggle.com/mukeshmanral/derivinglogisticregression-maths-application)| |
+| Propose Saving Options for for India based Poultry Farm having spending of appx 22 billion | | [Proposed Saving Options](https://github.com/MvMukesh/Spend_Analysis-ProposedSavingOptions)|
+
+
+
 
 
 
