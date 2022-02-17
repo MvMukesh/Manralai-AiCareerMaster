@@ -15,14 +15,14 @@ You can see this repo as a tracker of n-things I am exploring in this journey of
 
 | Machine Learning                | Blog Link                                                       | Code Link     | Video Link   |
 |---------------------------------|-----------------------------------------------------------------|---------------|--------------|
-|Simple to understand ML framework| [Blog](https://github.com/MvMukesh/ML-ProblemSolving-FrameWork) | [---](link) | [---](Link) |
-
+|Simple to understand ML framework| [Blog](https://github.com/MvMukesh/ML-ProblemSolving-FrameWork) |  |  |
+| Propose Saving Options for spending of appx 22 billion for India based Poultry Farm | | [Proposed Saving Options](https://github.com/MvMukesh/Spend_Analysis-ProposedSavingOptions)   |
 
 # Deep Learning
 
-| Deep Learning                                                                | Blog Link                                                                                                               | Code Link                                                                          |
-|--------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| NA                                           | [---]()                                | [---](link)   |
+| Deep Learning| Blog Link |Code Link |
+|--------------|----------|----------|
+| NA           | [---]()  | [---](link)   |
 
 # Computer Vision
 
@@ -41,30 +41,4 @@ You can see this repo as a tracker of n-things I am exploring in this journey of
 
 <hr style="border:40px solid gray"> </hr>
 
-
-# Machine Learning Applications
-
-| Machine Learning Application Name  | Demo Link     | Code Link  |
-|-------------------------------------|--------------|-------------|
-| Propose Saving Options for spending of appx 22 billion for India based Poultry Farm | [---]()| [Proposed Saving Options](https://github.com/MvMukesh/Spend_Analysis-ProposedSavingOptions)   |
-
-
-# Deep Learning Applications
-
-| Deep Learning Application Name                                                                 | Demo Link                                                                                                               | Code Link                                                                          |
-|--------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| NA                                           | [---]()                                | [---](link)   |
-
-# Computer Vision Application
-
-| Computer Vision Application Name                                                                 | Demo Link                                                                                                               | Code Link                                                                          |
-|--------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| NA                                           | [---]()                                | [---](link)   |
-
-
-# Natural Language Processing Application
-
-| Natural Language Processing Application Name                                                                 | Demo Link                                                                                                               | Code Link                                                                          |
-|--------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| NA                                           | [---]()                                | [---](link)   |
 
