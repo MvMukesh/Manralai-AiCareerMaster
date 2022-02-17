@@ -1,7 +1,7 @@
 # Data Work-Tracker
 Data and files are extending day after day so I am convinced to make this repo to track my work <br>
 You can see this repo as a tracker of n-things I am exploring in this journey of Data and trying my level best to explain them to people in general way Possibile <br>
-AIM is clear write or communicate in such a way that people can [ follow kato gholo peelow ]
+AIM is clear write or communicate in such a way that people can [ follow kato--gholo--peelow ]
 
 <hr style="border:40px solid gray"> </hr>
 
