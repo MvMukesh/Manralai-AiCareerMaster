@@ -11,6 +11,7 @@ AIM is clear write or communicate in such a way that people can [ follow kato--g
 |---------------------------------|-----------------------------------------------------------------|---------------|--------------|
 |Machine Learning Life Cycle      |[Blog](https://www.kaggle.com/mukeshmanral/machine-learning-life-cycle-basic/edit/run/88227239)| | |
 |Simple to understand ML framework| [Blog](https://github.com/MvMukesh/ML-ProblemSolving-FrameWork) |  |  |
+|Linear Regression Math+implementation+Project+Interview-Questions|[Blog + code](https://www.kaggle.com/mukeshmanral/linear-regression/edit)|||
 |Deriving Logistic Regression-Maths(plane + hyper-plane + Probabilistic interpretations + Geometric interpretations + Loss interpretations + Squashing Function Optimization + Regularization) + Application |[Blog](https://www.kaggle.com/mukeshmanral/derivinglogisticregression-maths-application) | [Code](https://www.kaggle.com/mukeshmanral/derivinglogisticregression-maths-application)| |
 |Linear Regression (Basic)| |[Code + Blog](https://www.kaggle.com/mukeshmanral/linear-regression-basic)| |
 |Multiple Linear Regression (Basic) | |[Code + Blog](https://www.kaggle.com/mukeshmanral/multiple-linear-regression-basic/notebook) | |
