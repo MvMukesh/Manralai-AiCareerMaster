@@ -5,6 +5,7 @@ AIM is clear write or communicate in such a way that people can [ follow kato--g
 
 <hr style="border:40px solid gray"> </hr>
 
+
 # Machine Learning 
 
 | Machine Learning                | Blog Link                                                       | Code Link     | Video Link   |
@@ -32,18 +33,6 @@ AIM is clear write or communicate in such a way that people can [ follow kato--g
 |Neural Network(Keras)+ Application | |[Code + Blog](https://www.kaggle.com/mukeshmanral/neural-network-keras-basic-only-84) | |
 | Deep Learning + Hyper Parameter Tuning + Activation Functions + Selecting Right Activation Function + Optimizer + Loss, Error, Cost Functions + Project(Keras): Loan Prediction + Project: Image Classification(Emergency Vs Non-Emergency Vehicle) using NN |  [Blog](https://www.kaggle.com/mukeshmanral/deep-learning-basic-project) | [Code](https://www.kaggle.com/mukeshmanral/deep-learning-basic-project)   ||
 
-# Computer Vision
-
-| Computer Vision                                                                | Demo Link                                                                                                               | Code Link                                                                          |
-|--------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| NA                                           | [---]()                                | [---](link)   |
-
-
-# Natural Language Processing
-
-| Natural Language Processing                                                                | Demo Link                                                                                                               | Code Link                                                                          |
-|--------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| NA                                           | [---]()                                | [---](link)   |
 
 # Recommender System 
 
@@ -53,6 +42,24 @@ AIM is clear write or communicate in such a way that people can [ follow kato--g
 |Why Business (H&M) cares about Product Recommendation?? |[Blog](https://www.kaggle.com/mukeshmanral/why-h-m-cares-about-product-recommendation)|[Code](https://www.kaggle.com/mukeshmanral/why-h-m-cares-about-product-recommendation) | |
 |End to End Recommender System |[Blog](https://www.kaggle.com/mukeshmanral/end-to-end-recommender-system)|[Code](https://www.kaggle.com/mukeshmanral/end-to-end-recommender-system) | |
 
+# Computer Vision
+
+| Computer Vision                                                                | Demo Link                                                                                                               | Code Link                                                                          |
+|--------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| NA                                           | [---]()                                | [---](link)   |
+
+# Spark Ecosystem
+
+|Spark Ecosystem | Blog Link | Code Link | Video Link|
+|--------------|-----------|-----------|-----------|
+|Spark Ecosystem(Big Data + Apache Hadoop[HDFS,YARN,MapReduce] + Spark Ecosystem[Architecture,Cluster Manager,Running application - Locally and on YARN,SparkContext vs SparkSession,spark Dataframe+Execution]+spark sql api+spark ml) |[Blog](https://www.kaggle.com/mukeshmanral/apache-spark-basic/edit) | | |
+
+
+# Natural Language Processing
+
+| Natural Language Processing                                                                | Demo Link                                                                                                               | Code Link                                                                          |
+|--------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| NA                                           | [---]()                                | [---](link)   |
 
 <hr style="border:40px solid gray"> </hr>
 
