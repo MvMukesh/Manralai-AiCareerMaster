@@ -12,6 +12,7 @@ AIM is clear write or communicate in such a way that people can [ follow kato--g
 |---------------------------------|-----------------------------------------------------------------|---------------|--------------|
 |Machine Learning Life Cycle      |[Blog](https://www.kaggle.com/mukeshmanral/machine-learning-life-cycle-basic/edit/run/88227239)| | |
 |Simple to understand ML framework| [Blog](https://github.com/MvMukesh/ML-ProblemSolving-FrameWork) |  |  |
+|First Classificaton+Regression Models - How to?? When to?? of Modeling | |[Blog + Code](https://www.kaggle.com/mukeshmanral/first-model-how-to-what-to-classif-regre) | |
 |Linear Regression Math+implementation+Project+Interview-Questions|[Blog + code](https://www.kaggle.com/mukeshmanral/linear-regression/edit)|||
 |Linear Regression (Basic)| |[Code + Blog](https://www.kaggle.com/mukeshmanral/linear-regression-basic)| |
 |Multiple Linear Regression (Basic) | |[Code + Blog](https://www.kaggle.com/mukeshmanral/multiple-linear-regression-basic/notebook) | |
