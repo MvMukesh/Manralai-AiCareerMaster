@@ -23,7 +23,7 @@ AIM is clear write or communicate in such a way that people can [ follow kato--g
 |k-NN Algorithm-2 (Basic) | |[Code + Blog](https://www.kaggle.com/mukeshmanral/k-nn-algorithm-2-basic) | |
 | Propose Saving Options for for India based Poultry Farm having spending of appx 22 billion | | [Proposed Saving Options](https://github.com/MvMukesh/Spend_Analysis-ProposedSavingOptions)|
 |PCA application you must know things | |[Code + Blog](https://www.kaggle.com/mukeshmanral/pca-basic) | |
-|Vehicle Loan Default Prediction [EDA + Model]||[Code](https://www.kaggle.com/mukeshmanral/vehicle-loan-default-prediction-eda-model/edit)||
+|Vehicle Loan Default Prediction [EDA + Model]||[Code](https://www.kaggle.com/mukeshmanral/vehicle-loan-default-prediction-eda-model)||
 |Bagging(ensemble_concept[RF-ExTree])(Basic) | |[Code + Blog](https://www.kaggle.com/mukeshmanral/bagging-ensemble-concept-rf-extree-basic) | |
 
 
