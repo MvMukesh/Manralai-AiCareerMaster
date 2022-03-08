@@ -54,7 +54,7 @@ AIM is clear write or communicate in such a way that people can [ follow kato--g
 
 |Spark Ecosystem | Blog Link | Code Link | Video Link|
 |--------------|-----------|-----------|-----------|
-|Spark Ecosystem(Big Data + Apache Hadoop[HDFS,YARN,MapReduce] + Spark Ecosystem[Architecture,Cluster Manager,Running application - Locally and on YARN,SparkContext vs SparkSession,spark Dataframe+Execution]+spark sql api+spark ml) |[Blog](https://www.kaggle.com/mukeshmanral/apache-spark-basic/edit) | | |
+|Spark Ecosystem(Big Data + Apache Hadoop[HDFS,YARN,MapReduce] + Spark Ecosystem[Architecture,Cluster Manager,Running application - Locally and on YARN,SparkContext vs SparkSession,spark Dataframe+Execution]+spark sql api+spark ml) |[Blog + Code](https://www.kaggle.com/mukeshmanral/apache-spark-basic) | | |
 
 
 # Natural Language Processing
