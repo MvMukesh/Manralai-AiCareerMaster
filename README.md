@@ -56,8 +56,9 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 
 # AWS
 
-| AWS | Blog Link  | Code Link  |
-|Cloud Computing(AWS)|[Blog](https://www.kaggle.com/mukeshmanral/cloud-computing-aws) |[---](link) |
+| AWS | Blog Link  | Video Link  |
+|--------------|-----------|-----------|
+|Cloud Computing(AWS)|[Blog](https://www.kaggle.com/mukeshmanral/cloud-computing-aws) |[Play List not yet updated](#) |
 
 
 
