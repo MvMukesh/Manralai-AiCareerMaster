@@ -45,17 +45,27 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 |Why Business (H&M) cares about Product Recommendation?? |[Blog](https://www.kaggle.com/mukeshmanral/why-h-m-cares-about-product-recommendation)|[Code](https://www.kaggle.com/mukeshmanral/why-h-m-cares-about-product-recommendation) | |
 |End to End Recommender System |[Blog](https://www.kaggle.com/mukeshmanral/end-to-end-recommender-system)|[Code](https://www.kaggle.com/mukeshmanral/end-to-end-recommender-system) | |
 
-# Computer Vision
 
-| Computer Vision                                                                | Demo Link                                                                                                               | Code Link                                                                          |
-|--------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| NA                                           | [---]()                                | [---](link)   |
 
 # Spark Ecosystem
 
 |Spark Ecosystem | Blog Link | Code Link | Video Link|
 |--------------|-----------|-----------|-----------|
 |Spark Ecosystem(Big Data + Apache Hadoop[HDFS,YARN,MapReduce] + Spark Ecosystem[Architecture,Cluster Manager,Running application - Locally and on YARN,SparkContext vs SparkSession,spark Dataframe+Execution]+spark sql api+spark ml) |[Blog + Code](https://www.kaggle.com/mukeshmanral/apache-spark-basic) | | |
+
+
+# AWS
+
+| AWS | Blog Link  | Code Link  |
+|Cloud Computing(AWS)|[Blog](https://www.kaggle.com/mukeshmanral/cloud-computing-aws) |[---](link) |
+
+
+
+# Computer Vision
+
+| Computer Vision                                                                | Demo Link                                                                                                               | Code Link                                                                          |
+|--------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| NA                                           | [---]()                                | [---](link)   |
 
 
 # Natural Language Processing
