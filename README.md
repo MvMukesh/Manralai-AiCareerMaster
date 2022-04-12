@@ -58,15 +58,16 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 
 | AWS | Blog Link  | Video Link  |
 |--------------|-----------|-----------|
-|Cloud Computing(AWS)|[Blog](https://www.kaggle.com/mukeshmanral/cloud-computing-aws) |[Play List not yet updated](#) |
+|Cloud Computing(AWS) | [Blog](https://www.kaggle.com/mukeshmanral/cloud-computing-aws) | [Play List not yet updated](#) |
 
 
 
-# Computer Vision
+# Computer Vision + OpenCV
 
-| Computer Vision                                                                | Demo Link                                                                                                               | Code Link                                                                          |
-|--------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| NA                                           | [---]()                                | [---](link)   |
+| Computer Vision | Code + Blog Link|
+|-----------------|-----------|
+| OpenCV Basic-1| [OpenCV Basic-1](https://www.kaggle.com/mukeshmanral/opencv-basics-1) |
+
 
 
 # Natural Language Processing
