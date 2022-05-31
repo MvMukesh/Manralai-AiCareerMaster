@@ -68,7 +68,7 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 | Computer Vision | Code + Blog Link|
 |-----------------|-----------|
 | OpenCV Basic-1| [OpenCV Basic-1](https://www.kaggle.com/mukeshmanral/opencv-basics-1) |
-| Deep Learning - Image Classification | [Image Classification](https://www.kaggle.com/code/mukeshmanral/image-classification)|
+| Neural Networks & Parameterized Learning | [Neural Networks & Parameterized Learning](https://www.kaggle.com/mukeshmanral/neural-networks-and-parameterized-learning)|
 
 
 
