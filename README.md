@@ -8,24 +8,24 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 
 # Machine Learning 
 
-| Machine Learning                | Blog Link                                                       | Code Link     | Video Link   |
-|---------------------------------|-----------------------------------------------------------------|---------------|--------------|
-|Machine Learning Life Cycle      |[Blog](https://www.kaggle.com/mukeshmanral/machine-learning-life-cycle-basic/edit/run/88227239)| | |
-|Simple to understand ML framework| [Blog](https://github.com/MvMukesh/ML-ProblemSolving-FrameWork) |  |  |
-|Problem Solving[Mapping Business Problem to Data Science Problem] | [Blog + code](https://www.kaggle.com/code/mukeshmanral/mapping-business-problem-to-data-science-problem/)| | |
-|First Classificaton+Regression Models - How to?? When to?? of Modeling | |[Blog + Code](https://www.kaggle.com/mukeshmanral/first-model-how-to-what-to-classif-regre) | |
-|Linear Regression Math+implementation+Project+Interview-Questions|[Blog + code](https://www.kaggle.com/mukeshmanral/linear-regression)|||
-|Linear Regression (Basic)| |[Code + Blog](https://www.kaggle.com/mukeshmanral/linear-regression-basic)| |
-|Multiple Linear Regression (Basic) | |[Code + Blog](https://www.kaggle.com/mukeshmanral/multiple-linear-regression-basic/notebook) | |
-|Polynomial Regression (Basic) | |[Code + Blog](https://www.kaggle.com/mukeshmanral/polynomial-regression-basic) | |
-|Advance Linear Regression  +GridSearchCV + HyperParameterTuning(Basic) | |[Code](https://www.kaggle.com/mukeshmanral/advance-linear-regression-gridsearchcv-hpt-basic?scriptVersionId=77957379) | |
-|Deriving Logistic Regression-Maths(plane + hyper-plane + Probabilistic interpretations + Geometric interpretations + Loss interpretations + Squashing Function Optimization + Regularization) + Application |[Blog](https://www.kaggle.com/mukeshmanral/derivinglogisticregression-maths-application) | [Code](https://www.kaggle.com/mukeshmanral/derivinglogisticregression-maths-application)| |
-|k-NN Algorithm-1 (Basic) | |[Code + Blog](https://www.kaggle.com/mukeshmanral/k-nn-algorithm-1-basic/notebook) | |
-|k-NN Algorithm-2 (Basic) | |[Code + Blog](https://www.kaggle.com/mukeshmanral/k-nn-algorithm-2-basic) | |
-| Propose Saving Options for for India based Poultry Farm having spending of appx 22 billion | | [Code+Blog+KPI's](https://github.com/MvMukesh/Spend_Analysis-ProposedSavingOptions)|
-|PCA application you must know things | |[Code + Blog](https://www.kaggle.com/mukeshmanral/pca-basic) | |
-|Vehicle Loan Default Prediction [EDA + Model]||[Code](https://www.kaggle.com/mukeshmanral/vehicle-loan-default-prediction-eda-model)||
-|Bagging(ensemble_concept[RF-ExTree])(Basic) | |[Code + Blog](https://www.kaggle.com/mukeshmanral/bagging-ensemble-concept-rf-extree-basic) | |
+| Machine Learning                | Blog + Code Link                                                | Video Link   |
+|---------------------------------|-----------------------------------------------------------------|--------------|
+|Machine Learning Life Cycle      |[Link](https://www.kaggle.com/mukeshmanral/machine-learning-life-cycle-basic/edit/run/88227239)| |
+|Simple to understand ML framework| [Link](https://github.com/MvMukesh/ML-ProblemSolving-FrameWork) |  |
+|Problem Solving[Mapping Business Problem to Data Science Problem] | [Link](https://www.kaggle.com/code/mukeshmanral/mapping-business-problem-to-data-science-problem/)| |
+|First Classificaton+Regression Models - How to?? When to?? of Modeling |[Link](https://www.kaggle.com/mukeshmanral/first-model-how-to-what-to-classif-regre) | |
+|Linear Regression Math+implementation+Project+Interview-Questions|[Link](https://www.kaggle.com/mukeshmanral/linear-regression)||
+|Linear Regression (Basic) |[Link](https://www.kaggle.com/mukeshmanral/linear-regression-basic)| |
+|Multiple Linear Regression (Basic) |[Link](https://www.kaggle.com/mukeshmanral/multiple-linear-regression-basic/notebook) | |
+|Polynomial Regression (Basic) |[Link](https://www.kaggle.com/mukeshmanral/polynomial-regression-basic) | |
+|Advance Linear Regression  +GridSearchCV + HyperParameterTuning(Basic) |[Link](https://www.kaggle.com/mukeshmanral/advance-linear-regression-gridsearchcv-hpt-basic?scriptVersionId=77957379) | |
+|Deriving Logistic Regression-Maths(plane + hyper-plane + Probabilistic interpretations + Geometric interpretations + Loss interpretations + Squashing Function Optimization + Regularization) + Application |[Link](https://www.kaggle.com/mukeshmanral/derivinglogisticregression-maths-application) | |
+|k-NN Algorithm-1 (Basic) |[Link](https://www.kaggle.com/mukeshmanral/k-nn-algorithm-1-basic/notebook) | |
+|k-NN Algorithm-2 (Basic) |[Link](https://www.kaggle.com/mukeshmanral/k-nn-algorithm-2-basic) | |
+| Propose Saving Options for for India based Poultry Farm having spending of appx 22 billion | [Link+KPI's](https://github.com/MvMukesh/Spend_Analysis-ProposedSavingOptions)| |
+|PCA application you must know things |[Link](https://www.kaggle.com/mukeshmanral/pca-basic) | |
+|Vehicle Loan Default Prediction [EDA + Model]|[Link](https://www.kaggle.com/mukeshmanral/vehicle-loan-default-prediction-eda-model)||
+|Bagging(ensemble_concept[RF-ExTree])(Basic) |[Link](https://www.kaggle.com/mukeshmanral/bagging-ensemble-concept-rf-extree-basic) | |
 
 
 
