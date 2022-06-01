@@ -31,10 +31,10 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 
 # Deep Learning
 
-| Deep Learning| Blog Link |Code Link | Video Link   |
-|--------------|----------|----------|--------------|
-|Neural Network(Keras)+ Application | |[Code + Blog](https://www.kaggle.com/mukeshmanral/neural-network-keras-basic-only-84) | |
-| Deep Learning + Hyper Parameter Tuning + Activation Functions + Selecting Right Activation Function + Optimizer + Loss, Error, Cost Functions + Project(Keras): Loan Prediction + Project: Image Classification(Emergency Vs Non-Emergency Vehicle) using NN |  [Blog](https://www.kaggle.com/mukeshmanral/deep-learning-basic-project) | [Code](https://www.kaggle.com/mukeshmanral/deep-learning-basic-project)   ||
+| Deep Learning| Code + Blog Link | Video Link   |
+|--------------|----------|--------------|
+|Neural Network(Keras)+ Application |[Code + Blog](https://www.kaggle.com/mukeshmanral/neural-network-keras-basic-only-84) | |
+| Deep Learning + Hyper Parameter Tuning + Activation Functions + Selecting Right Activation Function + Optimizer + Loss, Error, Cost Functions + Project(Keras): Loan Prediction + Project: Image Classification(Emergency Vs Non-Emergency Vehicle) using NN |  [Blog](https://www.kaggle.com/mukeshmanral/deep-learning-basic-project)|
 
 
 # Recommender System 
