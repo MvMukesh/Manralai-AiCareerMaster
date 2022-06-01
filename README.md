@@ -36,7 +36,7 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 |--------------------|------------------|--------------|
 |Creating New Features |[Link](https://www.kaggle.com/code/mukeshmanral/feature-engineering-creating-new-feature) | |
 |Imputation (categorical,numerical) + Handling Outliers (standard deviation,percentile) + Scaling (normalization, standardization) + Binning + Encoding Categorical Variable + Featur Encoding (integer,onehot))|[Link](https://www.kaggle.com/mukeshmanral/feature-engineering-dataset-2-basic) |
-|Variable Transformation (Square Root, Reciprocal, Logarithmic, Exponential\Power Transformation|[Link(https://www.kaggle.com/code/mukeshmanral/feature-engineering-dataset-3-basic)] | |
+|Variable Transformation (Square Root, Reciprocal, Logarithmic, Exponential\Power Transformation|[Link](https://www.kaggle.com/code/mukeshmanral/feature-engineering-dataset-3-basic) | |
 |DateTime Engineering |[Link](https://www.kaggle.com/code/mukeshmanral/feature-engineering-dataset-4-basic) | |
   
   
