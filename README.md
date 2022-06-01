@@ -5,6 +5,9 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 
 <hr style="border:40px solid gray"> </hr>
 
+<p align="center">
+  Yep, this is me Mukesh Manral
+  <kbd><img src="https://github.com/MvMukesh/Computer-Vision-Deep-Learning-Projects/blob/main/all%20images/detect%20face%20parts.png"/></kbd>
 
 # Machine Learning 
 
@@ -28,8 +31,11 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 |Bagging(ensemble_concept[RF-ExTree])(Basic) |[Link](https://www.kaggle.com/mukeshmanral/bagging-ensemble-concept-rf-extree-basic) | |
 
 
-
 # Deep Learning
+  
+<p align="center">
+  <kbd><img src="https://github.com/MvMukesh/Computer-Vision-Deep-Learning-Projects/blob/main/all%20images/dl%20timeline.png"/></kbd>
+</p>
 
 | Deep Learning| Code + Blog Link | Video Link   |
 |--------------|----------|--------------|
@@ -38,6 +44,10 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 
 
 # Computer Vision + OpenCV
+
+<p align="center">
+  <kbd><img src="https://github.com/MvMukesh/Computer-Vision-Deep-Learning-Projects/blob/main/all%20images/Feature%20Selection.png"/></kbd>
+</p>
 
 | Computer Vision | Code + Blog Link|
 |-----------------|-----------|
