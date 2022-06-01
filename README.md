@@ -41,6 +41,7 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 |--------------|----------|--------------|
 |Neural Network + ANN-Application-3 projects |[Link](https://www.kaggle.com/code/mukeshmanral/neural-networks-ann-projects/notebook?scriptVersionId=89900300) | |
 | Deep Learning + Hyper Parameter Tuning + Activation Functions + Selecting Right Activation Function + Optimizer + Loss, Error, Cost Functions + Project(Keras): Loan Prediction + Project: Image Classification(Emergency Vs Non-Emergency Vehicle) using NN |  [Link](https://www.kaggle.com/code/mukeshmanral/deep-learning-basic-project/notebook)|
+|TensorFlow_2.x Basics|[Link](https://www.kaggle.com/mukeshmanral/tensorflow-2-x-basics) |
 
 
 # Computer Vision + OpenCV
