@@ -84,11 +84,11 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 
 
 
-# Natural Language Processing
+# Deployment
 
-| Natural Language Processing                                                                | Demo Link                                                                                                               | Code Link                                                                          |
-|--------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| NA                                           | [---]()                                | [---](link)   |
+| Deployment  |Code + Blog Link  |  Video Link|
+|-------------|-------------|------------------|
+| NA          | [Link](https://www.kaggle.com/code/mukeshmanral/deploying-ml-and-dl-models-streamlit-coalb-on-aws)| [---](link)   |
 
 <hr style="border:40px solid gray"> </hr>
 
