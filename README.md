@@ -9,6 +9,12 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
   Yep, this is me Mukesh Manral
   <kbd><img src="https://github.com/MvMukesh/Computer-Vision-Deep-Learning-Projects/blob/main/all%20images/detect%20face%20parts.png"/></kbd>
 
+# Data Analysis
+|Data Analysis | Code + Blog Link | Video Link |
+|--------------|------------------|------------|
+|Answer to --> How to Perform EDA |[Link](https://www.kaggle.com/mukeshmanral/answer-to-how-to-perform-eda) | |
+  
+  
 # Machine Learning 
 
 | Machine Learning                | Code + Blog Link                                                | Video Link   |
