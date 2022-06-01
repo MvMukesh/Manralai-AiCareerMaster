@@ -38,9 +38,11 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 </p>
 
 | Deep Learning| Code + Blog Link | Video Link   |
-|--------------|----------|--------------|
+|--------------|------------------|--------------|
 |Neural Network + ANN-Application-3 projects |[Link](https://www.kaggle.com/code/mukeshmanral/neural-networks-ann-projects/notebook?scriptVersionId=89900300) | |
+| Deep Learning - 1 |[Link](https://www.kaggle.com/code/mukeshmanral/1-deeplearning) | |
 | Deep Learning + Hyper Parameter Tuning + Activation Functions + Selecting Right Activation Function + Optimizer + Loss, Error, Cost Functions + Project(Keras): Loan Prediction + Project: Image Classification(Emergency Vs Non-Emergency Vehicle) using NN |  [Link](https://www.kaggle.com/code/mukeshmanral/deep-learning-basic-project/notebook)|
+|Loan Prediction Using Neural Network in Keras |[Link](https://www.kaggle.com/code/mukeshmanral/loan-prediction-using-neural-network-keras) | |
 |TensorFlow_2.x Basics|[Link](https://www.kaggle.com/mukeshmanral/tensorflow-2-x-basics) |
 
 
@@ -54,6 +56,8 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 |-----------------|-----------|
 | OpenCV Basic-0| [Link](https://www.kaggle.com/code/mukeshmanral/opencvbasic-0/)
 | OpenCV Basic-1| [Link](https://www.kaggle.com/mukeshmanral/opencv-basics-1) |
+| Opencv Basic_Image_Processing_Operations|[Link](https://www.kaggle.com/code/mukeshmanral/opencv-basic-image-processing-operations) |
+| Opencv Histograms)| [Link](https://www.kaggle.com/code/mukeshmanral/opencv-histograms)|
 | Neural Networks & Parameterized Learning | [Link](https://www.kaggle.com/mukeshmanral/neural-networks-and-parameterized-learning)|
 | Optimization Methods & Regularization|[Link](https://www.kaggle.com/code/mukeshmanral/optimization-methods-and-regularization)|
 
