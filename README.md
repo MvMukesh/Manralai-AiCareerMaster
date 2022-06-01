@@ -31,6 +31,12 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 |Bagging(ensemble_concept[RF-ExTree])(Basic) |[Link](https://www.kaggle.com/mukeshmanral/bagging-ensemble-concept-rf-extree-basic) | |
 
 
+# Feature Engineering 
+| Feature Engineering| Code + Blog Link | Video Link   |
+|--------------------|------------------|--------------|
+| | | |
+  
+  
 # Deep Learning
   
 <p align="center">
