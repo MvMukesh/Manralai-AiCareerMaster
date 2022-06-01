@@ -8,7 +8,7 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 
 # Machine Learning 
 
-| Machine Learning                | Blog + Code Link                                                | Video Link   |
+| Machine Learning                | Code + Blog Link                                                | Video Link   |
 |---------------------------------|-----------------------------------------------------------------|--------------|
 |Machine Learning Life Cycle      |[Link](https://www.kaggle.com/mukeshmanral/machine-learning-life-cycle-basic/edit/run/88227239)| |
 |Simple to understand ML framework| [Link](https://github.com/MvMukesh/ML-ProblemSolving-FrameWork) |  |
@@ -50,19 +50,19 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 
 # Recommender System 
 
-| Recommender System                | Blog Link                                                                              | Code Link     | Video Link   |
-|-----------------------------------|----------------------------------------------------------------------------------------|---------------|--------------|
-|Recommendation System Basic-(surprise_library) + All Why,What,When not, When to covered + Maths Covered +Project: Movie Recommendation(Non Personalised Recommender Systems using Count of Ratings (4 & above) + Weak Personalisation using Gender Information) + Personalised Recommender Systems + Collaborative Filtering & Types + Application of User-Based Collaborative Filtering from Scratch + Application of User Based Collaborative Filtering using [ Surprise Library ] + [ Scalability Challange ] for User Based Collaborative Filtering + Item-Based Collaborative Filtering + Implementation Item-Based Collaborative Filtering + Challenges for Neightbourhood Based Methods + Rating Prediction using [ Matrix Factorization with SVD ] + in progress| [Blog](https://www.kaggle.com/mukeshmanral/recommendation-system-basic-surprise-library) |  [Code](https://www.kaggle.com/mukeshmanral/recommendation-system-basic-surprise-library) ||
-|Why Business (H&M) cares about Product Recommendation?? |[Blog](https://www.kaggle.com/mukeshmanral/why-h-m-cares-about-product-recommendation)|[Code](https://www.kaggle.com/mukeshmanral/why-h-m-cares-about-product-recommendation) | |
-|End to End Recommender System |[Blog](https://www.kaggle.com/mukeshmanral/end-to-end-recommender-system)|[Code](https://www.kaggle.com/mukeshmanral/end-to-end-recommender-system) | |
+| Recommender System                | Code + Blog Link                                                                       | Video Link   |
+|-----------------------------------|----------------------------------------------------------------------------------------|--------------|
+|Recommendation System Basic-(surprise_library) + All Why,What,When not, When to covered + Maths Covered +Project: Movie Recommendation(Non Personalised Recommender Systems using Count of Ratings (4 & above) + Weak Personalisation using Gender Information) + Personalised Recommender Systems + Collaborative Filtering & Types + Application of User-Based Collaborative Filtering from Scratch + Application of User Based Collaborative Filtering using [ Surprise Library ] + [ Scalability Challange ] for User Based Collaborative Filtering + Item-Based Collaborative Filtering + Implementation Item-Based Collaborative Filtering + Challenges for Neightbourhood Based Methods + Rating Prediction using [ Matrix Factorization with SVD ] + in progress| [Link](https://www.kaggle.com/mukeshmanral/recommendation-system-basic-surprise-library) | |
+|Why Business (H&M) cares about Product Recommendation?? |[Link](https://www.kaggle.com/mukeshmanral/why-h-m-cares-about-product-recommendation)| |
+|End to End Recommender System |[Link](https://www.kaggle.com/mukeshmanral/end-to-end-recommender-system) | |
 
 
 
 # Spark Ecosystem
 
-|Spark Ecosystem | Blog Link | Code Link | Video Link|
-|--------------|-----------|-----------|-----------|
-|Spark Ecosystem(Big Data + Apache Hadoop[HDFS,YARN,MapReduce] + Spark Ecosystem[Architecture,Cluster Manager,Running application - Locally and on YARN,SparkContext vs SparkSession,spark Dataframe+Execution]+spark sql api+spark ml) |[Blog + Code](https://www.kaggle.com/mukeshmanral/apache-spark-basic) | | |
+|Spark Ecosystem | Code + Blog Link| Video Link|
+|--------------|-----------|-----------|
+|Spark Ecosystem(Big Data + Apache Hadoop[HDFS,YARN,MapReduce] + Spark Ecosystem[Architecture,Cluster Manager,Running application - Locally and on YARN,SparkContext vs SparkSession,spark Dataframe+Execution]+spark sql api+spark ml) |[Link](https://www.kaggle.com/mukeshmanral/apache-spark-basic) | |
 
 
 # AWS
