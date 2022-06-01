@@ -37,6 +37,17 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 | Deep Learning + Hyper Parameter Tuning + Activation Functions + Selecting Right Activation Function + Optimizer + Loss, Error, Cost Functions + Project(Keras): Loan Prediction + Project: Image Classification(Emergency Vs Non-Emergency Vehicle) using NN |  [Link](https://www.kaggle.com/code/mukeshmanral/deep-learning-basic-project/notebook)|
 
 
+# Computer Vision + OpenCV
+
+| Computer Vision | Code + Blog Link|
+|-----------------|-----------|
+| OpenCV Basic-0| [Link](https://www.kaggle.com/code/mukeshmanral/opencvbasic-0/)
+| OpenCV Basic-1| [Link](https://www.kaggle.com/mukeshmanral/opencv-basics-1) |
+| Neural Networks & Parameterized Learning | [Link](https://www.kaggle.com/mukeshmanral/neural-networks-and-parameterized-learning)|
+| Optimization Methods & Regularization|[Link](https://www.kaggle.com/code/mukeshmanral/optimization-methods-and-regularization)|
+
+
+
 # Recommender System 
 
 | Recommender System                | Blog Link                                                                              | Code Link     | Video Link   |
@@ -60,15 +71,6 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 |--------------|-----------|-----------|
 |Cloud Computing(AWS) | [Blog](https://www.kaggle.com/mukeshmanral/cloud-computing-aws) | [Play List not yet updated](#) |
 | AWS Sagemaker | [Blog](#) | Play List not yet updated(#)|
-
-
-
-# Computer Vision + OpenCV
-
-| Computer Vision | Code + Blog Link|
-|-----------------|-----------|
-| OpenCV Basic-1| [OpenCV Basic-1](https://www.kaggle.com/mukeshmanral/opencv-basics-1) |
-| Neural Networks & Parameterized Learning | [Neural Networks & Parameterized Learning](https://www.kaggle.com/mukeshmanral/neural-networks-and-parameterized-learning)|
 
 
 
