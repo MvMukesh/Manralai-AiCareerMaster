@@ -119,7 +119,7 @@ These all resources will guide you in understanding fundamental concepts to be l
 
 >> Python : programming language
 
-|S.NO.| Python Topic|
+|S.NO.| Topic to Learn|
 |-----|-------------|
 |1. |[Python variables](https://www.programiz.com/python-programming/variables-constants-literals), [Statements](https://www.programiz.com/python-programming/statement-indentation-comments), [Data types](https://www.programiz.com/python-programming/variables-datatypes) |
 |2. |[Arithmetic Operations](https://www.w3schools.com/python/gloss_python_arithmetic_operators.asp),[Logical and Relational Operations](https://www.geeksforgeeks.org/python-logical-operators-with-examples-improvement-needed/)|
@@ -132,6 +132,29 @@ These all resources will guide you in understanding fundamental concepts to be l
 |9. |[Seaborn, Matplotlib, plotly](https://mlcourse.ai/articles/topic2-part2-seaborn-plotly/) |
 |10. |[Scipy, Statsmodels](https://mode.com/python-tutorial/libraries/statsmodels/) |
 
+>> SQL : structured data base
+
+|S.NO.| Topic to Learn|
+|-----|-------------|
+|1. |[Create, Insert, Alter Tables](https://www.w3schools.com/sql/sql_ref_table.asp) |
+|2. |[Aggregating, Manipulating and Filtering Data](https://learnsql.com/cookbook/how-to-filter-records-with-aggregate-function-avg/#:~:text=To%20filter%20records%20using%20the,%2C%20AVG(price)%20) |
+|3. |[Joins and Sub Queries](https://www.geeksforgeeks.org/sql-join-vs-subquery/#:~:text=Most%20join%20queries%20contain%20at,clause%20of%20another%20SQL%20statement) |
+|4. |[Window Functions](https://mode.com/sql-tutorial/sql-window-functions/) |
+|5. |[Unions](https://stackoverflow.com/questions/751838/create-an-index-on-sql-view-with-union-operators-will-it-really-improve-perform#:~:text=UNION%20forces%20a%20distinct%20to%20occur%20and%20there's%20little%20slower%20than%20DISTINCT.&text=There's%20no%20possibility%20that%20you,important%20than%20creating%20view%20indexes.) |
+|6. |[Index](https://www.w3schools.com/sql/sql_create_index.asp) |
+|7. |[Regex](https://dataschool.com/how-to-teach-people-sql/how-regex-works-in-sql/) |
+
+>> Ms-Excel : usefull
+
+|S.NO.| Topic to Learn|
+|-----|-------------|
+|1. |[Mathematical, Relational ,Logical Operations](https://dataschool.com/how-to-teach-people-sql/how-regex-works-in-sql/) |
+|2. |[Lookups](https://exceljet.net/excel-functions/excel-lookup-function) |
+|3. |[Index](https://support.microsoft.com/en-us/office/index-function-a5dcf0dd-996d-40a4-a822-b56b061328bd) |
+|4. |[Match](https://exceljet.net/excel-functions/excel-match-function) |
+|5. |[Charts & Pivot Tables](https://magoosh.com/excel/excel-pivot-chart/) |
+|6. |[Macros](https://support.microsoft.com/en-us/office/quick-start-create-a-macro-741130ca-080d-49f5-9471-1e5fb3d581a8#:~:text=If%20you%20have%20tasks%20in,your%20mouse%20clicks%20and%20keystrokes.) |
+|7. |[Dashboarding](https://www.smartsheet.com/how-create-dashboard-excel) |
 
 |. |[]() |
 |. |[]() |
@@ -142,10 +165,14 @@ These all resources will guide you in understanding fundamental concepts to be l
 |. |[]() |
 |. |[]() |
 |. |[]() |
-|. |[]() |
-|. |[]() |
-|. |[]() |
-|. |[]() |
+
+
+
+
+
+
+
+
 
 
 
