@@ -123,7 +123,29 @@ These all resources will guide you in understanding fundamental concepts to be l
 |-----|-------------|
 |1. |[Python variables](https://www.programiz.com/python-programming/variables-constants-literals), [Statements](https://www.programiz.com/python-programming/statement-indentation-comments), [Data types](https://www.programiz.com/python-programming/variables-datatypes) |
 |2. |[Arithmetic Operations](https://www.w3schools.com/python/gloss_python_arithmetic_operators.asp),[Logical and Relational Operations](https://www.geeksforgeeks.org/python-logical-operators-with-examples-improvement-needed/)|
+|3. |[for-loop, while-loop,if-condition, nested-loops](https://data36.com/python-nested-loops-if-statements-combined-data-sciene/) |
+|4. |[User defined functions](https://beginnersbook.com/2019/06/python-user-defined-functions/) |
+|5. |[Python data structures](https://realpython.com/python-data-structures/)|
+|6. |[OOP's - Classes and Objects](https://www.programiz.com/python-programming/object-oriented-programming) |
+|7. |[Numpy - Matrix operations](https://www.edureka.co/blog/python-numpy-tutorial/) |
+|8. |[Pandas - Data frame operations](https://www.kaggle.com/learn/pandas) |
+|9. |[Seaborn, Matplotlib, plotly](https://mlcourse.ai/articles/topic2-part2-seaborn-plotly/) |
+|10. |[Scipy, Statsmodels](https://mode.com/python-tutorial/libraries/statsmodels/) |
 
+
+|. |[]() |
+|. |[]() |
+|. |[]() |
+|. |[]() |
+|. |[]() |
+|. |[]() |
+|. |[]() |
+|. |[]() |
+|. |[]() |
+|. |[]() |
+|. |[]() |
+|. |[]() |
+|. |[]() |
 
 
 
