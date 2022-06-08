@@ -117,9 +117,9 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 
 These all resources will guide you in understanding fundamental concepts to be learnt in initial stage of data journy. Learn these foundational skills, it will be really helpful for you to build advanced skills in data science.
 
-> Month-1 : Foundation [enough to be a Business or Data analyst]
+> `Month-1 : Foundation` [enough to be a Business or Data analyst]
 
->> Python : programming language
+>> `Python` : programming language
 
 |S.NO.| Topic to Learn|
 |-----|-------------|
@@ -134,7 +134,7 @@ These all resources will guide you in understanding fundamental concepts to be l
 |9. |[Seaborn, Matplotlib, plotly](https://mlcourse.ai/articles/topic2-part2-seaborn-plotly/) |
 |10. |[Scipy, Statsmodels](https://mode.com/python-tutorial/libraries/statsmodels/) |
 
->> SQL : structured data base
+>> `SQL` : structured data base
 
 |S.NO.| Topic to Learn|
 |-----|-------------|
@@ -146,7 +146,7 @@ These all resources will guide you in understanding fundamental concepts to be l
 |6. |[Index](https://www.w3schools.com/sql/sql_create_index.asp) |
 |7. |[Regex](https://dataschool.com/how-to-teach-people-sql/how-regex-works-in-sql/) |
 
->> Ms-Excel : usefull
+>> `Ms-Excel` : usefull
 
 |S.NO.| Topic to Learn|
 |-----|-------------|
@@ -159,7 +159,7 @@ These all resources will guide you in understanding fundamental concepts to be l
 |7. |[Dashboarding](https://www.smartsheet.com/how-create-dashboard-excel) |
 
 
->> Statistics and Probability : maths part
+>> `Statistics and Probability` : maths part
 
 |S.NO.| Topic to Learn|
 |-----|-------------|
@@ -181,41 +181,47 @@ These all resources will guide you in understanding fundamental concepts to be l
 |16. |[Maximum Likelihood](https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1) |
 
 
->> Applications of Data : data science bird eye view across different domains
+>> `Applications of Data` : data science bird eye view across different domains
 
 |S.NO.| Topic to Learn|
 |-----|-------------|
-|. |[CPG](https://edsoehnel.com/data-science-strategy-for-cpg-and-consumer-product-companies-what-is-it-why-all-companies-including-startups-need-it-and-how-to-develop-one/) |
-|. |[Retail](https://data-flair.training/blogs/data-science-in-retail/#:~:text=Retailers%20are%20using%20data%20science,their%20sales%20and%20hence%20revenue.) |
-|. |[Finance](https://financetrain.com/applications-data-science-banking/#:~:text=Banks%20use%20data%20science%20in,happy%20with%20their%20brand%20offerings.) |
-|. |[Banking](https://www.simplilearn.com/data-science-ai-role-in-banking-finance-article) |
-|. |[Telecom](https://techvidvan.com/tutorials/data-science-in-telecom-industry/) |
-|. |[Pharma](https://www.upgrad.com/blog/data-analytics-pharmaceutical-industry/) |
+|1. |[CPG](https://edsoehnel.com/data-science-strategy-for-cpg-and-consumer-product-companies-what-is-it-why-all-companies-including-startups-need-it-and-how-to-develop-one/) |
+|2. |[Retail](https://data-flair.training/blogs/data-science-in-retail/#:~:text=Retailers%20are%20using%20data%20science,their%20sales%20and%20hence%20revenue.) |
+|3. |[Finance](https://financetrain.com/applications-data-science-banking/#:~:text=Banks%20use%20data%20science%20in,happy%20with%20their%20brand%20offerings.) |
+|4. |[Banking](https://www.simplilearn.com/data-science-ai-role-in-banking-finance-article) |
+|5. |[Telecom](https://techvidvan.com/tutorials/data-science-in-telecom-industry/) |
+|6. |[Pharma](https://www.upgrad.com/blog/data-analytics-pharmaceutical-industry/) |
 
 > NOTE: Now you are having fundamental idea about ==> `What data science is??`, `How to handle data??`, `How to visualize data??`, `How to manipulate and get findings from data??`. Try to cross learn concepts and practice statistical lessons using python. You have skillsets for becoming a `Data Analyst / Business Analyst`.
 
 
+> `Month-2 : Machine Learning Algorithms`
+>> Machine Learning Basics : statistical learning and machine learning
 
-|. |[]() |
-|. |[]() |
-|. |[]() |
-|. |[]() |
-|. |[]() |
-|. |[]() |
-|. |[]() |
-|. |[]() |
-|. |[]() |
-|. |[]() |
-|. |[]() |
-|. |[]() |
-|. |[]() |
-|. |[]() |
-|. |[]() |
-|. |[]() |
-|. |[]() |
-|. |[]() |
-|. |[]() |
-|. |[]() |
+|S.NO.| Topic to Learn|
+|-----|-------------|
+|1. |[Simple & Multiple Linear Regression](https://towardsdatascience.com/understanding-when-simple-and-multiple-linear-regression-give-different-results-7cf6c787766c) |
+|2. |[Penalized Linear Regression Methods -- most commonly used](http://www.sthda.com/english/articles/37-model-selection-essentials-in-r/153-penalized-regression-essentials-ridge-lasso-elastic-net/) |
+|3. |[Penalized non Linear Regression Methods -- most commonly used](https://towardsdatascience.com/machine-learning-with-python-easy-and-robust-method-to-fit-nonlinear-data-19e8a1ddbd49) |
+|4. |[Logistic Regression -- detailed overview](https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc) |
+|5. |[Generalized Linear Models](https://towardsdatascience.com/generalized-linear-models-9cbf848bb8ab) |
+|6. |[Linear Mixed Models](https://stats.idre.ucla.edu/other/mult-pkg/introduction-to-linear-mixed-models/#:~:text=Linear%20mixed%20models%20are%20an,or%20patients%20from%20within%20doctors.) |
+|7. |[]() |
+|8. |[]() |
+|9. |[]() |
+|10. |[]() |
+|11. |[]() |
+|12. |[]() |
+|13. |[]() |
+|14. |[]() |
+|15. |[]() |
+|16. |[]() |
+|17. |[]() |
+|18. |[]() |
+|19. |[]() |
+|20. |[]() |
+
+
 |. |[]() |
 |. |[]() |
 |. |[]() |
