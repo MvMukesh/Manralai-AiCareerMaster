@@ -111,11 +111,13 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 | Deploy ML + Dl models using Colab & AWS          | [Link](https://www.kaggle.com/code/mukeshmanral/deploying-ml-and-dl-models-streamlit-coalb-on-aws)| [---](link)   |
 
 <hr style="border:1000px solid gray"> </hr>
+<hr style="border:1000px solid gray"> </hr>
+<hr style="border:1000px solid gray"> </hr>
 
 
 These all resources will guide you in understanding fundamental concepts to be learnt in initial stage of data journy. Learn these foundational skills, it will be really helpful for you to build advanced skills in data science.
 
-> Month-1 : Foundation
+> Month-1 : Foundation [enough to be a Business or Data analyst]
 
 >> Python : programming language
 
