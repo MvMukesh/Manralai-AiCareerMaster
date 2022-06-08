@@ -179,7 +179,41 @@ These all resources will guide you in understanding fundamental concepts to be l
 |16. |[Maximum Likelihood](https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1) |
 
 
+>> Applications of Data : data science bird eye view across different domains
 
+|S.NO.| Topic to Learn|
+|-----|-------------|
+|. |[CPG](https://edsoehnel.com/data-science-strategy-for-cpg-and-consumer-product-companies-what-is-it-why-all-companies-including-startups-need-it-and-how-to-develop-one/) |
+|. |[Retail](https://data-flair.training/blogs/data-science-in-retail/#:~:text=Retailers%20are%20using%20data%20science,their%20sales%20and%20hence%20revenue.) |
+|. |[Finance](https://financetrain.com/applications-data-science-banking/#:~:text=Banks%20use%20data%20science%20in,happy%20with%20their%20brand%20offerings.) |
+|. |[Banking](https://www.simplilearn.com/data-science-ai-role-in-banking-finance-article) |
+|. |[Telecom](https://techvidvan.com/tutorials/data-science-in-telecom-industry/) |
+|. |[Pharma](https://www.upgrad.com/blog/data-analytics-pharmaceutical-industry/) |
+
+> NOTE: Now you are having fundamental idea about ==> `What data science is??`, `How to handle data??`, `How to visualize data??`, `How to manipulate and get findings from data??`. Try to cross learn concepts and practice statistical lessons using python. You have skillsets for becoming a `Data Analyst / Business Analyst`.
+
+
+
+|. |[]() |
+|. |[]() |
+|. |[]() |
+|. |[]() |
+|. |[]() |
+|. |[]() |
+|. |[]() |
+|. |[]() |
+|. |[]() |
+|. |[]() |
+|. |[]() |
+|. |[]() |
+|. |[]() |
+|. |[]() |
+|. |[]() |
+|. |[]() |
+|. |[]() |
+|. |[]() |
+|. |[]() |
+|. |[]() |
 |. |[]() |
 |. |[]() |
 |. |[]() |
