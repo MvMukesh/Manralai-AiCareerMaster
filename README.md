@@ -156,6 +156,30 @@ These all resources will guide you in understanding fundamental concepts to be l
 |6. |[Macros](https://support.microsoft.com/en-us/office/quick-start-create-a-macro-741130ca-080d-49f5-9471-1e5fb3d581a8#:~:text=If%20you%20have%20tasks%20in,your%20mouse%20clicks%20and%20keystrokes.) |
 |7. |[Dashboarding](https://www.smartsheet.com/how-create-dashboard-excel) |
 
+
+>> Statistics and Probability : maths part
+
+|S.NO.| Topic to Learn|
+|-----|-------------|
+|1. |[Different types of Data](https://www.upgrad.com/blog/types-of-data/) |
+|2. |[Different types of Visualizations](https://www.tableau.com/learn/articles/data-visualization) |
+|3. |[Mean, Median, Frequency, Mode, Sample and Population](http://atozmath.com/example/StatsG.aspx) |
+|4. |[CentralTendency & NormalDistribution -- CentralLimitTheorem](https://bookdown.org/mandyyao98/bookdown-demo-master/lecture-3-central-limit-theorem-and-inference-for-means.html) |
+|5. |[Point Estimate and Confidence Interval, Sampling distribution](https://www.cliffsnotes.com/study-guides/statistics/principles-of-testing/point-estimates-and-confidence-intervals) |
+|6. |[Hypothesis -- Null and Alternate, Hypothesis -- Testing & Distributions](https://www.statisticshowto.com/probability-and-statistics/hypothesis-testing/) |
+|7. |[T-tests, F-tests, Z-test, ANOVA, Chi Square](https://www.sagepub.com/sites/default/files/upm-binaries/40007_Chapter8.pdf) |
+|8. |[Correlation & Covariance](https://www.simplilearn.com/covariance-vs-correlation-article#:~:text=Correlation%20and%20Covariance%20both%20measure,by%20the%20change%20in%20location.) |
+|9. |[Non-Parametric Hypothesis testing](https://towardsdatascience.com/non-parametric-tests-in-hypothesis-testing-138d585c3548) |
+|10. |[Probability & Distributions](https://byjus.com/maths/probability-distribution/) |
+|11. |[Different Probability Distributions](https://towardsdatascience.com/probability-concepts-explained-probability-distributions-introduction-part-3-4a5db81858dc) |
+|12. |[Conditional Probability](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading3.pdf) |
+|13. |[Inverse Probability](https://www.statisticshowto.com/inverse-probability/#:~:text=Inverse%20probability%20is%20the%20probability,generally%20considered%20an%20obsolete%20term.) |
+|14. |[Expectation & Variance](http://theanalysisofdata.com/probability/2_3.html#:~:text=Given%20a%20random%20variable%2C%20we,Definition%202.3.) |
+|15. |[	Bayes Theorem](https://www.investopedia.com/terms/b/bayes-theorem.asp) |
+|16. |[Maximum Likelihood](https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1) |
+
+
+
 |. |[]() |
 |. |[]() |
 |. |[]() |
