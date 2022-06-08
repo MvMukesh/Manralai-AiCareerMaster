@@ -110,6 +110,21 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 |-------------|-------------|------------------|
 | Deploy ML + Dl models using Colab & AWS          | [Link](https://www.kaggle.com/code/mukeshmanral/deploying-ml-and-dl-models-streamlit-coalb-on-aws)| [---](link)   |
 
-<hr style="border:40px solid gray"> </hr>
+<hr style="border:1000px solid gray"> </hr>
+
+
+These all resources will guide you in understanding fundamental concepts to be learnt in initial stage of data journy. Learn these foundational skills, it will be really helpful for you to build advanced skills in data science.
+
+> Month-1 : Foundation
+
+>> Python : programming language
+
+|S.NO.| Python Topic|
+|-----|-------------|
+|1. |[Python variables](https://www.programiz.com/python-programming/variables-constants-literals), [Statements](https://www.programiz.com/python-programming/statement-indentation-comments), [Data types](https://www.programiz.com/python-programming/variables-datatypes) |
+|2. |[Arithmetic Operations](https://www.w3schools.com/python/gloss_python_arithmetic_operators.asp),[Logical and Relational Operations](https://www.geeksforgeeks.org/python-logical-operators-with-examples-improvement-needed/)|
+
+
+
 
 
