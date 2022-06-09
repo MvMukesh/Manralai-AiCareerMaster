@@ -206,11 +206,11 @@ These all resources will guide you in understanding fundamental concepts to be l
 |4. |[Logistic Regression -- detailed overview](https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc) |
 |5. |[Generalized Linear Models](https://towardsdatascience.com/generalized-linear-models-9cbf848bb8ab) |
 |6. |[Linear Mixed Models](https://stats.idre.ucla.edu/other/mult-pkg/introduction-to-linear-mixed-models/#:~:text=Linear%20mixed%20models%20are%20an,or%20patients%20from%20within%20doctors.) |
-|7. |[]() |
-|8. |[]() |
-|9. |[]() |
-|10. |[]() |
-|11. |[]() |
+|7. |[Decision Trees, Random forests -- (Bagging)](https://www.upgrad.com/blog/random-forest-vs-decision-tree/#:~:text=A%20decision%20tree%20combines%20some,forest%20model%20needs%20rigorous%20training.) |
+|8. |[Gradient -- (Boosting)](https://www.mygreatlearning.com/blog/gradient-boosting/#:~:text=Gradient%20boosting%20re%2Ddefines%20boosting,minimum%20of%20a%20differentiable%20function.) |
+|9. |[Adaptive Gradient -- (Boosting)](https://www.analyticsvidhya.com/blog/2020/10/adaboost-and-gradient-boost-comparitive-study-between-2-popular-ensemble-model-techniques/) |
+|10. |[Extreme Gradient Boosting, Cat Boost, Light Gradient Boost](https://medium.com/riskified-technology/xgboost-lightgbm-or-catboost-which-boosting-algorithm-should-i-use-e7fda7bb36bc) |
+|11. |[Stacking & Blending](https://www.mygreatlearning.com/blog/ensemble-learning/) |
 |12. |[]() |
 |13. |[]() |
 |14. |[]() |
