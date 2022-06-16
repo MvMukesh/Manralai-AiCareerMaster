@@ -112,6 +112,7 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 
 <hr style="border:1000px solid gray"> </hr>
 <hr style="border:1000px solid gray"> </hr>
+These are some more external links which one can find usefull as well
 <hr style="border:1000px solid gray"> </hr>
 
 
