@@ -211,26 +211,6 @@ These all resources will guide you in understanding fundamental concepts to be l
 |9. |[Adaptive Gradient -- (Boosting)](https://www.analyticsvidhya.com/blog/2020/10/adaboost-and-gradient-boost-comparitive-study-between-2-popular-ensemble-model-techniques/) |
 |10. |[Extreme Gradient Boosting, Cat Boost, Light Gradient Boost](https://medium.com/riskified-technology/xgboost-lightgbm-or-catboost-which-boosting-algorithm-should-i-use-e7fda7bb36bc) |
 |11. |[Stacking & Blending](https://www.mygreatlearning.com/blog/ensemble-learning/) |
-|12. |[]() |
-|13. |[]() |
-|14. |[]() |
-|15. |[]() |
-|16. |[]() |
-|17. |[]() |
-|18. |[]() |
-|19. |[]() |
-|20. |[]() |
-
-
-|. |[]() |
-|. |[]() |
-|. |[]() |
-|. |[]() |
-|. |[]() |
-|. |[]() |
-|. |[]() |
-|. |[]() |
-|. |[]() |
 
 
 
