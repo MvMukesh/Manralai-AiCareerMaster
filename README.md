@@ -69,10 +69,9 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 
 | Computer Vision | Code + Blog Link|
 |-----------------|-----------|
-| OpenCV Basic-0| [Link](https://www.kaggle.com/code/mukeshmanral/opencvbasic-0/)
-| OpenCV Basic-0.1| [Link](https://www.kaggle.com/mukeshmanral/opencv-basics-1) |
-| Image_Processing_Operations|[Link](https://www.kaggle.com/code/mukeshmanral/opencv-basic-image-processing-operations) |
-| Image Histograms)| [Link](https://www.kaggle.com/mukeshmanral/opencv-image-histograms)|
+| OpenCV Basic| [Link](https://www.kaggle.com/code/mukeshmanral/opencv-basic-0/)
+| Image Processing Operations|[Link](https://www.kaggle.com/code/mukeshmanral/opencv-basic-image-processing-operations) |
+| Image Histograms)| [Link](https://www.kaggle.com/code/mukeshmanral/opencv-image-histograms)|
 | Neural Networks & Parameterized Learning | [Link](https://www.kaggle.com/mukeshmanral/neural-networks-and-parameterized-learning)|
 | Optimization Methods & Regularization|[Link](https://www.kaggle.com/code/mukeshmanral/optimization-methods-and-regularization)|
 
