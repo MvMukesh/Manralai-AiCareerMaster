@@ -54,8 +54,8 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 
 | Deep Learning| Code + Blog Link | Video Link   |
 |--------------|------------------|--------------|
-|Neural Network + ANN-Application-3 projects |[Link](https://www.kaggle.com/code/mukeshmanral/neural-networks-ann-projects/notebook?scriptVersionId=89900300) | |
 | Deep Learning + Hyper Parameter Tuning + Activation Functions + Selecting Right Activation Function + Optimizer + Loss, Error, Cost Functions + Project(Keras): Loan Prediction + Project: Image Classification(Emergency Vs Non-Emergency Vehicle) using NN |  [Link](https://www.kaggle.com/code/mukeshmanral/deep-learning-basic-project/notebook?scriptVersionId=99843853)|
+|Neural Network + ANN-Application-3 projects |[Link](https://www.kaggle.com/code/mukeshmanral/neural-networks-ann-projects/notebook?scriptVersionId=89900300) | |
 |Loan Prediction Using Neural Network in Keras |[Link](https://www.kaggle.com/code/mukeshmanral/loan-prediction-using-neural-network-keras) | |
 |TensorFlow_2.x Basics|[Link](https://www.kaggle.com/mukeshmanral/tensorsflow-2-x-tensor-shape-type-sessions-operato) |
 
@@ -210,15 +210,4 @@ These all resources will guide you in understanding fundamental concepts to be l
 |9. |[Adaptive Gradient -- (Boosting)](https://www.analyticsvidhya.com/blog/2020/10/adaboost-and-gradient-boost-comparitive-study-between-2-popular-ensemble-model-techniques/) |
 |10. |[Extreme Gradient Boosting, Cat Boost, Light Gradient Boost](https://medium.com/riskified-technology/xgboost-lightgbm-or-catboost-which-boosting-algorithm-should-i-use-e7fda7bb36bc) |
 |11. |[Stacking & Blending](https://www.mygreatlearning.com/blog/ensemble-learning/) |
-
-
-
-
-
-
-
-
-
-
-
 
