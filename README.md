@@ -33,6 +33,7 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 |k-NN Algorithm-2 (Basic) |[Link](https://www.kaggle.com/mukeshmanral/k-nn-algorithm-2-basic) | |
 | Propose Saving Options for for India based Poultry Farm having spending of appx 22 billion | [Link+KPI's](https://github.com/MvMukesh/Spend_Analysis-ProposedSavingOptions)| |
 |PCA application you must know things |[Link](https://www.kaggle.com/mukeshmanral/pca-basic) | |
+|PCA application step by step - 2 | [Link](https://www.kaggle.com/mukeshmanral/pca-2-reducing-dimensions/)||
 |Vehicle Loan Default Prediction [EDA + Model]|[Link](https://www.kaggle.com/mukeshmanral/vehicle-loan-default-prediction-eda-model)||
 |Bagging(ensemble_concept[RF-ExTree])(Basic) |[Link](https://www.kaggle.com/mukeshmanral/bagging-ensemble-concept-rf-extree-basic) | |
 
