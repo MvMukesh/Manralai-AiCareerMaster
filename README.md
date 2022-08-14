@@ -32,8 +32,8 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 |k-NN Algorithm-1 (Basic) |[Link](https://www.kaggle.com/mukeshmanral/k-nn-algorithm-1-basic/notebook) | |
 |k-NN Algorithm-2 (Basic) |[Link](https://www.kaggle.com/mukeshmanral/k-nn-algorithm-2-basic) | |
 | Propose Saving Options for for India based Poultry Farm having spending of appx 22 billion | [Link+KPI's](https://github.com/MvMukesh/Spend_Analysis-ProposedSavingOptions)| |
-|PCA application you must know things |[Link](https://www.kaggle.com/mukeshmanral/pca-basic) | |
-|PCA application step by step - 2 | [Link](https://www.kaggle.com/mukeshmanral/pca-2-reducing-dimensions/)||
+|PCA application you must know things |[Link](https://www.kaggle.com/mukeshmanral/pca-basic) | [PCA - Second Principal Component have to be orthogonal to first one? See Why!](https://www.linkedin.com/pulse/pca-second-principal-component-have-orthogonal-first-mukesh-manral/) |
+|PCA application step by step - 2 | [Link](https://www.kaggle.com/mukeshmanral/pca-2-reducing-dimensions/)|[PCA-1](https://www.linkedin.com/pulse/principal-component-analysis-dimension-reduction-1-mukesh-manral/?trackingId=rRnwC6pA6hD%2BzFWumbYjlw%3D%3D), [PCA-2]()|
 |Vehicle Loan Default Prediction [EDA + Model]|[Link](https://www.kaggle.com/mukeshmanral/vehicle-loan-default-prediction-eda-model)||
 |Bagging(ensemble_concept[RF-ExTree])(Basic) |[Link](https://www.kaggle.com/mukeshmanral/bagging-ensemble-concept-rf-extree-basic) | |
 
