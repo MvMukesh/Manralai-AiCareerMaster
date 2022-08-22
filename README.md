@@ -6,7 +6,7 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 <hr style="border:40px solid gray"> </hr>
 
 <p align="center">
-  Yep, this is Mukesh Manral
+    This is Mukesh Manral
   <kbd><img src="https://github.com/MvMukesh/Computer-Vision-Deep-Learning-Projects/blob/main/all%20images/detect%20face%20parts.png"/></kbd>
 
 # Data Analysis
