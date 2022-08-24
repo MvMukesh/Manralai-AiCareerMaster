@@ -17,7 +17,7 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
   
 # Machine Learning 
 
-| Machine Learning                | Code + Blog Link                                                | Video Link   |
+| Machine Learning                | Code + Blog Link                                                | Blog - Video Link   |
 |---------------------------------|-----------------------------------------------------------------|--------------|
 |Machine Learning Life Cycle      |[Link](https://www.kaggle.com/mukeshmanral/machine-learning-life-cycle-basic/edit/run/88227239)| |
 |Simple to understand ML framework| [Link](https://github.com/MvMukesh/ML-ProblemSolving-FrameWork) |  |
