@@ -66,6 +66,7 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 |Loan Prediction Using Neural Network in Keras |[Link](https://www.kaggle.com/code/mukeshmanral/loan-prediction-using-neural-network-keras) | |
 |TensorFlow_2.x Basics|[Link](https://www.kaggle.com/mukeshmanral/tensorsflow-2-x-tensor-shape-type-sessions-operato) ||
 |CNN on Cifar10 |[Link](https://www.kaggle.com/code/mukeshmanral/cnn-on-cifar10/notebook) | |
+|Image Captioning using Keras |[Link](https://www.kaggle.com/code/mukeshmanral/image-captioning-using-keras/notebook) | |
 
 
 # Computer Vision + OpenCV
