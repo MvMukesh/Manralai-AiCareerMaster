@@ -57,6 +57,7 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 | Deep Learning| Code + Blog Link | Video Link   |
 |--------------|------------------|--------------|
 | Deep Learning + Hyper Parameter Tuning + Activation Functions + Selecting Right Activation Function + Optimizer + Loss, Error, Cost Functions + Project(Keras): Loan Prediction + Project: Image Classification(Emergency Vs Non-Emergency Vehicle) using NN |  [Link](https://www.kaggle.com/code/mukeshmanral/deep-learning-basic-project/notebook?scriptVersionId=99843853)|
+|Basics of ActivationFunctions & Optimizers |[Link](https://www.kaggle.com/code/mukeshmanral/basics-activation-functions-optimizers/notebook) | |
 |Optimization Methods & Regularization |[Link](https://www.kaggle.com/code/mukeshmanral/optimization-methods-and-regularization) | |
 |Neural Network + ANN-Application-3 projects |[Link](https://www.kaggle.com/code/mukeshmanral/neural-networks-ann-projects/notebook?scriptVersionId=89900300) | |
 |Loan Prediction Using Neural Network in Keras |[Link](https://www.kaggle.com/code/mukeshmanral/loan-prediction-using-neural-network-keras) | |
