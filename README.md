@@ -12,6 +12,7 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 # Data Analysis
 |Data Analysis | Code + Blog Link | Video Link |
 |--------------|------------------|------------|
+|Mapping Business Problem into Data Science Problem |[Link](https://www.kaggle.com/code/mukeshmanral/mapping-business-problem-into-data-science-problem/notebook) | |
 |Answer to --> How to Perform EDA |[Link](https://www.kaggle.com/mukeshmanral/answer-to-how-to-perform-eda) | |
   
   
