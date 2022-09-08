@@ -60,7 +60,8 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 |Optimization Methods & Regularization |[Link](https://www.kaggle.com/code/mukeshmanral/optimization-methods-and-regularization) | |
 |Neural Network + ANN-Application-3 projects |[Link](https://www.kaggle.com/code/mukeshmanral/neural-networks-ann-projects/notebook?scriptVersionId=89900300) | |
 |Loan Prediction Using Neural Network in Keras |[Link](https://www.kaggle.com/code/mukeshmanral/loan-prediction-using-neural-network-keras) | |
-|TensorFlow_2.x Basics|[Link](https://www.kaggle.com/mukeshmanral/tensorsflow-2-x-tensor-shape-type-sessions-operato) |
+|TensorFlow_2.x Basics|[Link](https://www.kaggle.com/mukeshmanral/tensorsflow-2-x-tensor-shape-type-sessions-operato) ||
+|CNN on Cifar10 |[Link](https://www.kaggle.com/code/mukeshmanral/cnn-on-cifar10/notebook) | |
 
 
 # Computer Vision + OpenCV
