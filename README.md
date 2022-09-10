@@ -84,6 +84,7 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 | `Image Processing Operations` like --> (Morphological Operations, Smoothing & Blurring, ColorSpaces, Thresholding, Adaptive Thresholding, Kernels, Image gradient-Shobel & Scharr Kernels, Canny Edge Detection, Automatic Edge Detection)|[Link](https://www.kaggle.com/code/mukeshmanral/opencv-basic-image-processing-operations) |
 | `Image Processing -- flow_from_directory` | [Link](https://www.kaggle.com/mukeshmanral/preprocess-images)
 | `Image Histograms` | [Link](https://www.kaggle.com/code/mukeshmanral/opencv-image-histograms)|
+| `OpenCV-Building Glasses Filter` |[Link]([OpenCV-Building Glasses Filter](https://www.kaggle.com/code/mukeshmanral/opencv-building-glasses-filter/notebook)) |
 | `Neural Networks & Parameterized Learning` | [Link](https://www.kaggle.com/mukeshmanral/neural-networks-and-parameterized-learning)|
 | `Optimization Methods & Regularization` |[Link](https://www.kaggle.com/code/mukeshmanral/optimization-methods-and-regularization)|
 
