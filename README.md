@@ -131,7 +131,7 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 
 <hr style="border:1000px solid gray"> </hr>
 <hr style="border:1000px solid gray"> </hr>
-Providing some more External links which a learner can find usefull as well, 
+Providing some more External links which a learner may find usefull as well, 
 <hr style="border:1000px solid gray"> </hr>
 
 
