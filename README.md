@@ -39,6 +39,7 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 |Vehicle Loan Default Prediction [EDA + Model]|[Link](https://www.kaggle.com/mukeshmanral/vehicle-loan-default-prediction-eda-model)||
 |Decision Tree end2end + HyperparameterTuning | [Link](https://www.kaggle.com/code/mukeshmanral/decisiontree-end2end/notebook)| |
 |Bagging(ensemble_concept[RF-ExTree]) |[Link](https://www.kaggle.com/code/mukeshmanral/ensemble-bagging-boosting/notebook) | |
+|Employees-earnings (Model comparison, EDA many more) |[Link](https://www.kaggle.com/code/mukeshmanral/employees-earnings/notebook) | |
 
 
 # Feature Engineering 
