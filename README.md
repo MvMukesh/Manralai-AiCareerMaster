@@ -9,49 +9,49 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
     This is Mukesh Manral
   <kbd><img src="https://github.com/MvMukesh/Computer-Vision-Deep-Learning-Projects/blob/main/all%20images/detect%20face%20parts.png"/></kbd>
 
-# Data Analysis
+# 🔴Data Analysis
 |Data Analysis | Code + Blog Link | Video Link |
 |--------------|------------------|------------|
-|Mapping Business Problem into Data Science Problem |[Link](https://www.kaggle.com/code/mukeshmanral/mapping-business-problem-into-data-science-problem/notebook) | |
-|Answer to --> How to Perform EDA |[Link](https://www.kaggle.com/mukeshmanral/answer-to-how-to-perform-eda) | |
-|Evaluation Metrics (Supervised Learning) |[Link](https://www.kaggle.com/code/mukeshmanral/evaluation-metrics-supervisedlearning/notebook) | |
+|📙 Mapping Business Problem into Data Science Problem |[Link](https://www.kaggle.com/code/mukeshmanral/mapping-business-problem-into-data-science-problem/notebook) | |
+|📙 Answer to --> How to Perform EDA |[Link](https://www.kaggle.com/mukeshmanral/answer-to-how-to-perform-eda) | |
+|📙 Evaluation Metrics (Supervised Learning) |[Link](https://www.kaggle.com/code/mukeshmanral/evaluation-metrics-supervisedlearning/notebook) | |
   
   
-# Machine Learning 
+# 🔴Machine Learning 
 
 | Machine Learning                | Code + Blog Link                                                | Blog - Video Link   |
 |---------------------------------|-----------------------------------------------------------------|--------------|
-|Machine Learning Life Cycle      |[Link](https://www.kaggle.com/mukeshmanral/machine-learning-life-cycle-basic/edit/run/88227239)| |
-|Simple to understand ML framework| [Link](https://github.com/MvMukesh/ML-ProblemSolving-FrameWork) |  |
-|Problem Solving[Mapping Business Problem to Data Science Problem] | [Link](https://www.kaggle.com/code/mukeshmanral/mapping-business-problem-to-data-science-problem/)| |
-|First Classificaton+Regression Models - How to?? When to?? of Modeling |[Link](https://www.kaggle.com/mukeshmanral/first-model-how-to-what-to-classif-regre) | |
-|Linear Regression Math+implementation+Project+Interview-Questions|[Link](https://www.kaggle.com/mukeshmanral/linear-regression)||
-|Linear Regression (Basic) |[Link](https://www.kaggle.com/mukeshmanral/linear-regression-basic)| |
-|Multiple Linear Regression (Basic) |[Link](https://www.kaggle.com/mukeshmanral/multiple-linear-regression-basic/notebook) | |
-|Polynomial Regression (Basic) |[Link](https://www.kaggle.com/mukeshmanral/polynomial-regression-basic) | |
-|Advance Linear Regression  +GridSearchCV + HyperParameterTuning(Basic) |[Link](https://www.kaggle.com/mukeshmanral/advance-linear-regression-gridsearchcv-hpt-basic?scriptVersionId=77957379) | |
-|Deriving Logistic Regression-Maths(plane + hyper-plane + Probabilistic interpretations + Geometric interpretations + Loss interpretations + Squashing Function Optimization + Regularization) + Application |[Link](https://www.kaggle.com/mukeshmanral/derivinglogisticregression-maths-application) | |
-|k-NN Algorithm-1 (Basic) |[Link](https://www.kaggle.com/mukeshmanral/k-nn-algorithm-1-basic/notebook) | |
-|k-NN Algorithm-2 (Basic) |[Link](https://www.kaggle.com/mukeshmanral/k-nn-algorithm-2-basic) | |
-| Propose Saving Options for for India based Poultry Farm having spending of appx 22 billion | [Link+KPI's](https://github.com/MvMukesh/Spend_Analysis-ProposedSavingOptions)| |
-|PCA application you must know things |[Link](https://www.kaggle.com/mukeshmanral/pca-basic) | [PCA - Second Principal Component have to be orthogonal to first one? See Why!](https://www.linkedin.com/pulse/pca-second-principal-component-have-orthogonal-first-mukesh-manral/) |
-|PCA application step by step - 2 | [Link](https://www.kaggle.com/mukeshmanral/pca-2-reducing-dimensions/)|[PCA-1](https://www.linkedin.com/pulse/principal-component-analysis-dimension-reduction-1-mukesh-manral/?trackingId=rRnwC6pA6hD%2BzFWumbYjlw%3D%3D), [PCA-2]()|
-|Vehicle Loan Default Prediction [EDA + Model]|[Link](https://www.kaggle.com/mukeshmanral/vehicle-loan-default-prediction-eda-model)||
-|Decision Tree end2end + HyperparameterTuning | [Link](https://www.kaggle.com/code/mukeshmanral/decisiontree-end2end/notebook)| |
-|Bagging(ensemble_concept[RF-ExTree]) |[Link](https://www.kaggle.com/code/mukeshmanral/ensemble-bagging-boosting/notebook) | |
-|Employees-earnings (Model comparison, EDA many more) |[Link](https://www.kaggle.com/code/mukeshmanral/employees-earnings/notebook) | |
+|📙 Machine Learning Life Cycle      |[Link](https://www.kaggle.com/mukeshmanral/machine-learning-life-cycle-basic/edit/run/88227239)| |
+|📙 Simple to understand ML framework| [Link](https://github.com/MvMukesh/ML-ProblemSolving-FrameWork) |  |
+|📙 Problem Solving[Mapping Business Problem to Data Science Problem] | [Link](https://www.kaggle.com/code/mukeshmanral/mapping-business-problem-to-data-science-problem/)| |
+|📙 First Classificaton+Regression Models - How to?? When to?? of Modeling |[Link](https://www.kaggle.com/mukeshmanral/first-model-how-to-what-to-classif-regre) | |
+|📙 Linear Regression Math+implementation+Project+Interview-Questions|[Link](https://www.kaggle.com/mukeshmanral/linear-regression)||
+|📙 Linear Regression (Basic) |[Link](https://www.kaggle.com/mukeshmanral/linear-regression-basic)| |
+|📙 Multiple Linear Regression (Basic) |[Link](https://www.kaggle.com/mukeshmanral/multiple-linear-regression-basic/notebook) | |
+|📙 Polynomial Regression (Basic) |[Link](https://www.kaggle.com/mukeshmanral/polynomial-regression-basic) | |
+|📙 Advance Linear Regression  +GridSearchCV + HyperParameterTuning(Basic) |[Link](https://www.kaggle.com/mukeshmanral/advance-linear-regression-gridsearchcv-hpt-basic?scriptVersionId=77957379) | |
+|📙 Deriving Logistic Regression-Maths(plane + hyper-plane + Probabilistic interpretations + Geometric interpretations + Loss interpretations + Squashing Function Optimization + Regularization) + Application |[Link](https://www.kaggle.com/mukeshmanral/derivinglogisticregression-maths-application) | |
+|📙 k-NN Algorithm-1 (Basic) |[Link](https://www.kaggle.com/mukeshmanral/k-nn-algorithm-1-basic/notebook) | |
+|📙 k-NN Algorithm-2 (Basic) |[Link](https://www.kaggle.com/mukeshmanral/k-nn-algorithm-2-basic) | |
+|📙  Propose Saving Options for for India based Poultry Farm having spending of appx 22 billion | [Link+KPI's](https://github.com/MvMukesh/Spend_Analysis-ProposedSavingOptions)| |
+|📙 PCA application you must know things |[Link](https://www.kaggle.com/mukeshmanral/pca-basic) | [PCA - Second Principal Component have to be orthogonal to first one? See Why!](https://www.linkedin.com/pulse/pca-second-principal-component-have-orthogonal-first-mukesh-manral/) |
+|📙 PCA application step by step - 2 | [Link](https://www.kaggle.com/mukeshmanral/pca-2-reducing-dimensions/)|[PCA-1](https://www.linkedin.com/pulse/principal-component-analysis-dimension-reduction-1-mukesh-manral/?trackingId=rRnwC6pA6hD%2BzFWumbYjlw%3D%3D), [PCA-2]()|
+|📙 Vehicle Loan Default Prediction [EDA + Model]|[Link](https://www.kaggle.com/mukeshmanral/vehicle-loan-default-prediction-eda-model)||
+|📙 Decision Tree end2end + HyperparameterTuning | [Link](https://www.kaggle.com/code/mukeshmanral/decisiontree-end2end/notebook)| |
+|📙 Bagging(ensemble_concept[RF-ExTree]) |[Link](https://www.kaggle.com/code/mukeshmanral/ensemble-bagging-boosting/notebook) | |
+|📙 Employees-earnings (Model comparison, EDA many more) |[Link](https://www.kaggle.com/code/mukeshmanral/employees-earnings/notebook) | |
 
 
-# Feature Engineering 
+# 🔴Feature Engineering 
 | Feature Engineering| Code + Blog Link | Video Link   |
 |--------------------|------------------|--------------|
-|Creating New Features |[Link](https://www.kaggle.com/code/mukeshmanral/feature-engineering-creating-new-feature) | |
-|Imputation (categorical,numerical) + Handling Outliers (standard deviation,percentile) + Scaling (normalization, standardization) + Binning + Encoding Categorical Variable + Featur Encoding (integer,onehot))|[Link](https://www.kaggle.com/mukeshmanral/feature-engineering-dataset-2-basic) |
-|Variable Transformation (Square Root, Reciprocal, Logarithmic, Exponential\Power Transformation|[Link](https://www.kaggle.com/code/mukeshmanral/feature-engineering-dataset-3-basic) | |
-|DateTime Engineering |[Link](https://www.kaggle.com/code/mukeshmanral/feature-engineering-dataset-4-basic) | |
+|📙 Creating New Features |[Link](https://www.kaggle.com/code/mukeshmanral/feature-engineering-creating-new-feature) | |
+|📙 Imputation (categorical,numerical) + Handling Outliers (standard deviation,percentile) + Scaling (normalization, standardization) + Binning + Encoding Categorical Variable + Featur Encoding (integer,onehot))|[Link](https://www.kaggle.com/mukeshmanral/feature-engineering-dataset-2-basic) |
+|📙 Variable Transformation (Square Root, Reciprocal, Logarithmic, Exponential\Power Transformation|[Link](https://www.kaggle.com/code/mukeshmanral/feature-engineering-dataset-3-basic) | |
+|📙 DateTime Engineering |[Link](https://www.kaggle.com/code/mukeshmanral/feature-engineering-dataset-4-basic) | |
   
   
-# Deep Learning
+# 🔴Deep Learning
   
 <p align="center">
   <kbd><img src="https://github.com/MvMukesh/Computer-Vision-Deep-Learning-Projects/blob/main/all%20images/dl%20timeline.png"/></kbd>
@@ -59,21 +59,21 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 
 | Deep Learning| Code + Blog Link | Video Link   |
 |--------------|------------------|--------------|
-|kNN to Parameterised Learning |[Link](https://www.kaggle.com/code/mukeshmanral/knn-to-parameterised-learning) | |
-|Implementing Neural Network using NumPy |[Link](https://www.kaggle.com/code/mukeshmanral/implementing-neural-network-using-numpy/notebook) | |
-| Deep Learning + Hyper Parameter Tuning + Activation Functions + Selecting Right Activation Function + Optimizer + Loss, Error, Cost Functions + Project(Keras): Loan Prediction + Project: Image Classification(Emergency Vs Non-Emergency Vehicle) using NN |  [Link](https://www.kaggle.com/code/mukeshmanral/deep-learning-basic-project/notebook?scriptVersionId=99843853)|
-|Implementing Gradient Descent from Scratch |[Link](https://www.kaggle.com/mukeshmanral/gradient-descent-from-scratch) | |
-|Weight Initialisation Techniques in NN |[Link](https://www.kaggle.com/mukeshmanral/weight-initialisation-techniques-nn) | |
-|Basics of ActivationFunctions & Optimizers |[Link](https://www.kaggle.com/code/mukeshmanral/basics-activation-functions-optimizers/notebook) | |
-|Optimization Methods & Regularization |[Link](https://www.kaggle.com/code/mukeshmanral/optimization-methods-and-regularization) | |
-|Neural Network + ANN-Application-3 projects |[Link](https://www.kaggle.com/code/mukeshmanral/neural-networks-ann-projects/notebook?scriptVersionId=89900300) | |
-|Loan Prediction Using Neural Network in Keras |[Link](https://www.kaggle.com/code/mukeshmanral/loan-prediction-using-neural-network-keras) | |
-|TensorFlow_2.x Basics|[Link](https://www.kaggle.com/mukeshmanral/tensorsflow-2-x-tensor-shape-type-sessions-operato) ||
-|CNN on Cifar10 |[Link](https://www.kaggle.com/code/mukeshmanral/cnn-on-cifar10/notebook) | |
-|Image Captioning using Keras |[Link](https://www.kaggle.com/code/mukeshmanral/image-captioning-using-keras/notebook) | |
+|📙 kNN to Parameterised Learning |[Link](https://www.kaggle.com/code/mukeshmanral/knn-to-parameterised-learning) | |
+|📙 Implementing Neural Network using NumPy |[Link](https://www.kaggle.com/code/mukeshmanral/implementing-neural-network-using-numpy/notebook) | |
+|📙  Deep Learning + Hyper Parameter Tuning + Activation Functions + Selecting Right Activation Function + Optimizer + Loss, Error, Cost Functions + Project(Keras): Loan Prediction + Project: Image Classification(Emergency Vs Non-Emergency Vehicle) using NN |  [Link](https://www.kaggle.com/code/mukeshmanral/deep-learning-basic-project/notebook?scriptVersionId=99843853)|
+|📙 Implementing Gradient Descent from Scratch |[Link](https://www.kaggle.com/mukeshmanral/gradient-descent-from-scratch) | |
+|📙 Weight Initialisation Techniques in NN |[Link](https://www.kaggle.com/mukeshmanral/weight-initialisation-techniques-nn) | |
+|📙 Basics of ActivationFunctions & Optimizers |[Link](https://www.kaggle.com/code/mukeshmanral/basics-activation-functions-optimizers/notebook) | |
+|📙 Optimization Methods & Regularization |[Link](https://www.kaggle.com/code/mukeshmanral/optimization-methods-and-regularization) | |
+|📙 Neural Network + ANN-Application-3 projects |[Link](https://www.kaggle.com/code/mukeshmanral/neural-networks-ann-projects/notebook?scriptVersionId=89900300) | |
+|📙 Loan Prediction Using Neural Network in Keras |[Link](https://www.kaggle.com/code/mukeshmanral/loan-prediction-using-neural-network-keras) | |
+|📙 TensorFlow_2.x Basics|[Link](https://www.kaggle.com/mukeshmanral/tensorsflow-2-x-tensor-shape-type-sessions-operato) ||
+|📙 CNN on Cifar10 |[Link](https://www.kaggle.com/code/mukeshmanral/cnn-on-cifar10/notebook) | |
+|📙 Image Captioning using Keras |[Link](https://www.kaggle.com/code/mukeshmanral/image-captioning-using-keras/notebook) | |
 
 
-# Computer Vision + OpenCV
+# 🔴Computer Vision + OpenCV
 
 <p align="center">
   <kbd><img src="https://github.com/MvMukesh/Computer-Vision-Deep-Learning-Projects/blob/main/all%20images/Feature%20Selection.png"/></kbd>
@@ -81,47 +81,53 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 
 | Computer Vision | Code + Blog Link|
 |-----------------|-----------|
-| `OpenCV Basic's` like --> (Pixel Manipulation, Getting & Setting Pixels, Image Translation, Rotation, Interpolation Methods and comarison, Fliping, Croping, Arithmetic, Bitwise, Masking, Channels Splitting & Merging )| [Link](https://www.kaggle.com/code/mukeshmanral/opencv-basic-0/)
-| `Image Processing Operations` like --> (Morphological Operations, Smoothing & Blurring, ColorSpaces, Thresholding, Adaptive Thresholding, Kernels, Image gradient-Shobel & Scharr Kernels, Canny Edge Detection, Automatic Edge Detection)|[Link](https://www.kaggle.com/code/mukeshmanral/opencv-basic-image-processing-operations) |
-| `Image Processing -- flow_from_directory` | [Link](https://www.kaggle.com/mukeshmanral/preprocess-images)
-| `Image Histograms` | [Link](https://www.kaggle.com/code/mukeshmanral/opencv-image-histograms)|
-| `OpenCV-Building Glasses Filter` |[Link]([OpenCV-Building Glasses Filter](https://www.kaggle.com/code/mukeshmanral/opencv-building-glasses-filter/notebook)) |
-| `Neural Networks & Parameterized Learning` | [Link](https://www.kaggle.com/mukeshmanral/neural-networks-and-parameterized-learning)|
-| `Optimization Methods & Regularization` |[Link](https://www.kaggle.com/code/mukeshmanral/optimization-methods-and-regularization)|
+|📙  `OpenCV Basic's` like --> (Pixel Manipulation, Getting & Setting Pixels, Image Translation, Rotation, Interpolation Methods and comarison, Fliping, Croping, Arithmetic, Bitwise, Masking, Channels Splitting & Merging )| [Link](https://www.kaggle.com/code/mukeshmanral/opencv-basic-0/)
+|📙  `Image Processing Operations` like --> (Morphological Operations, Smoothing & Blurring, ColorSpaces, Thresholding, Adaptive Thresholding, Kernels, Image gradient-Shobel & Scharr Kernels, Canny Edge Detection, Automatic Edge Detection)|[Link](https://www.kaggle.com/code/mukeshmanral/opencv-basic-image-processing-operations) |
+|📙  `Image Processing -- flow_from_directory` | [Link](https://www.kaggle.com/mukeshmanral/preprocess-images)
+|📙  `Image Histograms` | [Link](https://www.kaggle.com/code/mukeshmanral/opencv-image-histograms)|
+|📙  `OpenCV-Building Glasses Filter` |[Link]([OpenCV-Building Glasses Filter](https://www.kaggle.com/code/mukeshmanral/opencv-building-glasses-filter/notebook)) |
+|📙  `Neural Networks & Parameterized Learning` | [Link](https://www.kaggle.com/mukeshmanral/neural-networks-and-parameterized-learning)|
+|📙  `Optimization Methods & Regularization` |[Link](https://www.kaggle.com/code/mukeshmanral/optimization-methods-and-regularization)|
 
 
 
-# Recommender System 
+# 🔴Recommender System 
 
 | Recommender System                | Code + Blog Link                                                                       | Video Link   |
 |-----------------------------------|----------------------------------------------------------------------------------------|--------------|
-|Recommendation System Basic-(surprise_library) + All Why,What,When not, When to covered + Maths Covered +Project: Movie Recommendation(Non Personalised Recommender Systems using Count of Ratings (4 & above) + Weak Personalisation using Gender Information) + Personalised Recommender Systems + Collaborative Filtering & Types + Application of User-Based Collaborative Filtering from Scratch + Application of User Based Collaborative Filtering using [ Surprise Library ] + [ Scalability Challange ] for User Based Collaborative Filtering + Item-Based Collaborative Filtering + Implementation Item-Based Collaborative Filtering + Challenges for Neightbourhood Based Methods + Rating Prediction using [ Matrix Factorization with SVD ] + in progress| [Link](https://www.kaggle.com/mukeshmanral/recommendation-system-basic-surprise-library) | |
-|Why Business (H&M) cares about Product Recommendation?? |[Link](https://www.kaggle.com/mukeshmanral/why-h-m-cares-about-product-recommendation)| |
-|End to End Recommender System |[Link](https://www.kaggle.com/mukeshmanral/end-to-end-recommender-system) | |
+|📙 Recommendation System Basic-(surprise_library) + All Why,What,When not, When to covered + Maths Covered +Project: Movie Recommendation(Non Personalised Recommender Systems using Count of Ratings (4 & above) + Weak Personalisation using Gender Information) + Personalised Recommender Systems + Collaborative Filtering & Types + Application of User-Based Collaborative Filtering from Scratch + Application of User Based Collaborative Filtering using [ Surprise Library ] + [ Scalability Challange ] for User Based Collaborative Filtering + Item-Based Collaborative Filtering + Implementation Item-Based Collaborative Filtering + Challenges for Neightbourhood Based Methods + Rating Prediction using [ Matrix Factorization with SVD ] + in progress| [Link](https://www.kaggle.com/mukeshmanral/recommendation-system-basic-surprise-library) | |
+|📙 Why Business (H&M) cares about Product Recommendation?? |[Link](https://www.kaggle.com/mukeshmanral/why-h-m-cares-about-product-recommendation)| |
+|📙 End to End Recommender System |[Link](https://www.kaggle.com/mukeshmanral/end-to-end-recommender-system) | |
 
 
 
-# Spark Ecosystem
+# 🔴Spark Ecosystem
 
 |Spark Ecosystem | Code + Blog Link| Video Link|
 |--------------|-----------|-----------|
-|Spark Ecosystem(Big Data + Apache Hadoop[HDFS,YARN,MapReduce] + Spark Ecosystem[Architecture,Cluster Manager,Running application - Locally and on YARN,SparkContext vs SparkSession,spark Dataframe+Execution]+spark sql api+spark ml) |[Link](https://www.kaggle.com/mukeshmanral/apache-spark-basic) | |
+|📙 Spark Ecosystem(Big Data + Apache Hadoop[HDFS,YARN,MapReduce] + Spark Ecosystem[Architecture,Cluster Manager,Running application - Locally and on YARN,SparkContext vs SparkSession,spark Dataframe+Execution]+spark sql api+spark ml) |[Link](https://www.kaggle.com/mukeshmanral/apache-spark-basic) | |
 
 
-# AWS
+# 🔴AWS
 
 | AWS | Blog Link  | Video Link  |
 |--------------|-----------|-----------|
-|Cloud Computing(AWS) | [Blog](https://www.kaggle.com/mukeshmanral/cloud-computing-aws) | [Play List not yet updated](#) |
-| AWS Sagemaker | [Blog](#) | Play List not yet updated(#)|
+|📙 Cloud Computing(AWS) | [Blog](https://www.kaggle.com/mukeshmanral/cloud-computing-aws) | [Play List not yet updated](#) |
+|📙  AWS Sagemaker | [Blog](#) | Play List not yet updated(#)|
 
 
 
-# Deployment
+# 🔴Deployment
 
 | Deployment  |Code + Blog Link  |  Video Link|
 |-------------|-------------|------------------|
-| Deploy ML + Dl models using Colab & AWS          | [Link](https://www.kaggle.com/code/mukeshmanral/deploying-ml-and-dl-models-streamlit-coalb-on-aws)| [---](link)   |
+|📙  Deploy ML + Dl models using Colab & AWS          | [Link](https://www.kaggle.com/code/mukeshmanral/deploying-ml-and-dl-models-streamlit-coalb-on-aws)| [---](link)   |
+
+
+-----
+🔴🔴🔴
+-----
+
 
 <hr style="border:1000px solid gray"> </hr>
 <hr style="border:1000px solid gray"> </hr>
