@@ -75,7 +75,7 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 |📙 TensorFlow_2.x Basics|[Link](https://www.kaggle.com/mukeshmanral/tensorsflow-2-x-tensor-shape-type-sessions-operato) ||
 |📙 `CNN` on Cifar10 |[Link](https://www.kaggle.com/code/mukeshmanral/cnn-on-cifar10/notebook) | |
 |📙 Image Captioning using Keras |[Link](https://www.kaggle.com/code/mukeshmanral/image-captioning-using-keras/notebook) | |
-|📙 `AlexNet-(2012)` | |
+|📙 `AlexNet-(2012)` |[Link](https://www.kaggle.com/code/mukeshmanral/alexnet/notebook) |
 |📙 `VGGNet-(2014)` | |
 |📙 `ResNet-(2015)` ImageClassification - TransferLearning |[Link](https://www.kaggle.com/code/mukeshmanral/imageclassification-transferlearning-resnet/notebook) | |
 
