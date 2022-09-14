@@ -55,7 +55,11 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
   
 <p align="center">
   <kbd><img src="https://github.com/MvMukesh/Computer-Vision-Deep-Learning-Projects/blob/main/all%20images/dl%20timeline.png"/></kbd>
+  <b><u>State of the Art Object Detection</u></b>
+  <kbd><img src='https://github.com/MvMukesh/Free-FullStack-DataScience/blob/main/images/object_detection.png'/></kbd>
 </p>
+
+
 
 | Deep Learning| Code + Blog Link | Video Link   |
 |--------------|------------------|--------------|
