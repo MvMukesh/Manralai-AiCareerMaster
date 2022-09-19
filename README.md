@@ -1,6 +1,6 @@
 # 🔵 Free Full Stack Data Science - [Manral.Ai](https://www.linkedin.com/newsletters/6872441622500585472/) 🔵
 
-You can see this repo as a tracker of n-things I am giving back in this journey of Data and trying my level best to explain them to people in general way Possibile <br>
+See this repo as a tracker of n-things I am giving back in this journey of Data and trying my level best to explain them to people in simple way Possibile <br>
 AIM is clear, write or communicate in such a way that people can follow ==> [kato--gholo--peelow]
 
 <hr style="border:40px solid gray"> </hr>
