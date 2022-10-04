@@ -70,12 +70,11 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 |📙 `Gradient Descent from Scratch` |[Link](https://www.kaggle.com/mukeshmanral/gradient-descent-from-scratch) | |
 |📙 `SGD with Momentum from Scratch` |[Link](https://www.kaggle.com/mukeshmanral/sgd-with-momentum-from-scratch) | |
 |📙 `Weight Initialisation Techniques` in NN |[Link](https://www.kaggle.com/mukeshmanral/weight-initialisation-techniques-nn) | |
-|📙 `ActivationFunctions` & `Optimizers` |[Link](https://www.kaggle.com/code/mukeshmanral/basics-activation-functions-optimizers/notebook) | |
 |📙 `ActivationFunctions` & `Optimizers` + `Project` |[Link](https://www.kaggle.com/code/mukeshmanral/dl-activation-loss-optimisation-project/) | |
 |📙 Optimization Methods & Regularization |[Link](https://www.kaggle.com/code/mukeshmanral/optimization-methods-and-regularization) | |
 |📙 Neural Network + `ANN`-Application-3 projects |[Link](https://www.kaggle.com/code/mukeshmanral/neural-networks-ann-projects/notebook?scriptVersionId=89900300) | |
 |📙 Loan Prediction Using Neural Network in Keras |[Link](https://www.kaggle.com/code/mukeshmanral/loan-prediction-using-neural-network-keras) | |
-|📙 TensorFlow_2.x Basics|[Link](https://www.kaggle.com/mukeshmanral/tensorsflow-2-x-tensor-shape-type-sessions-operato) ||
+|📙 `TensorFlow2.x & CNN`|[Link](https://www.kaggle.com/code/mukeshmanral/tensorflow-cnn) ||
 |📙 `CNN` on Cifar10 |[Link](https://www.kaggle.com/code/mukeshmanral/cnn-on-cifar10/notebook) | |
 |📙 Image Captioning using Keras |[Link](https://www.kaggle.com/code/mukeshmanral/image-captioning-using-keras/notebook) | |
 |📙 TransferLearning `AlexNet-(2012)` - Classification  |[Link](https://www.kaggle.com/code/mukeshmanral/alexnet/notebook) |
