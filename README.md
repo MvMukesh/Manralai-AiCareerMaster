@@ -80,7 +80,7 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 |📙 `TransferLearning` `AlexNet-(2012)` - `Classification`  |[Link](https://www.kaggle.com/code/mukeshmanral/alexnet/notebook) |
 |📙 `TransferLearning` `VGGNet-(2014)` - `Classification`  |[Link](https://www.kaggle.com/code/mukeshmanral/visualgeometrygroup-vgg-16/) |
 |📙 `TransferLearning` `ResNet-(2015)` - `Classification`  |[Link](https://www.kaggle.com/code/mukeshmanral/imageclassification-transferlearning-resnet/notebook) | |
-|📙 `R-CNN & FastR-CNN` - `Object Detection` | | |
+|📙 `R-CNN & Fast R-CNN` - `Object Detection` | | |
 |📙 `Faster R-CNN` - `Object Detection` | | |
 |📙 `SSD` Single Shot Detectron | | |
 |📙 `YOLO`| | |
