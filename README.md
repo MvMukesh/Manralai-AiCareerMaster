@@ -70,7 +70,8 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 |📙 `Gradient Descent from Scratch` |[Link](https://www.kaggle.com/mukeshmanral/gradient-descent-from-scratch) | |
 |📙 `SGD with Momentum from Scratch` |[Link](https://www.kaggle.com/mukeshmanral/sgd-with-momentum-from-scratch) | |
 |📙 `Weight Initialisation Techniques` in NN |[Link](https://www.kaggle.com/mukeshmanral/weight-initialisation-techniques-nn) | |
-|📙 `ActivationFunctions` & `Optimizers` + `Project` |[Link](https://www.kaggle.com/code/mukeshmanral/dl-activation-loss-optimisation-project/) | |
+|📙 `ActivationFunctions` & `Optimizers` |[Link](https://www.kaggle.com/code/mukeshmanral/activation-loss-optimisation) | | 
+|📙 `Project` |[Link](https://www.kaggle.com/code/mukeshmanral/dl-activation-loss-optimisation-project/) | |
 |📙 Optimization Methods & Regularization |[Link](https://www.kaggle.com/code/mukeshmanral/optimization-methods-and-regularization) | |
 |📙 Neural Network + `ANN`-Application-3 projects |[Link](https://www.kaggle.com/code/mukeshmanral/neural-networks-ann-projects/notebook?scriptVersionId=89900300) | |
 |📙 Loan Prediction Using Neural Network in Keras |[Link](https://www.kaggle.com/code/mukeshmanral/loan-prediction-using-neural-network-keras) | |
