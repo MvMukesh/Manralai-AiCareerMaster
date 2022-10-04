@@ -66,7 +66,7 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 |📙 `kNN to Parameterised Learning` |[Link](https://www.kaggle.com/code/mukeshmanral/knn-to-parameterised-learning) | |
 |📙 `Deep Learning` & `Perceptron Trick` |[Link](https://www.kaggle.com/code/mukeshmanral/perceptron-deeplearning/) | |
 |📙 `Neural Network using NumPy` |[Link](https://www.kaggle.com/code/mukeshmanral/implementing-neural-network-using-numpy/notebook) | |
-|📙 `Hyper Parameter Tuning` + `Activation Functions` + `Selecting Right Activation Function` + `Optimizer` + `Loss`, `Error`, `Cost Functions` + Project(Keras): Loan Prediction + Project: Image Classification(Emergency Vs Non-Emergency Vehicle) using NN |  [Link](https://www.kaggle.com/code/mukeshmanral/deep-learning-basic-project/notebook?scriptVersionId=99843853)|
+|📙 `Hyper Parameter Tuning` + `Activation Functions` + `Selecting Right Activation Function` + `Optimizer` + `Loss`, `Error`, `Cost Functions` + Project(Keras): Loan Prediction + Project: Image Classification(Emergency Vs Non-Emergency Vehicle) using NN |  [Link](https://www.kaggle.com/code/mukeshmanral/activation-loss-optimisation-project/)|
 |📙 `Gradient Descent from Scratch` |[Link](https://www.kaggle.com/mukeshmanral/gradient-descent-from-scratch) | |
 |📙 `SGD with Momentum from Scratch` |[Link](https://www.kaggle.com/mukeshmanral/sgd-with-momentum-from-scratch) | |
 |📙 `Weight Initialisation Techniques` in NN |[Link](https://www.kaggle.com/mukeshmanral/weight-initialisation-techniques-nn) | |
