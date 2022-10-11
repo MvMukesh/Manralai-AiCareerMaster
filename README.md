@@ -9,6 +9,12 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
     This is Mukesh Manral
   <kbd><img src="https://github.com/MvMukesh/Computer-Vision-Deep-Learning-Projects/blob/main/all%20images/detect%20face%20parts.png"/></kbd>
 
+# 🔴Python 0 to Expert
+|Pyton         | Guide + Video Link |
+|--------------|--------------------|
+|📙 Python Guide and Video Playlist |[Playlist + Guide](https://github.com/MvMukesh/Python-Complete-Roadmap-to-Expert) |
+
+
 # 🔴Data Analysis
 |Data Analysis | Code + Blog Link | Video Link |
 |--------------|------------------|------------|
