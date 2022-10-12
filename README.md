@@ -13,6 +13,7 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 |Pyton         | Guide + Video Link |
 |--------------|--------------------|
 |📙 Python Guide and Video Playlist |[Playlist + Guide](https://github.com/MvMukesh/Python-Complete-Roadmap-to-Expert) |
+|📙 Data Structure | [Guide](https://www.kaggle.com/code/mukeshmanral/data-structure-in-python) |
 
 
 # 🔴Data Analysis
