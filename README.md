@@ -137,7 +137,7 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 
 | AWS | Blog Link  | Video Link  |
 |--------------|-----------|-----------|
-|📙 Cloud Computing(AWS) | [Blog](https://www.kaggle.com/mukeshmanral/cloud-computing-aws) | [Play List not yet updated](#) |
+|📙 Cloud Computing(AWS) | [Blog](https://www.kaggle.com/mukeshmanral/cloud-computing-aws) | [Play List not yet updated](https://www.youtube.com/playlist?list=PLREhfdPXr-eh-qmIK93ra1FZVFr8rGfhS) |
 |📙  AWS Sagemaker | [Blog](#) | Play List not yet updated(#)|
 
 
