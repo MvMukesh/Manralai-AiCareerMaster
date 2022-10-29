@@ -7,7 +7,7 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 
 <p align="center">
     This is Mukesh Manral
-  <kbd><img src="https://github.com/MvMukesh/Computer-Vision-Deep-Learning-Projects/blob/main/all%20images/detect%20face%20parts.png"/></kbd>
+  <kbd><img src="https://github.com/MvMukesh/Manral.Ai/blob/main/images/face_parts.png"/></kbd>
 
 # 🔴Python 0 to Expert
 |Pyton         | Guide + Video Link |
