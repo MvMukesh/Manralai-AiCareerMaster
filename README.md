@@ -69,7 +69,6 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 </p>
 
 
-
 | Deep Learning| Code + Blog Link | Video Link   |
 |--------------|------------------|--------------|
 |📙 `kNN to Parameterised Learning` |[Link](https://www.kaggle.com/code/mukeshmanral/knn-to-parameterised-learning) | |
@@ -80,7 +79,7 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 |📙 `SGD with Momentum from Scratch` |[Link](https://www.kaggle.com/mukeshmanral/sgd-with-momentum-from-scratch) | |
 |📙 `Weight Initialisation Techniques` |[Link](https://www.kaggle.com/mukeshmanral/weight-initialisation-techniques-nn) | |
 |📙 `ActivationFunctions` & `Optimizers` |[Link](https://www.kaggle.com/code/mukeshmanral/activation-loss-optimisation) | |
-|📙 `Regularization` |[Add Link](#)|
+|📙 `Regularization : Avoiding Overfitting` |[Add Link](#)|
 |📙 `Applying KerasTuner` & `Dropout` |[Link](https://www.kaggle.com/code/mukeshmanral/using-kerastuner-dropout) | |
 |📙 `Implementation` |[Link](https://www.kaggle.com/code/mukeshmanral/dl-activation-loss-optimisation-project/) | |
 |📙 Neural Network + `ANN`-Application-3 projects |[Link](https://www.kaggle.com/code/mukeshmanral/neural-networks-ann-projects/notebook?scriptVersionId=89900300) | |
