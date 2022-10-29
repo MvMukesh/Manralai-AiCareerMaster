@@ -79,7 +79,8 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 |📙 `Gradient Descent from Scratch` |[Link](https://www.kaggle.com/mukeshmanral/gradient-descent-from-scratch) | |
 |📙 `SGD with Momentum from Scratch` |[Link](https://www.kaggle.com/mukeshmanral/sgd-with-momentum-from-scratch) | |
 |📙 `Weight Initialisation Techniques` |[Link](https://www.kaggle.com/mukeshmanral/weight-initialisation-techniques-nn) | |
-|📙 `ActivationFunctions` & `Optimizers` |[Link](https://www.kaggle.com/code/mukeshmanral/activation-loss-optimisation) | | 
+|📙 `ActivationFunctions` & `Optimizers` |[Link](https://www.kaggle.com/code/mukeshmanral/activation-loss-optimisation) | |
+|📙 `Regularization` |[Add Link](#)|
 |📙 `Applying KerasTuner` & `Dropout` |[Link](https://www.kaggle.com/code/mukeshmanral/using-kerastuner-dropout) | |
 |📙 `Implementation` |[Link](https://www.kaggle.com/code/mukeshmanral/dl-activation-loss-optimisation-project/) | |
 |📙 Neural Network + `ANN`-Application-3 projects |[Link](https://www.kaggle.com/code/mukeshmanral/neural-networks-ann-projects/notebook?scriptVersionId=89900300) | |
@@ -113,7 +114,6 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 |📙  `Image Histograms` | [Link](https://www.kaggle.com/code/mukeshmanral/opencv-image-histograms)|
 |📙  `OpenCV-Building Glasses Filter` |[Link](https://www.kaggle.com/code/mukeshmanral/opencv-building-glasses-filter/notebook) |
 |📙  `Neural Networks & Parameterized Learning` | [Link](https://www.kaggle.com/mukeshmanral/neural-networks-and-parameterized-learning)|
-|📙  `Optimization Methods & Regularization` |[Link](https://www.kaggle.com/code/mukeshmanral/optimization-methods-and-regularization)|
 
 
 
