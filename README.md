@@ -107,8 +107,8 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 
 | Computer Vision | Code + Blog Link|
 |-----------------|-----------|
-|📙  `OpenCV Basic's` like --> (Pixel Manipulation, Getting & Setting Pixels, Image Translation, Rotation, Interpolation Methods and comarison, Fliping, Croping, Arithmetic, Bitwise, Masking, Channels Splitting & Merging )| [Link](https://www.kaggle.com/code/mukeshmanral/opencv-basic-0/)
-|📙  `Image Processing Operations` like --> (Morphological Operations, Smoothing & Blurring, ColorSpaces, Thresholding, Adaptive Thresholding, Kernels, Image gradient-Shobel & Scharr Kernels, Canny Edge Detection, Automatic Edge Detection)|[Link](https://www.kaggle.com/code/mukeshmanral/opencv-basic-image-processing-operations) |
+|📙  `Image Transformation` : (Pixel Manipulation, Getting & Setting Pixels, Image Translation, Rotation, Interpolation Methods and comarison, Fliping, Croping, Arithmetic, Bitwise, Masking, Channels Splitting & Merging )| [Link](https://www.kaggle.com/code/mukeshmanral/opencv-basic-0/)
+|📙  `Image Processing Operations` : (Morphological Operations, Smoothing & Blurring, ColorSpaces, Thresholding, Adaptive Thresholding, Kernels, Image gradient-Shobel & Scharr Kernels, Canny Edge Detection, Automatic Edge Detection)|[Link](https://www.kaggle.com/code/mukeshmanral/opencv-basic-image-processing-operations) |
 |📙  `Morphological Operations(OpenCv)` | [Link](https://www.kaggle.com/mukeshmanral/morphological-operations-opencv)
 |📙  `Image Processing -- flow_from_directory` | [Link](https://www.kaggle.com/mukeshmanral/preprocess-images)
 |📙  `Image Histograms` | [Link](https://www.kaggle.com/code/mukeshmanral/opencv-image-histograms)|
