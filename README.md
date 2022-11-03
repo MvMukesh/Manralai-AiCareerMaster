@@ -110,7 +110,7 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 |📙  `Image Transformation` : (Pixel Manipulation, Getting & Setting Pixels, Image Translation, Rotation, Interpolation Methods and comarison, Fliping, Croping, Arithmetic, Bitwise, Masking, Channels Splitting & Merging )| [Link](https://www.kaggle.com/code/mukeshmanral/opencv-basic-0/)
 |📙  `Image Processing Operations` : (Morphological Operations, Smoothing & Blurring, ColorSpaces, Thresholding, Adaptive Thresholding, Kernels, Image gradient-Shobel & Scharr Kernels, Canny Edge Detection, Automatic Edge Detection)|[Link](https://www.kaggle.com/code/mukeshmanral/opencv-basic-image-processing-operations) |
 |📙  `Morphological Operations(OpenCv)` | [Link](https://www.kaggle.com/mukeshmanral/morphological-operations-opencv)
-|📙  `Image Processing -- flow_from_directory` | [Link](https://www.kaggle.com/mukeshmanral/preprocess-images)
+|📙  `Phases of Image Processing, using flow_from_directory` | [Link](https://www.kaggle.com/mukeshmanral/preprocess-images)
 |📙  `Image Histograms` | [Link](https://www.kaggle.com/code/mukeshmanral/opencv-image-histograms)|
 |📙  `OpenCV-Building Glasses Filter` |[Link](https://www.kaggle.com/code/mukeshmanral/opencv-building-glasses-filter/notebook) |
 |📙  `Neural Networks & Parameterized Learning` | [Link](https://www.kaggle.com/mukeshmanral/neural-networks-and-parameterized-learning)|
