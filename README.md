@@ -78,7 +78,8 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 |📙 `Gradient Descent from Scratch` |[Link](https://www.kaggle.com/mukeshmanral/gradient-descent-from-scratch) | |
 |📙 `SGD with Momentum from Scratch` |[Link](https://www.kaggle.com/mukeshmanral/sgd-with-momentum-from-scratch) | |
 |📙 `Weight Initialisation Techniques` |[Link](https://www.kaggle.com/mukeshmanral/weight-initialisation-techniques-nn) | |
-|📙 `ActivationFunctions` & `Optimizers` |[Link](https://www.kaggle.com/code/mukeshmanral/activation-loss-optimisation) | |
+|📙 `ActivationFunctions` & `Loss` |[Link](https://www.kaggle.com/code/mukeshmanral/activation-loss-optimisation) | |
+|📙 `Optimizers & Fast Optimizers` |[Link](https://www.kaggle.com/code/mukeshmanral/optimizers-fast-optimizers/notebook) | |
 |📙 `Regularization : Avoiding Overfitting` |[Add Link](#)|
 |📙 `Applying KerasTuner` & `Dropout` |[Link](https://www.kaggle.com/code/mukeshmanral/using-kerastuner-dropout) | |
 |📙 `Implementation` |[Link](https://www.kaggle.com/code/mukeshmanral/dl-activation-loss-optimisation-project/) | |
