@@ -12,7 +12,8 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 # 🔴Python 0 to Expert
 |Pyton         | Guide + Video Link |
 |--------------|--------------------|
-|📙 `Python - Guide & Playlist` |[YT Playlist + Guide](https://github.com/MvMukesh/Python-Complete-Roadmap-to-Expert) |
+|📙 `Python - Guide & Playlist` |[YT Playlist + Guide](https://github.com/MvMukesh/Python-Complete-Roadmap-to-Expert)|
+|📙 `Python - Patterns Playlist` |[YT Private Playlist](https://www.kaggle.com/mukeshmanral/python-practice) |
 |📙 `Python - Functions & OOP's` |[YT Private Playlist](https://www.kaggle.com/mukeshmanral/python-functions-oop-s) |
 |📙 `Python - Data Structure & Algorithm` | [YT Private Playlist](https://www.kaggle.com/code/mukeshmanral/data-structure-and-algorithm-foundation-in-python/) |
 |📙 `Python Data Structure - Array` | [YT Private Playlist](https://www.kaggle.com/code/mukeshmanral/data-structure-array/notebook) |
