@@ -84,7 +84,7 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 |📙 `Optimizers & Fast Optimizers` |[Link](https://www.kaggle.com/code/mukeshmanral/optimizers-fast-optimizers/notebook) | |
 |📙 `Regularization : Avoiding Overfitting` |[Update Private Link](https://www.kaggle.com/code/mukeshmanral/regularization-avoiding-overfitting)|
 |📙 `Applying KerasTuner` & `Dropout` |[Link](https://www.kaggle.com/code/mukeshmanral/using-kerastuner-dropout) | |
-|📙 `Implementation` |[Link](https://www.kaggle.com/code/mukeshmanral/dl-activation-loss-optimisation-project/) | |
+|📙 `More Implementation` |[Link](https://www.kaggle.com/code/mukeshmanral/dl-activation-loss-optimisation-project/) | |
 |📙 Neural Network + `ANN`-Application-3 projects |[Link](https://www.kaggle.com/code/mukeshmanral/neural-networks-ann-projects/notebook?scriptVersionId=89900300) | |
 |📙 Loan Prediction Using Neural Network in Keras |[Link](https://www.kaggle.com/code/mukeshmanral/loan-prediction-using-neural-network-keras) | |
 |📙 `TensorFlow2.x & CNN`|[Link](https://www.kaggle.com/code/mukeshmanral/tensorflow-cnn) ||
