@@ -97,7 +97,7 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 |📙 `SVM`|[Link](https://www.kaggle.com/mukeshmanral/support-vector-machine-svm) | |
 |📙 `Object Detection Basics`  |[Link](https://www.kaggle.com/code/mukeshmanral/object-detection-basics/notebook) |
 |📙 `R-CNN` - `Object Detection` |[Link](https://www.kaggle.com/mukeshmanral/r-cnn) | |
-|📙 `Fast R-CNN` - `Object Detection` |[Link](#) | |
+|📙 `Fast R-CNN` - `Object Detection` |[Update Link](#) | |
 |📙 `Faster R-CNN` - `Object Detection` | | |
 |📙 `SSD` Single Shot Detectron | | |
 |📙 `YOLO`| | |
