@@ -96,6 +96,7 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 |📙 `TransferLearning` `ResNet-(2015)` - `Classification`  |[Link](https://www.kaggle.com/code/mukeshmanral/imageclassification-transferlearning-resnet/notebook) | |
 |📙 `SVM`|[Link](https://www.kaggle.com/mukeshmanral/support-vector-machine-svm) | |
 |📙 `Object Detection Basics`  |[Link](https://www.kaggle.com/code/mukeshmanral/object-detection-basics/notebook) |
+|📙 `Differece (R-CNN, Fast R-CNN, Faster R-CNN)`  |[Link](https://www.kaggle.com/mukeshmanral/r-cnn-fast-r-cnn-faster-r-cnn) |
 |📙 `R-CNN` - `Object Detection` |[Link](https://www.kaggle.com/mukeshmanral/r-cnn) | |
 |📙 `Fast R-CNN` - `Object Detection` |[Update Link](#) | |
 |📙 `Faster R-CNN` - `Object Detection` | | |
