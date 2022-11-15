@@ -99,7 +99,7 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 |📙 `Differece (R-CNN, Fast R-CNN, Faster R-CNN)`  |[Link](https://www.kaggle.com/mukeshmanral/r-cnn-fast-r-cnn-faster-r-cnn) |
 |📙 `R-CNN` - `Object Detection` |[Link](https://www.kaggle.com/mukeshmanral/r-cnn) | |
 |📙 `Fast R-CNN` - `Object Detection` |[Update Link](#) | |
-|📙 `Faster R-CNN` - `Object Detection` | | |
+|📙 `Faster R-CNN` - `Object Detection` |[Link](https://www.kaggle.com/mukeshmanral/faster-r-cnn) | |
 |📙 `SSD` Single Shot Detectron | | |
 |📙 `YOLO`| | |
 
