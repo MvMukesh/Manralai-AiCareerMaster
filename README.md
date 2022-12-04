@@ -36,7 +36,7 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 |📙 Problem Solving[Mapping Business Problem to Data Science Problem] | [Link](https://www.kaggle.com/code/mukeshmanral/mapping-business-problem-to-data-science-problem/)| |
 |📙 First Classificaton+Regression Models - How to?? When to?? of Modeling |[Link](https://www.kaggle.com/mukeshmanral/first-model-how-to-what-to-classif-regre) | |
 |📙 Logistic Regression derivation(Probabilistic,Geometric,Loss Interpretations)|[Link](https://www.kaggle.com/mukeshmanral/derivinglogisticregression-maths-application) | |
-|📙 Linear Regression derivation|[Add Link]() | |
+|📙 Linear Regression derivation|[Link](https://www.kaggle.com/mukeshmanral/linear-regression-derivation/) | |
 |📙 Linear Regression Math+implementation+Project+Interview-Questions|[Link](https://www.kaggle.com/mukeshmanral/linear-regression)||
 |📙 Linear Regression (Basic) |[Link](https://www.kaggle.com/mukeshmanral/linear-regression-basic)| |
 |📙 Multiple Linear Regression (Basic) |[Link](https://www.kaggle.com/mukeshmanral/multiple-linear-regression-basic/notebook) | |
