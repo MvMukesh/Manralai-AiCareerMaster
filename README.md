@@ -49,6 +49,7 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 |📙 PCA application you must know things |[Link](https://www.kaggle.com/mukeshmanral/pca-basic) | [PCA - Second Principal Component have to be orthogonal to first one? See Why!](https://www.linkedin.com/pulse/pca-second-principal-component-have-orthogonal-first-mukesh-manral/) |
 |📙 PCA application step by step - 2 | [Link](https://www.kaggle.com/mukeshmanral/pca-2-reducing-dimensions/)|[PCA-1](https://www.linkedin.com/pulse/principal-component-analysis-dimension-reduction-1-mukesh-manral/?trackingId=rRnwC6pA6hD%2BzFWumbYjlw%3D%3D), [PCA-2]()|
 |📙 Vehicle Loan Default Prediction [EDA + Model]|[Link](https://www.kaggle.com/mukeshmanral/vehicle-loan-default-prediction-eda-model)||
+|📙 Decision Tree Derivation |[Private Link](https://www.kaggle.com/code/mukeshmanral/deriving-decision-tree/notebook) | |
 |📙 Decision Tree end2end + HyperparameterTuning | [Link](https://www.kaggle.com/code/mukeshmanral/decisiontree-end2end/notebook)| |
 |📙 Bagging(ensemble_concept[RF-ExTree]) |[Link](https://www.kaggle.com/code/mukeshmanral/ensemble-bagging-boosting/notebook) | |
 |📙 Employees-earnings (Model comparison, EDA many more) |[Link](https://www.kaggle.com/code/mukeshmanral/employees-earnings/notebook) | |
