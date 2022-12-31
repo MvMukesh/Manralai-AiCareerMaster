@@ -34,14 +34,15 @@ AIM is clear, write or communicate in such a way that people can follow ==> [kat
 |📙 Machine Learning Life Cycle      |[Link](https://www.kaggle.com/mukeshmanral/machine-learning-life-cycle-basic/edit/run/88227239)| |
 |📙 Simple to understand ML framework| [Link](https://github.com/MvMukesh/ML-ProblemSolving-FrameWork) |  |
 |📙 Problem Solving[Mapping Business Problem to Data Science Problem] | [Link](https://www.kaggle.com/code/mukeshmanral/mapping-business-problem-to-data-science-problem/)| |
-|📙 First Classificaton+Regression Models - How to?? When to?? of Modeling |[Link](https://www.kaggle.com/mukeshmanral/first-model-how-to-what-to-classif-regre) | |
-|📙 Logistic Regression derivation(Probabilistic,Geometric,Loss Interpretations)|[Link](https://www.kaggle.com/mukeshmanral/derivinglogisticregression-maths-application) | |
+|📙 First Classificaton + Regression Models - How to?? When to?? of Modeling |[Link](https://www.kaggle.com/mukeshmanral/first-model-how-to-what-to-classif-regre) | |
+|📙 Logistic Regression Derivation(Probabilistic,Geometric,Loss Interpretations)|[Link](https://www.kaggle.com/mukeshmanral/derivinglogisticregression-maths-application) | |
 |📙 Linear Regression derivation|[Link](https://www.kaggle.com/mukeshmanral/linear-regression-derivation/) | |
 |📙 Linear Regression Math+implementation+Project+Interview-Questions|[Link](https://www.kaggle.com/mukeshmanral/linear-regression)||
 |📙 Linear Regression (Basic) |[Link](https://www.kaggle.com/mukeshmanral/linear-regression-basic)| |
 |📙 Multiple Linear Regression (Basic) |[Link](https://www.kaggle.com/mukeshmanral/multiple-linear-regression-basic/notebook) | |
 |📙 Polynomial Regression (Basic) |[Link](https://www.kaggle.com/mukeshmanral/polynomial-regression-basic) | |
 |📙 Advance Linear Regression  +GridSearchCV + HyperParameterTuning(Basic) |[Link](https://www.kaggle.com/mukeshmanral/advance-linear-regression-gridsearchcv-hpt-basic?scriptVersionId=77957379) | |
+|📙 K-NN Deriving |[Private Link](https://www.kaggle.com/code/mukeshmanral/deriving-knn/notebook) | |
 |📙 k-NN Algorithm-1 (Basic) |[Link](https://www.kaggle.com/mukeshmanral/k-nn-algorithm-1-basic/notebook) | |
 |📙 k-NN Algorithm-2 (Basic) |[Link](https://www.kaggle.com/mukeshmanral/k-nn-algorithm-2-basic) | |
 |📙 Propose Saving Options for for India based Poultry Farm having spending of appx 22 billion | [Link+KPI's](https://github.com/MvMukesh/Spend_Analysis-ProposedSavingOptions)| |
