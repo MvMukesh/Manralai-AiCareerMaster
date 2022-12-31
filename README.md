@@ -1,4 +1,4 @@
-# 🔵 Free Full Stack Data Science : Blog📩[Manral.Ai](https://www.linkedin.com/newsletters/6872441622500585472/) 🔵
+# 🔵 Free Full Stack Data Science : Blog📩[ManralAi](https://www.linkedin.com/newsletters/6872441622500585472/) 🔵
 
 See this repo as a tracker of n-things I am giving back in this journey of Data and trying my level best to explain them to people in simple way Possible <br>
 
