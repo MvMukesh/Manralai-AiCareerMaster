@@ -44,8 +44,8 @@ See this repo as a tracker of n-things I am giving back in this journey of Data 
 |📙 First Classificaton + Regression Models - How to?? When to?? of Modeling |[Link](https://www.kaggle.com/mukeshmanral/first-model-how-to-what-to-classif-regre) | |
 |📙 Logistic Regression Derivation(Probabilistic,Geometric,Loss Interpretations)|[Link](https://www.kaggle.com/mukeshmanral/derivinglogisticregression-maths-application) | |
 |📙 Linear Regression derivation|[Link](https://www.kaggle.com/mukeshmanral/linear-regression-derivation/) | |
-|📙 Linear Regression Math+implementation+Project+Interview-Questions|[Link](https://www.kaggle.com/mukeshmanral/linear-regression)||
-|📙 Linear Regression (Basic) |[Link](https://www.kaggle.com/mukeshmanral/linear-regression-basic)| |
+|📙 Linear Regression Hypothesis + interview questions|[Link](https://www.kaggle.com/mukeshmanral/linear-regression)||
+|📙 Linear Regression implementing Cost Function |[Link](https://www.kaggle.com/mukeshmanral/linear-regression-basic)| |
 |📙 Multiple Linear Regression (Basic) |[Link](https://www.kaggle.com/mukeshmanral/multiple-linear-regression-basic/notebook) | |
 |📙 Polynomial Regression (Basic) |[Link](https://www.kaggle.com/mukeshmanral/polynomial-regression-basic) | |
 |📙 Advance Linear Regression  +GridSearchCV + HyperParameterTuning(Basic) |[Link](https://www.kaggle.com/mukeshmanral/advance-linear-regression-gridsearchcv-hpt-basic?scriptVersionId=77957379) | |
