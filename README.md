@@ -7,7 +7,7 @@ See this repo as a tracker of n-things I am giving back in this journey of Data 
 
 <p align="center">
     This is Mukesh Manral
-  <kbd><img src="https://github.com/MvMukesh/Manral.Ai/blob/main/images/face_parts.png"/></kbd>
+  <kbd><img src="https://github.com/MvMukesh/Manral.Ai/blob/main/images/face_parts.png" /></kbd>
 
 # 🔴Statistics
 |Statistics    | Guide + Video Link |
@@ -74,9 +74,9 @@ See this repo as a tracker of n-things I am giving back in this journey of Data 
 # 🔴Deep Learning
   
 <p align="center">
-  <kbd><img src="https://github.com/MvMukesh/Computer-Vision-Deep-Learning-Projects/blob/main/all%20images/dl%20timeline.png"/></kbd>
+  <kbd><img src="https://github.com/MvMukesh/Computer-Vision-Deep-Learning-Projects/blob/main/all%20images/dl%20timeline.png" /></kbd>
   <b><u>State of the Art Object Detection</u></b>
-  <kbd><img src='https://github.com/MvMukesh/Free-FullStack-DataScience/blob/main/images/object_detection.png'/></kbd>
+  <kbd><img src='https://github.com/MvMukesh/Free-FullStack-DataScience/blob/main/images/object_detection.png' /></kbd>
 </p>
 
 
@@ -117,7 +117,7 @@ See this repo as a tracker of n-things I am giving back in this journey of Data 
 # 🔴Computer Vision + OpenCV
 
 <p align="center">
-  <kbd><img src="https://github.com/MvMukesh/Computer-Vision-Deep-Learning-Projects/blob/main/all%20images/Feature%20Selection.png"/></kbd>
+  <kbd><img src="https://github.com/MvMukesh/Computer-Vision-Deep-Learning-Projects/blob/main/all%20images/Feature%20Selection.png" /></kbd>
 </p>
 
 | Computer Vision | Code + Blog Link|
