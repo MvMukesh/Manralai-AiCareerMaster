@@ -23,7 +23,7 @@ See this repo as a tracker of n-things I am giving back in this journey of Data 
 |📙 `Python - Patterns Playlist` |[YT Private Playlist](https://www.kaggle.com/mukeshmanral/python-practice) |
 |📙 `Python - Functions & OOP's` |[YT Private Playlist](https://www.kaggle.com/mukeshmanral/python-functions-oop-s) |
 |📙 `Python - Data Structure & Algorithm` | [YT Private Playlist](https://www.kaggle.com/code/mukeshmanral/data-structure-and-algorithm-foundation-in-python/) |
-|📙 `Python Data Structure - Array` | [YT Private Playlist](https://www.kaggle.com/code/mukeshmanral/data-structure-array/notebook) |
+|📙 `Python Data Structure - Array,Strings` | [YT Private Playlist](https://www.kaggle.com/code/mukeshmanral/data-structure-array/notebook) |
 
 
 # 🔴Data Analysis
