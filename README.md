@@ -60,6 +60,7 @@ See this repo as a tracker of n-things I am giving back in this journey of Data 
 |📙 Decision Tree end2end + HyperparameterTuning | [Link](https://www.kaggle.com/code/mukeshmanral/decisiontree-end2end/notebook)| |
 |📙 Bagging(ensemble_concept[RF-ExTree]) |[Link](https://www.kaggle.com/code/mukeshmanral/ensemble-bagging-boosting/notebook) | |
 |📙 Employees-earnings (Model comparison, EDA many more) |[Link](https://www.kaggle.com/code/mukeshmanral/employees-earnings/notebook) | |
+|📙 `SVM`|[Link](https://www.kaggle.com/mukeshmanral/support-vector-machine-svm) | |
 
 
 # 🔴Feature Engineering 
@@ -104,7 +105,6 @@ See this repo as a tracker of n-things I am giving back in this journey of Data 
 |📙 `TransferLearning` `AlexNet-(2012)` - `Classification`  |[Link](https://www.kaggle.com/code/mukeshmanral/alexnet/notebook) |
 |📙 `TransferLearning` `VGGNet-(2014)` - `Classification`  |[Link](https://www.kaggle.com/code/mukeshmanral/visualgeometrygroup-vgg-16/) |
 |📙 `TransferLearning` `ResNet-(2015)` - `Classification`  |[Link](https://www.kaggle.com/code/mukeshmanral/imageclassification-transferlearning-resnet/notebook) | |
-|📙 `SVM`|[Link](https://www.kaggle.com/mukeshmanral/support-vector-machine-svm) | |
 |📙 `Object Detection Basics`  |[Link](https://www.kaggle.com/code/mukeshmanral/object-detection-basics/notebook) |
 |📙 `Differece (R-CNN, Fast R-CNN, Faster R-CNN)`  |[Link](https://www.kaggle.com/mukeshmanral/r-cnn-fast-r-cnn-faster-r-cnn) |
 |📙 `R-CNN` - `Object Detection` |[Link](https://www.kaggle.com/mukeshmanral/r-cnn) | |
