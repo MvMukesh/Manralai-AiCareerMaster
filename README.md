@@ -27,9 +27,9 @@ See this repo as a tracker of n-things I am giving back in this journey of Data 
 |Pyton         | Guide + Video Link |
 |--------------|--------------------|
 |📙 `Python Tips & Tricks`|[Add Link]() |
-|📙 `Algorithms - LeetCode Crux`|[Private Link](https://www.kaggle.com/code/mukeshmanral/algorithms-in-python3/notebook) |
-|📙 `Python - Data Structure & TimeComplexities Crux` | [Private Link](https://www.kaggle.com/code/mukeshmanral/python-datastructure-timecomplexities/notebook)|
-|📙 `Asymptotic Notations [Big-(O,Omega),Small-(O,Omega),Theta]` | [Update Private Link]() |
+|📙 `Algorithms - LeetCode Crux`|[Private Link](https://www.kaggle.com/code/mukeshmanral/algorithms-tips-leetcode-crux-python-3-x/notebook)|
+|📙 `Python - Data Structure & TimeComplexities Crux`|[Private Link](https://www.kaggle.com/code/mukeshmanral/python-datastructure-timecomplexities/notebook)|
+|📙 `Asymptotic Notations [Big-(O,Omega),Small-(O,Omega),Theta] Crux` | [Update Private Link]() |
 |📙 `Python - Data Structure and Algorithm Foundation` | [Private Link](https://www.kaggle.com/code/mukeshmanral/data-structure-and-algorithm-foundation-in-python/) |
 |📙 `Python Data Structure - Array,Strings` | [YT Private Playlist](https://www.kaggle.com/code/mukeshmanral/data-structure-array/notebook) |
 
