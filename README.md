@@ -16,13 +16,20 @@ See this repo as a tracker of n-things I am giving back in this journey of Data 
 |📙 `Inferential Statistics` |* [t-Test & it's Types](#) <br> * [z-Test](#) <br> * [Hypothesis Testing](#) <br> * [Typr-I & Type-II Error](#) <br> * [One way ANOVA](#) <br> * [Two way ANOVA](#) <br> * [Chi-Square Test](#)|
 
 
-# 🔴Python 0 to Expert
+# 🔴 0 to Python 
 |Pyton         | Guide + Video Link |
 |--------------|--------------------|
 |📙 `Python - Guide & Playlist` |[YT Playlist + Guide](https://github.com/MvMukesh/Python-Complete-Roadmap-to-Expert)|
 |📙 `Python - Patterns Playlist` |[YT Private Playlist](https://www.kaggle.com/mukeshmanral/python-practice) |
 |📙 `Python - Functions & OOP's` |[YT Private Playlist](https://www.kaggle.com/mukeshmanral/python-functions-oop-s) |
-|📙 `Python - Data Structure & Algorithm` | [YT Private Playlist](https://www.kaggle.com/code/mukeshmanral/data-structure-and-algorithm-foundation-in-python/) |
+
+# 🔴Python to Expert
+|Pyton         | Guide + Video Link |
+|--------------|--------------------|
+|📙 `Python Tips & Tricks`|[Add Link]() |
+|📙 `Algorithms - LeetCode Crux`|[Private Link](https://www.kaggle.com/code/mukeshmanral/algorithms-in-python3/notebook) |
+|📙 `Python - Data Structure & TimeComplexities` | [Private Link](https://www.kaggle.com/code/mukeshmanral/python-datastructure-timecomplexities/notebook)|
+|📙 `Python - Data Structure and Algorithm Foundation` | [Private Link](https://www.kaggle.com/code/mukeshmanral/data-structure-and-algorithm-foundation-in-python/) |
 |📙 `Python Data Structure - Array,Strings` | [YT Private Playlist](https://www.kaggle.com/code/mukeshmanral/data-structure-array/notebook) |
 
 
