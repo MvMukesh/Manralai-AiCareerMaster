@@ -50,8 +50,10 @@
 # 🔴Data Analysis
 
 <p align="center">
-  <kbd><img src="https://user-images.githubusercontent.com/26667491/221353659-7cb8882c-49aa-44eb-8a40-30329a02005a.png" alt="chart_selection.png"></kbd> 
+  <kbd><img src="https://user-images.githubusercontent.com/26667491/221353659-7cb8882c-49aa-44eb-8a40-30329a02005a.png" alt="chart_selection.png"></kbd>
+  <kbd><img src="https://user-images.githubusercontent.com/26667491/221354577-6b5ecf20-7b79-41a1-9f91-d3cc8eb2a306.png" alt="chart_selection1.png"></kbd> 
 </p>
+
 
 |Data Analysis | Code + Blog Link | Video Link |
 |--------------|------------------|------------|
