@@ -7,7 +7,7 @@ See this repo as a tracker of n-things I am giving back in this journey of Data 
 
 <p align="center">
     This is Mukesh Manral
-  <--!<kbd><img src="https://github.com/MvMukesh/Manral.Ai/blob/main/images/face_parts.png" /></kbd>-->
+  <!--<kbd><img src="https://github.com/MvMukesh/Manral.Ai/blob/main/images/face_parts.png" /></kbd> -->
 
 # 🔴Statistics
 |Statistics    | Guide + Video Link |
