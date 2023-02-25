@@ -167,16 +167,21 @@ See this repo as a tracker of n-things I am giving back in this journey of Data 
 |📙 AWS Sagemaker | [Blog](#) | Play List not yet updated(#)|
 
 
-
 # 🔴Deployment
 
 | Deployment  |Code + Blog Link  |  Video Link|
 |-------------|-------------|------------------|
 |📙  Deploy ML + Dl models using Colab & AWS          | [Link](https://www.kaggle.com/code/mukeshmanral/deploying-ml-and-dl-models-streamlit-coalb-on-aws)| [---](link)   |
 
+
+# 🔴MLOps
+* [Model in Production](https://github.com/MvMukesh/Models-InProduction)
+* [Testing and Monitoring Deployments](https://github.com/MvMukesh/Monitoring-Testing-Deployments)
+
 -----
 🔴🔴🔴
 -----
+
 # 🔴Python-Complete-Roadmap to Expert
 
 <table>
