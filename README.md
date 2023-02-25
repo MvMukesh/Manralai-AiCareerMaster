@@ -88,6 +88,7 @@
   <b><u>State of the Art Object Detection Timeline</u></b>
   <kbd><img src='https://user-images.githubusercontent.com/26667491/221341632-08e29232-3df2-4d15-a04c-f018454204ec.png'></kbd>
   <kbd><img src='https://user-images.githubusercontent.com/26667491/221330431-08150cef-1b02-42b5-99a8-da7666bb5df5.png' alt="usage image"></kbd>
+  <kbd><img src='https://user-images.githubusercontent.com/26667491/221342961-0c2a2a4f-847f-4cc4-a6f5-80a74fef1b2b.png' alt="1&2 stage detection"></kbd>
 </p>
 
 
