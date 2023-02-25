@@ -126,8 +126,9 @@ See this repo as a tracker of n-things I am giving back in this journey of Data 
 # 🔴Computer Vision + OpenCV
 
 <p align="center">
-  <kbd><img src="https://github.com/MvMukesh/Computer-Vision-Deep-Learning-Projects/blob/main/all%20images/Feature%20Selection.png" /></kbd>
+  <kbd><img src="https://user-images.githubusercontent.com/26667491/221332221-acba23e8-49f8-47a0-bc96-a743b889746f.png" tag='Feature Selection'></kbd>
 </p>
+
 
 | Computer Vision | Code + Blog Link|
 |-----------------|-----------|
