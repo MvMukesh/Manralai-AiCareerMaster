@@ -16,6 +16,7 @@
 |📙 `Descriptive Statistics` |* [Measure of Frequency and Central Tendency](#) <br> * [Measure of Dispersion](#) <br> * [Probability Distribution](#)  <br> * [Gaussian Normal Distribution](#) <br> * [Skewness and Kurtosis](#) <br> * [Continuous and Discrete Functions](#) <br> * [Goodness of Fit](#)  <br> * [Normality Test](#)|
 |📙 `Inferential Statistics` |* [t-Test & it's Types](#) <br> * [z-Test](#) <br> * [Hypothesis Testing](#) <br> * [Typr-I & Type-II Error](#) <br> * [One way ANOVA](#) <br> * [Two way ANOVA](#) <br> * [Chi-Square Test](#)|
 
+<hr style="border:40px solid gray"> </hr>
 
 # 🔴 0 to Python 
 |Pyton         | Guide + Video Link |
@@ -34,6 +35,7 @@
 |📙 `Python - Data Structure and Algorithm Foundation` | [Private Link](https://www.kaggle.com/code/mukeshmanral/data-structure-and-algorithm-foundation-in-python/) |
 |📙 `Python Data Structure - Array,Strings` | [YT Private Playlist](https://www.kaggle.com/code/mukeshmanral/data-structure-array/notebook) |
 
+<hr style="border:40px solid gray"> </hr>
 
 # 🔴Data Analysis
 |Data Analysis | Code + Blog Link | Video Link |
@@ -80,7 +82,8 @@
 |📙 Variable Transformation (Square Root, Reciprocal, Logarithmic, Exponential\Power Transformation|[Link](https://www.kaggle.com/code/mukeshmanral/feature-engineering-dataset-3-basic) | |
 |📙 DateTime Engineering |[Link](https://www.kaggle.com/code/mukeshmanral/feature-engineering-dataset-4-basic) | |
   
-  
+<hr style="border:40px solid gray"> </hr>
+
 # 🔴Deep Learning
   
 <p align="center">
@@ -124,6 +127,7 @@
 |📙 `SSD` - `Single Shot Detector` | | |
 |📙 `YOLO` - `Single Shot Detector`| | |
 
+<hr style="border:40px solid gray"> </hr>
 
 # 🔴Computer Vision + OpenCV
 
@@ -143,6 +147,7 @@
 |📙  `Neural Networks & Parameterized Learning` | [Link](https://www.kaggle.com/mukeshmanral/neural-networks-and-parameterized-learning)|
 
 
+<hr style="border:40px solid gray"> </hr>
 
 # 🔴Recommender System 
 
@@ -153,6 +158,7 @@
 |📙 End to End Recommender System |[Link](https://www.kaggle.com/mukeshmanral/end-to-end-recommender-system) | |
 
 
+<hr style="border:40px solid gray"> </hr>
 
 # 🔴Spark Ecosystem
 
@@ -160,6 +166,8 @@
 |--------------|-----------|-----------|
 |📙 Spark Ecosystem(Big Data + Apache Hadoop[HDFS,YARN,MapReduce] + Spark Ecosystem[Architecture,Cluster Manager,Running application - Locally and on YARN,SparkContext vs SparkSession,spark Dataframe+Execution]+spark sql api+spark ml) |[Link](https://www.kaggle.com/mukeshmanral/apache-spark-basic) | |
 
+
+<hr style="border:40px solid gray"> </hr>
 
 # 🔴AWS
 
@@ -169,12 +177,15 @@
 |📙 AWS Sagemaker | [Blog](#) | Play List not yet updated(#)|
 
 
+<hr style="border:40px solid gray"> </hr>
+
 # 🔴Deployment
 
 | Deployment  |Code + Blog Link  |  Video Link|
 |-------------|-------------|------------------|
 |📙  Deploy ML + Dl models using Colab & AWS| [Link](https://www.kaggle.com/code/mukeshmanral/deploying-ml-and-dl-models-streamlit-coalb-on-aws)| [---](link)|
 
+<hr style="border:40px solid gray"> </hr>
 
 # 🔴MLOps
 * [Model in Production](https://github.com/MvMukesh/Models-InProduction)
@@ -479,7 +490,7 @@
   </tbody>
 </table>
 
----
+<hr style="border:40px solid gray"> </hr>
 # 🔴Data Structure & Algorithms
 
 * Types of Algorithm Analysis
@@ -492,7 +503,8 @@
 * Sorting
 * Searching
 * Hashing
-----
+
+<hr style="border:40px solid gray"> </hr>
 # 🔴Structure Query Language (SQL)
 
 * Setup SQL server
@@ -510,8 +522,9 @@
 * Union
 * MySQL
 * Complex Questions
-Solving Interview Questions
-----
+
+<hr style="border:40px solid gray"> </hr>
+
 # 🔴Pandas | Numpy | Matplotlib
 
 ☄️ **Pandas**
@@ -538,7 +551,8 @@ Solving Interview Questions
 * Label Parameters, Legend
 * Bar Chart, Pie Chart, Histogram, Scatter Plot
 
-----
+<hr style="border:40px solid gray"> </hr>
+
 # 🔴Statistics
 
 ☄️ **Descriptive Statistics**
@@ -566,7 +580,8 @@ Solving Interview Questions
 * Two way ANOVA
 * Chi-Square Test
 
-----
+
+<hr style="border:40px solid gray"> </hr>
 
 # 🔴Machine Learning
 
@@ -616,7 +631,8 @@ Solving Interview Questions
 
 ☄️ **Evaluation Metrices - Regression**
 
-----
+<hr style="border:40px solid gray"> </hr>
+
 # 🔴Natural Language Processing
 
 * Sentiment analysis
@@ -627,12 +643,14 @@ Solving Interview Questions
 * Machine Translation, BLEU Score
 * Text Generation, Summarization, ROUGE Score
 
-----
+<hr style="border:40px solid gray"> </hr>
+
 # 🔴MLOps
 * [Model in Production](https://github.com/MvMukesh/Models-InProduction)
 * [Testing and Monitoring Deployments](https://github.com/MvMukesh/Monitoring-Testing-Deployments)
 
-----
+<hr style="border:40px solid gray"> </hr>
+
 # 🔴Computer Vision
 
 * Tensors | Keras | PyTorch
@@ -653,11 +671,13 @@ Solving Interview Questions
 * Histogram equalization
 * Detecting corners
 
-----
+<hr style="border:40px solid gray"> </hr>
+
 # Connect With me 
 🎈[AI NewsLatter](https://www.linkedin.com/newsletters/6872441622500585472/) <br>
 🎈[LinkedIn](https://www.linkedin.com/in/mukesh-manral/)
 
+<hr style="border:40px solid gray"> </hr>
 
 -----
 🔴🔴🔴
@@ -767,8 +787,8 @@ These all resources will guide you in understanding fundamental concepts to be l
 |10. |[Extreme Gradient Boosting, Cat Boost, Light Gradient Boost](https://medium.com/riskified-technology/xgboost-lightgbm-or-catboost-which-boosting-algorithm-should-i-use-e7fda7bb36bc) |
 |11. |[Stacking & Blending](https://www.mygreatlearning.com/blog/ensemble-learning/) |
 
-----
-
+<hr style="border:40px solid gray"> </hr>
 # Connect With me 
 🎈[AI NewsLatter](https://www.linkedin.com/newsletters/6872441622500585472/) <br>
 🎈[LinkedIn](https://www.linkedin.com/in/mukesh-manral/)
+<hr style="border:40px solid gray"> </hr>
