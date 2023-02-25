@@ -8,7 +8,7 @@
 
 <p align="center">
     This is Mukesh Manral
-  <!--<kbd><img src="https://github.com/MvMukesh/Manral.Ai/blob/main/images/face_parts.png" /></kbd> -->
+  <!--<kbd><img src="https://github.com/MvMukesh/Manral.Ai/blob/main/images/face_parts.png" /></kbd> --> </p>
 
 # 🔴Statistics
 |Statistics    | Guide + Video Link |
@@ -92,7 +92,10 @@
   <kbd><img src='https://user-images.githubusercontent.com/26667491/221341632-08e29232-3df2-4d15-a04c-f018454204ec.png'></kbd>
   <kbd><img src='https://user-images.githubusercontent.com/26667491/221330431-08150cef-1b02-42b5-99a8-da7666bb5df5.png' alt="usage image"></kbd>
   <kbd><img src='https://user-images.githubusercontent.com/26667491/221342961-0c2a2a4f-847f-4cc4-a6f5-80a74fef1b2b.png' alt="1&2 stage detection"></kbd>
+  <kbd><img src='https://user-images.githubusercontent.com/26667491/221352208-820f562e-efaa-41d4-bcd3-78c89f432653.png' alt="YOLO Family.png"></kbd>
+  <kbd><img src='https://user-images.githubusercontent.com/26667491/221352322-1835c471-409e-48f1-aed9-105c2b68e9f8.png' alt="YOLO Family evolution table"></kbd>
 </p>
+
 
 
 | Deep Learning| Code + Blog Link | Video Link   |
