@@ -173,7 +173,7 @@
 
 | Deployment  |Code + Blog Link  |  Video Link|
 |-------------|-------------|------------------|
-|📙  Deploy ML + Dl models using Colab & AWS          | [Link](https://www.kaggle.com/code/mukeshmanral/deploying-ml-and-dl-models-streamlit-coalb-on-aws)| [---](link)   |
+|📙  Deploy ML + Dl models using Colab & AWS| [Link](https://www.kaggle.com/code/mukeshmanral/deploying-ml-and-dl-models-streamlit-coalb-on-aws)| [---](link)|
 
 
 # 🔴MLOps
