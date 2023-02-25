@@ -491,6 +491,7 @@
 </table>
 
 <hr style="border:40px solid gray"> </hr>
+
 # 🔴Data Structure & Algorithms
 
 * Types of Algorithm Analysis
@@ -505,6 +506,7 @@
 * Hashing
 
 <hr style="border:40px solid gray"> </hr>
+
 # 🔴Structure Query Language (SQL)
 
 * Setup SQL server
