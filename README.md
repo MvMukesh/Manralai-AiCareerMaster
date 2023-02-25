@@ -11,6 +11,13 @@
   <!--<kbd><img src="https://github.com/MvMukesh/Manral.Ai/blob/main/images/face_parts.png" /></kbd> --> </p>
 
 # 🔴Statistics
+
+<p align="center">
+  <kbd><img src="https://user-images.githubusercontent.com/26667491/221352642-da977395-8449-439f-aefe-405fac5bc914.png" alt="Intension of analysis.png"></kbd>
+  <kbd><img src="https://user-images.githubusercontent.com/26667491/221352714-b8cc82fa-3fa7-4e5d-9fe9-852697eb4ce4.png" alt="choose_stats_test.png"></kbd> 
+</p>
+
+
 |Statistics    | Guide + Video Link |
 |--------------|--------------------|
 |📙 `Descriptive Statistics` |* [Measure of Frequency and Central Tendency](#) <br> * [Measure of Dispersion](#) <br> * [Probability Distribution](#)  <br> * [Gaussian Normal Distribution](#) <br> * [Skewness and Kurtosis](#) <br> * [Continuous and Discrete Functions](#) <br> * [Goodness of Fit](#)  <br> * [Normality Test](#)|
