@@ -83,9 +83,9 @@ See this repo as a tracker of n-things I am giving back in this journey of Data 
 # 🔴Deep Learning
   
 <p align="center">
-  <kbd><img src="https://github.com/MvMukesh/Computer-Vision-Deep-Learning-Projects/blob/main/all%20images/dl%20timeline.png" /></kbd>
+  <kbd><img src="https://user-images.githubusercontent.com/26667491/221328067-954ea17f-8ba3-49d1-9766-126056fc287f.png" alt="dl timeline.png"></kbd>
   <b><u>State of the Art Object Detection</u></b>
-  <kbd><img src='https://github.com/MvMukesh/Free-FullStack-DataScience/blob/main/images/object_detection.png' /></kbd>
+  <kbd><img src='https://github.com/MvMukesh/Free-FullStack-DataScience/blob/main/images/object_detection.png'></kbd>
 </p>
 
 
