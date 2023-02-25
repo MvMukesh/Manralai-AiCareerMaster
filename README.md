@@ -1,6 +1,7 @@
 # 🔵 Free Full Stack Data Science : Blog📩[Manralai](https://www.linkedin.com/newsletters/6872441622500585472/) 🔵
 
-See this repo as a tracker of n-things I am giving back in this journey of Data and trying my level best to explain them to people in simple way Possible <br>
+**`This repository serves as a comprehensive log of my contributions to the field of data, as well as a testament to my unwavering commitment to making complex concepts accessible to others through clear and concise explanations`**
+<br>
 
 
 <hr style="border:40px solid gray"> </hr>
