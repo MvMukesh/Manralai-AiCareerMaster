@@ -13,7 +13,7 @@
 # 🔴Statistics
 
 <p align="center">
-  <kbd><img src="https://user-images.githubusercontent.com/26667491/221352642-da977395-8449-439f-aefe-405fac5bc914.png" alt="Intension of analysis.png"></kbd> </p>
+  <kbd><img src="https://user-images.githubusercontent.com/26667491/221352642-da977395-8449-439f-aefe-405fac5bc914.png" width=350 height=200 alt="Intension of analysis.png"></kbd> </p>
 
 <h2><u>Framework to Select Statistical Test</u></h2>
 <p align="center">
@@ -48,6 +48,11 @@
 <hr style="border:40px solid gray"> </hr>
 
 # 🔴Data Analysis
+
+<p align="center">
+  <kbd><img src="https://user-images.githubusercontent.com/26667491/221353659-7cb8882c-49aa-44eb-8a40-30329a02005a.png" alt="chart_selection.png"></kbd> 
+</p>
+
 |Data Analysis | Code + Blog Link | Video Link |
 |--------------|------------------|------------|
 |📙 Mapping Business Problem into Data Science Problem |[Link](https://www.kaggle.com/code/mukeshmanral/mapping-business-problem-into-data-science-problem/notebook) | |
