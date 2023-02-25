@@ -113,8 +113,6 @@
   <kbd><img src='https://user-images.githubusercontent.com/26667491/221352322-1835c471-409e-48f1-aed9-105c2b68e9f8.png' alt="YOLO Family evolution table"></kbd>
 </p>
 
-
-
 | Deep Learning| Code + Blog Link | Video Link   |
 |--------------|------------------|--------------|
 |📙 `kNN to Parameterised Learning` |[Link](https://www.kaggle.com/code/mukeshmanral/knn-to-parameterised-learning) | |
@@ -152,7 +150,7 @@
 # 🔴Computer Vision + OpenCV
 
 <p align="center">
-  <kbd><img src="https://user-images.githubusercontent.com/26667491/221332221-acba23e8-49f8-47a0-bc96-a743b889746f.png" tag='Feature Selection'></kbd>
+  <kbd><img src="https://user-images.githubusercontent.com/26667491/221357335-f61e957a-d2ca-42f5-bb3b-cbe852f0e4c5.gif" tag='vision.gif'></kbd>
 </p>
 
 
