@@ -206,6 +206,8 @@
 <hr style="border:40px solid gray"> </hr>
 
 # 🔴MLOps
+![mlops_cicd](https://user-images.githubusercontent.com/26667491/221462555-4ff921ec-6f31-4bf8-a7d9-5ab62f7d3630.png)
+
 * [Model in Production](https://github.com/MvMukesh/Models-InProduction)
 * [Testing and Monitoring Deployments](https://github.com/MvMukesh/Monitoring-Testing-Deployments)
 
