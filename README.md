@@ -64,8 +64,15 @@
   
 # 🔴Machine Learning 
 
+<h2><u>Imbalanced Binary Classification Metrices Guide</u></h2>
+<p align="center">
+  <kbd><img src="https://user-images.githubusercontent.com/26667491/221594738-5a6eed88-80a1-4927-ac5b-bdc99aa9dd98.png" alt="imbalance_metrices.png"</kbd> 
+  <kbd><img src="https://user-images.githubusercontent.com/26667491/221595523-8b083e7c-7f42-4558-82c1-a9cd4ad3b9a9.png" alt="sampling_techniques.png"</kbd></p>
+
+
+
 | Machine Learning                | Code + Blog Link                                                | Blog - Video Link   |
-|---------------------------------|-----------------------------------------------------------------|--------------|
+|---------------------------------|-----------------------------------------------------------------|---------------------|
 |📙 Machine Learning Life Cycle      |[Link](https://www.kaggle.com/mukeshmanral/machine-learning-life-cycle-basic/edit/run/88227239)| |
 |📙 Simple to understand ML framework| [Link](https://github.com/MvMukesh/ML-ProblemSolving-FrameWork) |  |
 |📙 Problem Solving[Mapping Business Problem to Data Science Problem] | [Link](https://www.kaggle.com/code/mukeshmanral/mapping-business-problem-to-data-science-problem/)| |
