@@ -24,8 +24,8 @@
 </p>
 
 
-|Statistics    | Guide + Video Link |
-|--------------|--------------------|
+|Statistics    | Understant these Basics(will update) |
+|--------------|--------------------------------------|
 |📙 `Descriptive Statistics` |* [Measure of Frequency and Central Tendency](#) <br> * [Measure of Dispersion](#) <br> * [Probability Distribution](#)  <br> * [Gaussian Normal Distribution](#) <br> * [Skewness and Kurtosis](#) <br> * [Continuous and Discrete Functions](#) <br> * [Goodness of Fit](#)  <br> * [Normality Test](#)|
 |📙 `Inferential Statistics` |* [t-Test & it's Types](#) <br> * [z-Test](#) <br> * [Hypothesis Testing](#) <br> * [Typr-I & Type-II Error](#) <br> * [One way ANOVA](#) <br> * [Two way ANOVA](#) <br> * [Chi-Square Test](#)|
 
