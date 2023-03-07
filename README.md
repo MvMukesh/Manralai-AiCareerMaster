@@ -160,7 +160,6 @@
   <kbd><img src="https://user-images.githubusercontent.com/26667491/221357335-f61e957a-d2ca-42f5-bb3b-cbe852f0e4c5.gif" tag='vision.gif' width="600"></kbd>
 </p>
 
-
 | Computer Vision | Code + Blog Link|
 |-----------------|-----------|
 |📙  `Image Transformation` : (Pixel Manipulation, Getting & Setting Pixels, Image Translation, Rotation, Interpolation Methods and comarison, Fliping, Croping, Arithmetic, Bitwise, Masking, Channels Splitting & Merging )| [Link](https://www.kaggle.com/code/mukeshmanral/opencv-basic-0/)
@@ -171,6 +170,16 @@
 |📙  `OpenCV-Building Glasses Filter` |[Link](https://www.kaggle.com/code/mukeshmanral/opencv-building-glasses-filter/notebook) |
 |📙  `Neural Networks & Parameterized Learning` | [Link](https://www.kaggle.com/mukeshmanral/neural-networks-and-parameterized-learning)|
 
+<hr style="border:40px solid gray"> </hr>
+
+# 🔴NLP 
+|         NLP        |     Code + Blog Link                                     | Video Link   |
+|--------------------|----------------------------------------------------------|--------------|
+|Tokenization,Lemmatization,Stemming,BOW,TF-IDF,N-Gram,POS,Word Embedding(Word2Vec),Gensim,CBOW,SkipGram,FastText|[Link](https://www.kaggle.com/code/mukeshmanral/basic-nlp)|              |
+|                    |                  |              |
+|                    |                  |              |
+|                    |                  |              |
+|                    |                  |              |
 
 <hr style="border:40px solid gray"> </hr>
 
