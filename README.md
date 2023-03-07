@@ -200,7 +200,7 @@
 |         NLP        |     Code + Blog Link                                     | Video Link   |
 |--------------------|----------------------------------------------------------|--------------|
 |Tokenization,Lemmatization,Stemming,BOW,TF-IDF,N-Gram,POS,Word Embedding(Word2Vec),Gensim,CBOW,SkipGram,FastText|[Link](https://www.kaggle.com/code/mukeshmanral/basic-nlp)|              |
-|Textual Evaluation Metrics(CER & WER),(Perplexity),(BLEU),(GLUE)|[Link](https://www.kaggle.com/code/mukeshmanral/textual-evaluation-metrics/notebook)| |
+|Textual Evaluation Metrics(CER & WER),(Perplexity),(BLEU),(GLUE)|[Private Link](https://www.kaggle.com/code/mukeshmanral/textual-evaluation-metrics/notebook)| |
 |                    |                  |              |
 
 
