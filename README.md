@@ -179,6 +179,20 @@
     <kbd><img src="https://user-images.githubusercontent.com/26667491/223361678-33d2d06c-e76b-4b2e-b5d7-a3811e8d6454.png" tag='RNN architectures depending on task' height="550" width="700"></kbd>
 </p>
 
+* **Recurrent Neural Networks** (RNN)
+    * `Vanilla RNN`
+    * `Long Short-term Memory` (LSTM)
+    * `Gated Recurrent Unit` (GRU)
+* **Attention**
+    * `Seq2seq with Attention`
+    * `Self-attention`
+    * `Multi-head Attention`
+* **Transformer**
+    * Step 1. Adding Positional Encoding to Word Embeddings
+    * Step 2. `Encoder`: Multi-head Attention and Feed Forward
+    * Step 3. `Decoder`: (Masked) Multi-head Attention and Feed Forward
+    * Step 4. `Classifier`
+
 |         NLP        |     Code + Blog Link                                     | Video Link   |
 |--------------------|----------------------------------------------------------|--------------|
 |Tokenization,Lemmatization,Stemming,BOW,TF-IDF,N-Gram,POS,Word Embedding(Word2Vec),Gensim,CBOW,SkipGram,FastText|[Link](https://www.kaggle.com/code/mukeshmanral/basic-nlp)|              |
