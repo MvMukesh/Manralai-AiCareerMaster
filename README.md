@@ -193,6 +193,10 @@
     * Step 3. `Decoder`: (Masked) Multi-head Attention and Feed Forward
     * Step 4. `Classifier`
 
+<p align="center">
+    <kbd><img src="https://user-images.githubusercontent.com/26667491/223405325-1666ceb0-e161-4555-a159-32663a47ae38.png" tag='eval_matrices_text' height="300" width="800"></kbd>
+</p>
+
 |         NLP        |     Code + Blog Link                                     | Video Link   |
 |--------------------|----------------------------------------------------------|--------------|
 |Tokenization,Lemmatization,Stemming,BOW,TF-IDF,N-Gram,POS,Word Embedding(Word2Vec),Gensim,CBOW,SkipGram,FastText|[Link](https://www.kaggle.com/code/mukeshmanral/basic-nlp)|              |
