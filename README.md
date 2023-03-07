@@ -175,7 +175,7 @@
 # 🔴NLP
 
 <p align="center">
-  <kbd><img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*ElW6ysYMDd0q0xduLXacHA.png" tag='vision.gif' height="550" width="700"></kbd>
+  <kbd><img src="https://user-images.githubusercontent.com/26667491/223361678-33d2d06c-e76b-4b2e-b5d7-a3811e8d6454.png" tag='RNN architectures depending on task' height="550" width="700"></kbd>
 </p>
 
 |         NLP        |     Code + Blog Link                                     | Video Link   |
