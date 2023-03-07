@@ -172,7 +172,12 @@
 
 <hr style="border:40px solid gray"> </hr>
 
-# 🔴NLP 
+# 🔴NLP
+
+<p align="center">
+  <kbd><img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*ElW6ysYMDd0q0xduLXacHA.png" tag='vision.gif' height="550" width="700"></kbd>
+</p>
+
 |         NLP        |     Code + Blog Link                                     | Video Link   |
 |--------------------|----------------------------------------------------------|--------------|
 |Tokenization,Lemmatization,Stemming,BOW,TF-IDF,N-Gram,POS,Word Embedding(Word2Vec),Gensim,CBOW,SkipGram,FastText|[Link](https://www.kaggle.com/code/mukeshmanral/basic-nlp)|              |
