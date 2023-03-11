@@ -175,7 +175,7 @@
 
 <hr style="border:40px solid gray"> </hr>
 
-# 🔴NLP
+# 🔴NLP : [RNN Cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
 
 <h4>RNN architectures depending on task</h4>
 <p align="center">
