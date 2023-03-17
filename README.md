@@ -157,7 +157,7 @@
 
 <hr style="border:40px solid gray"> </hr>
 
-# 🔴Computer Vision + OpenCV
+# 🔴Computer Vision + OpenCV [CNN CheatSheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
 
 <p align="center">
   <kbd><img src="https://user-images.githubusercontent.com/26667491/221357335-f61e957a-d2ca-42f5-bb3b-cbe852f0e4c5.gif" tag='vision.gif' width="600"></kbd>
