@@ -46,7 +46,8 @@
 |📙 `Python - Data Structure & TimeComplexities Crux`|[Private Link](https://www.kaggle.com/code/mukeshmanral/python-datastructure-timecomplexities/notebook)|
 |📙 `Asymptotic Notations [Big-(O,Omega),Small-(O,Omega),Theta] Crux` | [Update Private Link]() |
 |📙 `Python - Data Structure and Algorithm Foundation` | [Private Link](https://www.kaggle.com/code/mukeshmanral/data-structure-and-algorithm-foundation-in-python/) |
-|📙 `Python Data Structure - Array,Strings` | [YT Private Playlist](https://www.kaggle.com/code/mukeshmanral/data-structure-array/notebook) |
+|📙 `Python Data Structure - Array,Strings` | [Private](https://www.kaggle.com/code/mukeshmanral/data-structure-array/notebook) |
+|📙 `Python Interview Questions` |[Private](https://www.kaggle.com/code/mukeshmanral/python-interview-questions/) |
 
 <hr style="border:40px solid gray"> </hr>
 
