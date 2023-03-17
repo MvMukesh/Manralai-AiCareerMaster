@@ -58,11 +58,11 @@
 </p>
 
 
-|Data Analysis | Code + Blog Link | Video Link |
-|--------------|------------------|------------|
-|📙 Mapping Business Problem into Data Science Problem |[Link](https://www.kaggle.com/code/mukeshmanral/mapping-business-problem-into-data-science-problem/notebook) | |
-|📙 Answer to --> How to Perform EDA |[Link](https://www.kaggle.com/mukeshmanral/answer-to-how-to-perform-eda) | |
-|📙 Evaluation Metrics (Supervised Learning) |[Link](https://www.kaggle.com/code/mukeshmanral/evaluation-metrics-supervisedlearning/notebook) | |
+|Data Analysis | Code + Blog Link |
+|--------------|------------------|
+|📙 Mapping Business Problem into Data Science Problem |[Link](https://www.kaggle.com/code/mukeshmanral/mapping-business-problem-into-data-science-problem/notebook) | 
+|📙 Answer to --> How to Perform EDA |[Link](https://www.kaggle.com/mukeshmanral/answer-to-how-to-perform-eda) | 
+|📙 Evaluation Metrics (Supervised Learning) |[Link](https://www.kaggle.com/code/mukeshmanral/evaluation-metrics-supervisedlearning/notebook) | 
   
   
 # 🔴Machine Learning 
@@ -102,12 +102,12 @@
 
 
 # 🔴Feature Engineering 
-| Feature Engineering| Code + Blog Link | Video Link   |
-|--------------------|------------------|--------------|
-|📙 Creating New Features |[Link](https://www.kaggle.com/code/mukeshmanral/feature-engineering-creating-new-feature) | |
-|📙 Imputation (categorical,numerical) + Handling Outliers (standard deviation,percentile) + Scaling (normalization, standardization) + Binning + Encoding Categorical Variable + Featur Encoding (integer,onehot))|[Link](https://www.kaggle.com/mukeshmanral/feature-engineering-dataset-2-basic) |
-|📙 Variable Transformation (Square Root, Reciprocal, Logarithmic, Exponential\Power Transformation|[Link](https://www.kaggle.com/code/mukeshmanral/feature-engineering-dataset-3-basic) | |
-|📙 DateTime Engineering |[Link](https://www.kaggle.com/code/mukeshmanral/feature-engineering-dataset-4-basic) | |
+| Feature Engineering| Code + Blog Link |
+|--------------------|------------------|
+|📙 Creating New Features |[Link](https://www.kaggle.com/code/mukeshmanral/feature-engineering-creating-new-feature) | 
+|📙 Imputation (categorical,numerical) + Handling Outliers (standard deviation,percentile) + Scaling (normalization, standardization) + Binning + Encoding Categorical Variable + Featur Encoding (integer,onehot))|[Link](https://www.kaggle.com/mukeshmanral/feature-engineering-dataset-2-basic) 
+|📙 Variable Transformation (Square Root, Reciprocal, Logarithmic, Exponential\Power Transformation|[Link](https://www.kaggle.com/code/mukeshmanral/feature-engineering-dataset-3-basic) | 
+|📙 DateTime Engineering |[Link](https://www.kaggle.com/code/mukeshmanral/feature-engineering-dataset-4-basic) | 
   
 <hr style="border:40px solid gray"> </hr>
 
@@ -123,37 +123,37 @@
   <kbd><img src='https://user-images.githubusercontent.com/26667491/221352322-1835c471-409e-48f1-aed9-105c2b68e9f8.png' alt="YOLO Family evolution table"></kbd>
 </p>
 
-| Deep Learning| Code + Blog Link | Video Link   |
-|--------------|------------------|--------------|
-|📙 `kNN to Parameterised Learning` |[Link](https://www.kaggle.com/code/mukeshmanral/knn-to-parameterised-learning) | |
-|📙 `Deep Learning` & `Perceptron Trick` |[Link](https://www.kaggle.com/code/mukeshmanral/perceptron-deeplearning/) | |
-|📙 `Neural Network using NumPy` |[Link](https://www.kaggle.com/code/mukeshmanral/implementing-neural-network-using-numpy/notebook) | |
+| Deep Learning| Code + Blog Link |
+|--------------|------------------|
+|📙 `kNN to Parameterised Learning` |[Link](https://www.kaggle.com/code/mukeshmanral/knn-to-parameterised-learning) | 
+|📙 `Deep Learning` & `Perceptron Trick` |[Link](https://www.kaggle.com/code/mukeshmanral/perceptron-deeplearning/) | 
+|📙 `Neural Network using NumPy` |[Link](https://www.kaggle.com/code/mukeshmanral/implementing-neural-network-using-numpy/notebook) | 
 |📙 `Hyper Parameter Tuning` + `Activation Functions` + `Selecting Right Activation Function` + `Optimizer` + `Loss`, `Error`, `Cost Functions` + Project(Keras): Loan Prediction + Project: Image Classification(Emergency Vs Non-Emergency Vehicle) using NN |  [Link](https://www.kaggle.com/code/mukeshmanral/activation-loss-optimisation-project/)|
-|📙 `Gradient Descent from Scratch` |[Link](https://www.kaggle.com/mukeshmanral/gradient-descent-from-scratch) | |
-|📙 `SGD with Momentum from Scratch` |[Link](https://www.kaggle.com/mukeshmanral/sgd-with-momentum-from-scratch) | |
-|📙 `Weight Initialisation Techniques` |[Link](https://www.kaggle.com/mukeshmanral/weight-initialisation-techniques-nn) | |
-|📙 `Activation Functions`|[Link](https://www.kaggle.com/mukeshmanral/activation-functions) | | 
-|📙 `Loss Functions` |[Link](https://www.kaggle.com/mukeshmanral/loss-functions) | |
-|📙 `Optimizers & Fast Optimizers` |[Link](https://www.kaggle.com/code/mukeshmanral/optimizers-fast-optimizers/notebook) | |
+|📙 `Gradient Descent from Scratch` |[Link](https://www.kaggle.com/mukeshmanral/gradient-descent-from-scratch) | 
+|📙 `SGD with Momentum from Scratch` |[Link](https://www.kaggle.com/mukeshmanral/sgd-with-momentum-from-scratch) | 
+|📙 `Weight Initialisation Techniques` |[Link](https://www.kaggle.com/mukeshmanral/weight-initialisation-techniques-nn) | 
+|📙 `Activation Functions`|[Link](https://www.kaggle.com/mukeshmanral/activation-functions) |  
+|📙 `Loss Functions` |[Link](https://www.kaggle.com/mukeshmanral/loss-functions) | 
+|📙 `Optimizers & Fast Optimizers` |[Link](https://www.kaggle.com/code/mukeshmanral/optimizers-fast-optimizers/notebook) | 
 |📙 `Regularization : Avoiding Overfitting` |[Update Private Link](https://www.kaggle.com/code/mukeshmanral/regularization-avoiding-overfitting)|
-|📙 `Applying KerasTuner` & `Dropout` |[Link](https://www.kaggle.com/code/mukeshmanral/using-kerastuner-dropout) | |
-|📙 `More Implementation` |[Link](https://www.kaggle.com/code/mukeshmanral/dl-activation-loss-optimisation-project/) | |
-|📙 Neural Network + `ANN`-Application-3 projects |[Link](https://www.kaggle.com/code/mukeshmanral/neural-networks-ann-projects/notebook?scriptVersionId=89900300) | |
-|📙 Loan Prediction Using Neural Network in Keras |[Link](https://www.kaggle.com/code/mukeshmanral/loan-prediction-using-neural-network-keras) | |
-|📙 `TensorFlow2.x & CNN`|[Link](https://www.kaggle.com/code/mukeshmanral/tensorflow-cnn) ||
-|📙 `CNN - ConvNet` |[Link](https://www.kaggle.com/code/mukeshmanral/cnn-or-convnet-object-detection) | |
-|📙 `CNN` on Cifar10 |[Link](https://www.kaggle.com/code/mukeshmanral/cnn-on-cifar10/notebook) | |
-|📙 Image Captioning using Keras |[Link](https://www.kaggle.com/code/mukeshmanral/image-captioning-using-keras/notebook) | |
+|📙 `Applying KerasTuner` & `Dropout` |[Link](https://www.kaggle.com/code/mukeshmanral/using-kerastuner-dropout) | 
+|📙 `More Implementation` |[Link](https://www.kaggle.com/code/mukeshmanral/dl-activation-loss-optimisation-project/) | 
+|📙 Neural Network + `ANN`-Application-3 projects |[Link](https://www.kaggle.com/code/mukeshmanral/neural-networks-ann-projects/notebook?scriptVersionId=89900300) | 
+|📙 Loan Prediction Using Neural Network in Keras |[Link](https://www.kaggle.com/code/mukeshmanral/loan-prediction-using-neural-network-keras) | 
+|📙 `TensorFlow2.x & CNN`|[Link](https://www.kaggle.com/code/mukeshmanral/tensorflow-cnn) |
+|📙 `CNN - ConvNet` |[Link](https://www.kaggle.com/code/mukeshmanral/cnn-or-convnet-object-detection) | 
+|📙 `CNN` on Cifar10 |[Link](https://www.kaggle.com/code/mukeshmanral/cnn-on-cifar10/notebook) | 
+|📙 Image Captioning using Keras |[Link](https://www.kaggle.com/code/mukeshmanral/image-captioning-using-keras/notebook) | 
 |📙 `TransferLearning` `AlexNet-(2012)` - `Classification`  |[Link](https://www.kaggle.com/code/mukeshmanral/alexnet/notebook) |
 |📙 `TransferLearning` `VGGNet-(2014)` - `Classification`  |[Link](https://www.kaggle.com/code/mukeshmanral/visualgeometrygroup-vgg-16/) |
-|📙 `TransferLearning` `ResNet-(2015)` - `Classification`  |[Link](https://www.kaggle.com/code/mukeshmanral/imageclassification-transferlearning-resnet/notebook) | |
+|📙 `TransferLearning` `ResNet-(2015)` - `Classification`  |[Link](https://www.kaggle.com/code/mukeshmanral/imageclassification-transferlearning-resnet/notebook) | 
 |📙 `Object Detection Basics`  |[Link](https://www.kaggle.com/code/mukeshmanral/object-detection-basics/notebook) |
 |📙 `Regional CNNs differeces (R-CNN, Fast R-CNN, Faster R-CNN)`  |[Link](https://www.kaggle.com/mukeshmanral/r-cnn-fast-r-cnn-faster-r-cnn) |
-|📙 `R-CNN` - `Object Detection` |[Link](https://www.kaggle.com/mukeshmanral/r-cnn) | |
-|📙 `Fast R-CNN` - `Object Detection` |[Update Link](#) | |
-|📙 `Faster R-CNN` - `Object Detection` |[Link](https://www.kaggle.com/mukeshmanral/faster-r-cnn) | |
-|📙 `SSD` - `Single Shot Detector` | | |
-|📙 `YOLO` - `Single Shot Detector`| | |
+|📙 `R-CNN` - `Object Detection` |[Link](https://www.kaggle.com/mukeshmanral/r-cnn) | 
+|📙 `Fast R-CNN` - `Object Detection` |[Update Link](#) | 
+|📙 `Faster R-CNN` - `Object Detection` |[Link](https://www.kaggle.com/mukeshmanral/faster-r-cnn) | 
+|📙 `SSD` - `Single Shot Detector` | | 
+|📙 `YOLO` - `Single Shot Detector`| | 
 
 <hr style="border:40px solid gray"> </hr>
 
@@ -200,33 +200,33 @@
     <kbd><img src="https://user-images.githubusercontent.com/26667491/223405325-1666ceb0-e161-4555-a159-32663a47ae38.png" tag='eval_matrices_text' height="300" width="800"></kbd>
 </p>
 
-|         NLP        |     Code + Blog Link                                     | Video Link   |
-|--------------------|----------------------------------------------------------|--------------|
-|Tokenization,Lemmatization,Stemming,BOW,TF-IDF,N-Gram,POS,Word Embedding(Word2Vec),Gensim,CBOW,SkipGram,FastText|[Link](https://www.kaggle.com/code/mukeshmanral/basic-nlp)|              |
-|NLP Basics Implementation |[Link](https://www.kaggle.com/code/mukeshmanral/nlp-basics-implementation/notebook) | |
-|Textual Evaluation Metrics(CER & WER),(Perplexity),(BLEU),(GLUE)|[Private Link](https://www.kaggle.com/code/mukeshmanral/textual-evaluation-metrics/notebook)| |
-|RNN Architecture - Basics + Embedding|[Link](https://www.kaggle.com/code/mukeshmanral/rnn-architecture-basics-embedding/notebook)|              |
-|RNN Types - 1toMany, Manyto1 & Many2Many |[Link](https://www.kaggle.com/code/mukeshmanral/rnn-types-1tomany-manyto1-many2many/notebook)| |
+|         NLP        |     Code + Blog Link                                     |
+|--------------------|----------------------------------------------------------|
+|Tokenization,Lemmatization,Stemming,BOW,TF-IDF,N-Gram,POS,Word Embedding(Word2Vec),Gensim,CBOW,SkipGram,FastText|[Link](https://www.kaggle.com/code/mukeshmanral/basic-nlp)|              
+|NLP Basics Implementation |[Link](https://www.kaggle.com/code/mukeshmanral/nlp-basics-implementation/notebook) | 
+|Textual Evaluation Metrics(CER & WER),(Perplexity),(BLEU),(GLUE)|[Private Link](https://www.kaggle.com/code/mukeshmanral/textual-evaluation-metrics/notebook)| 
+|RNN Architecture - Basics + Embedding|[Link](https://www.kaggle.com/code/mukeshmanral/rnn-architecture-basics-embedding/notebook)|              
+|RNN Types - 1toMany, Manyto1 & Many2Many |[Link](https://www.kaggle.com/code/mukeshmanral/rnn-types-1tomany-manyto1-many2many/notebook)| 
 
 
 <hr style="border:40px solid gray"> </hr>
 
 # 🔴Recommender System 
 
-| Recommender System                | Code + Blog Link                                                                       | Video Link   |
-|-----------------------------------|----------------------------------------------------------------------------------------|--------------|
-|📙 Recommendation System Basic-(surprise_library) + All Why,What,When not, When to covered + Maths Covered +Project: Movie Recommendation(Non Personalised Recommender Systems using Count of Ratings (4 & above) + Weak Personalisation using Gender Information) + Personalised Recommender Systems + Collaborative Filtering & Types + Application of User-Based Collaborative Filtering from Scratch + Application of User Based Collaborative Filtering using [ Surprise Library ] + [ Scalability Challange ] for User Based Collaborative Filtering + Item-Based Collaborative Filtering + Implementation Item-Based Collaborative Filtering + Challenges for Neightbourhood Based Methods + Rating Prediction using [ Matrix Factorization with SVD ] + in progress| [Link](https://www.kaggle.com/mukeshmanral/recommendation-system-basic-surprise-library) | |
-|📙 Why Business (H&M) cares about Product Recommendation?? |[Link](https://www.kaggle.com/mukeshmanral/why-h-m-cares-about-product-recommendation)| |
-|📙 End to End Recommender System |[Link](https://www.kaggle.com/mukeshmanral/end-to-end-recommender-system) | |
+| Recommender System                | Code + Blog Link                                                                       |
+|-----------------------------------|----------------------------------------------------------------------------------------|
+|📙 Recommendation System Basic-(surprise_library) + All Why,What,When not, When to covered + Maths Covered +Project: Movie Recommendation(Non Personalised Recommender Systems using Count of Ratings (4 & above) + Weak Personalisation using Gender Information) + Personalised Recommender Systems + Collaborative Filtering & Types + Application of User-Based Collaborative Filtering from Scratch + Application of User Based Collaborative Filtering using [ Surprise Library ] + [ Scalability Challange ] for User Based Collaborative Filtering + Item-Based Collaborative Filtering + Implementation Item-Based Collaborative Filtering + Challenges for Neightbourhood Based Methods + Rating Prediction using [ Matrix Factorization with SVD ] + in progress| [Link](https://www.kaggle.com/mukeshmanral/recommendation-system-basic-surprise-library) | 
+|📙 Why Business (H&M) cares about Product Recommendation?? |[Link](https://www.kaggle.com/mukeshmanral/why-h-m-cares-about-product-recommendation)| 
+|📙 End to End Recommender System |[Link](https://www.kaggle.com/mukeshmanral/end-to-end-recommender-system) | 
 
 
 <hr style="border:40px solid gray"> </hr>
 
 # 🔴Spark Ecosystem
 
-|Spark Ecosystem | Code + Blog Link| Video Link|
-|--------------|-----------|-----------|
-|📙 Spark Ecosystem(Big Data + Apache Hadoop[HDFS,YARN,MapReduce] + Spark Ecosystem[Architecture,Cluster Manager,Running application - Locally and on YARN,SparkContext vs SparkSession,spark Dataframe+Execution]+spark sql api+spark ml) |[Link](https://www.kaggle.com/mukeshmanral/apache-spark-basic) | |
+|Spark Ecosystem | Code + Blog Link|
+|--------------|-----------|
+|📙 Spark Ecosystem(Big Data + Apache Hadoop[HDFS,YARN,MapReduce] + Spark Ecosystem[Architecture,Cluster Manager,Running application - Locally and on YARN,SparkContext vs SparkSession,spark Dataframe+Execution]+spark sql api+spark ml) |[Link](https://www.kaggle.com/mukeshmanral/apache-spark-basic) | 
 
 
 <hr style="border:40px solid gray"> </hr>
@@ -236,7 +236,7 @@
 | AWS | Blog Link  | Video Link  |
 |--------------|-----------|-----------|
 |📙 Cloud Computing(AWS) | [Blog](https://www.kaggle.com/mukeshmanral/cloud-computing-aws) | [YT Play List](https://www.youtube.com/playlist?list=PLREhfdPXr-eh-qmIK93ra1FZVFr8rGfhS) |
-|📙 AWS Sagemaker | [Blog](#) | Play List not yet updated(#)|
+|📙 AWS Sagemaker | [Blog](#) | [YT Play List](https://www.youtube.com/playlist?list=PLREhfdPXr-egu5mPuMRfcN0ltx92VqSWr)|
 
 
 <hr style="border:40px solid gray"> </hr>
