@@ -206,8 +206,10 @@
 |(NLP Basics-1) : Tokenization,Lemmatization,Stemming,BOW,TF-IDF,N-Gram,POS,Word Embedding(Word2Vec),Gensim,CBOW,SkipGram,FastText|[Link](https://www.kaggle.com/code/mukeshmanral/basic-nlp)|              
 |NLP Basics-2 Implementation (TextDataPreprocessing,ToLower,RemoveHTML,RemovePunctuations,HandlingChat,IncorrectTextHandling,StopWordRemoval,HandlingEmoji,Tokenization,RegularExpression,Stemmer,Lemmatization,TextRepresentation,BOW,N-gram,TF-IDF) |[Link](https://www.kaggle.com/code/mukeshmanral/nlp-basics-implementation/notebook) | 
 |Textual Evaluation Metrics(CER & WER),(Perplexity),(BLEU),(GLUE)|[Private Link](https://www.kaggle.com/code/mukeshmanral/textual-evaluation-metrics/notebook)| 
-|RNN Architecture - Basics + Embedding|[Link](https://www.kaggle.com/code/mukeshmanral/rnn-architecture-basics-embedding/notebook)|              
+|RNN Network + Implementation|[Link](https://www.kaggle.com/mukeshmanral/rnn-basics-implementation)|
 |RNN Types - 1toMany, Manyto1 & Many2Many |[Link](https://www.kaggle.com/code/mukeshmanral/rnn-types-1tomany-manyto1-many2many/notebook)| 
+|RNN Architecture + Embedding|[Link](https://www.kaggle.com/code/mukeshmanral/rnn-architecture-basics-embedding/notebook)|              
+
 
 
 <hr style="border:40px solid gray"> </hr>
