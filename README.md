@@ -185,8 +185,11 @@
 
 * **Recurrent Neural Networks** (RNN)
     * `Vanilla RNN`
-    * `Long Short-term Memory` (LSTM)
+    * `Long Short-term Memory` (LSTM)  -- NOTE: Understant this and all otehr are just variation
+    * `Peephole LSTM`
     * `Gated Recurrent Unit` (GRU)
+    * `Bidirectional LSTM` (Bi-LSTM)
+    * `Stacked LSTM`
 * **Attention**
     * `Seq2seq with Attention`
     * `Self-attention`
