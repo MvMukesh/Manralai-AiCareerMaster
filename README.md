@@ -139,6 +139,7 @@
 |📙 `Loss Functions` |[Link](https://www.kaggle.com/mukeshmanral/loss-functions) | 
 |📙 `Optimizers & Fast Optimizers` |[Link](https://www.kaggle.com/code/mukeshmanral/optimizers-fast-optimizers/notebook) | 
 |📙 `Regularization : Avoiding Overfitting` |[Update Private Link](https://www.kaggle.com/code/mukeshmanral/regularization-avoiding-overfitting)|
+|📙 `Improving Deep Neural Networks: Hyperparameter Tuning,Regularization & Optimization` |[Link](https://www.kaggle.com/code/mukeshmanral/hyperparametertuning-regularization-optimization/notebook) | 
 |📙 `Applying KerasTuner` & `Dropout` |[Link](https://www.kaggle.com/code/mukeshmanral/using-kerastuner-dropout) | 
 |📙 `More Implementation` |[Link](https://www.kaggle.com/code/mukeshmanral/dl-activation-loss-optimisation-project/) | 
 |📙 Neural Network + `ANN`-Application-3 projects |[Link](https://www.kaggle.com/code/mukeshmanral/neural-networks-ann-projects/notebook?scriptVersionId=89900300) | 
