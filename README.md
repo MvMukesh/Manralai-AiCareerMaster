@@ -98,6 +98,7 @@
 |📙 Vehicle Loan Default Prediction [EDA + Model]|[Link](https://www.kaggle.com/mukeshmanral/vehicle-loan-default-prediction-eda-model)||
 |📙 Decision Tree Derivation |[Private Link](https://www.kaggle.com/code/mukeshmanral/deriving-decision-tree/notebook) | |
 |📙 Decision Tree end2end + HyperparameterTuning | [Link](https://www.kaggle.com/code/mukeshmanral/decisiontree-end2end/notebook)| |
+|📙 Decision Tree Questions | [Private Link](https://www.kaggle.com/code/mukeshmanral/decesion-tree-questions/notebook)| |
 |📙 Bagging(ensemble_concept[RF-ExTree]) |[Link](https://www.kaggle.com/code/mukeshmanral/ensemble-bagging-boosting/notebook) | |
 |📙 Employees-earnings (Model comparison, EDA many more) |[Link](https://www.kaggle.com/code/mukeshmanral/employees-earnings/notebook) | |
 |📙 `SVM`|[Link](https://www.kaggle.com/mukeshmanral/support-vector-machine-svm) | |
