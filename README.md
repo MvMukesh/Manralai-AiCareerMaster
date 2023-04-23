@@ -152,6 +152,7 @@
 |📙 `TransferLearning` `VGGNet-(2014)` - `Classification`  |[Link](https://www.kaggle.com/code/mukeshmanral/visualgeometrygroup-vgg-16/) |
 |📙 `TransferLearning` `ResNet-(2015)` - `Classification`  |[Link](https://www.kaggle.com/code/mukeshmanral/imageclassification-transferlearning-resnet/notebook) | 
 |📙 `Object Detection Basics`  |[Link](https://www.kaggle.com/code/mukeshmanral/object-detection-basics/notebook) |
+|📙 `Deep Into Object Detection` |[Private Link](https://www.kaggle.com/code/mukeshmanral/object-detection/notebook) |
 |📙 `Regional CNNs differeces (R-CNN, Fast R-CNN, Faster R-CNN)`  |[Link](https://www.kaggle.com/mukeshmanral/r-cnn-fast-r-cnn-faster-r-cnn) |
 |📙 `R-CNN` - `Object Detection` |[Link](https://www.kaggle.com/mukeshmanral/r-cnn) | 
 |📙 `Fast R-CNN` - `Object Detection` |[Update Link](#) | 
