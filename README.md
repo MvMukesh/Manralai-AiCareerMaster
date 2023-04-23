@@ -211,7 +211,8 @@
 |Textual Evaluation Metrics(CER & WER),(Perplexity),(BLEU),(GLUE)|[Private Link](https://www.kaggle.com/code/mukeshmanral/textual-evaluation-metrics/notebook)| 
 |RNN Baics(short term memory), Types, Problems and Solutions |[Link](https://www.kaggle.com/mukeshmanral/rnn-basics-types)| 
 |RNN Network + Implementation|[Link](https://www.kaggle.com/mukeshmanral/rnn-basics-implementation)|
-|RNN Architecture + Embedding|[Link](https://www.kaggle.com/code/mukeshmanral/rnn-architecture-basics-embedding/notebook)|              
+|RNN Architecture + Embedding|[Link](https://www.kaggle.com/code/mukeshmanral/rnn-architecture-basics-embedding/notebook)|  
+|LSTM |[Link](https://www.kaggle.com/code/mukeshmanral/lstm-basics-types/)|
 
 
 
