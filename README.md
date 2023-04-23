@@ -167,6 +167,7 @@
 | Computer Vision | Code + Blog Link|
 |-----------------|-----------|
 |📙  `Image Transformation` : (Pixel Manipulation, Getting & Setting Pixels, Image Translation, Rotation, Interpolation Methods and comarison, Fliping, Croping, Arithmetic, Bitwise, Masking, Channels Splitting & Merging )| [Link](https://www.kaggle.com/code/mukeshmanral/opencv-basic-0/)
+|📙  `Image Processing Techniques` : (Image Enhancement,Image Restoration,Image Segmentation,Object Detection,Image Compression,Image Manipulation,Image Generation,Image-to-Image Translation)|[Link](https://www.kaggle.com/code/mukeshmanral/image-processing-techniques/notebook)|
 |📙  `Image Processing Operations` : (Morphological Operations, Smoothing & Blurring, ColorSpaces, Thresholding, Adaptive Thresholding, Kernels, Image gradient-Shobel & Scharr Kernels, Canny Edge Detection, Automatic Edge Detection)|[Link](https://www.kaggle.com/code/mukeshmanral/opencv-basic-image-processing-operations) |
 |📙  `Morphological Operations(OpenCv)` | [Link](https://www.kaggle.com/mukeshmanral/morphological-operations-opencv)
 |📙  `Phases of Image Processing, using flow_from_directory` | [Link](https://www.kaggle.com/mukeshmanral/preprocess-images)
