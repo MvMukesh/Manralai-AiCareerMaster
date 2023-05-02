@@ -34,7 +34,7 @@
 # 🔴 0 to Python 
 |Pyton         | Guide + Video Link |
 |--------------|--------------------|
-|📙 `Python - Guide & Playlist` |[YT Playlist + Guide](https://github.com/MvMukesh/Python-Complete-Roadmap-to-Expert)|
+|📙 `Python - Guide & Playlist` |[YT Playlist + Guide](https://www.youtube.com/playlist?list=PLREhfdPXr-ejNS4IOyY8bwDEH6JCLAsDJ)|
 |📙 `Python - Patterns Playlist` |[YT Private Playlist](https://www.kaggle.com/mukeshmanral/python-practice) |
 |📙 `Python - Functions & OOP's` |[YT Private Playlist](https://www.kaggle.com/mukeshmanral/python-functions-oop-s) |
 
