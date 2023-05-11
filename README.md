@@ -1,7 +1,7 @@
 ![text](https://user-images.githubusercontent.com/26667491/223444590-107a5cfe-5949-4c21-b4a4-b6a83300dbcf.gif)
 
 
-# 🔵 Aggregating Data Science : My Newsletter📩[Manralai](https://www.linkedin.com/newsletters/6872441622500585472/)
+# 🔵 Aggregating Data Science : My Newsletter📩[Manralai : AI Career Master](https://www.linkedin.com/newsletters/6872441622500585472/)
 
 **`This repository serves as a comprehensive log of my contributions to the field of data, as well as a testament to my unwavering commitment to making complex concepts accessible to others through clear and concise explanations`**
 <br>
