@@ -62,9 +62,9 @@
 
 |Data Analysis | Code + Blog Link |
 |--------------|------------------|
-|📙 Mapping Business Problem into Data Science Problem |[Link](https://www.kaggle.com/code/mukeshmanral/mapping-business-problem-into-data-science-problem/notebook) | 
-|📙 Answer to --> How to Perform EDA |[Link](https://www.kaggle.com/mukeshmanral/answer-to-how-to-perform-eda) | 
-|📙 Evaluation Metrics (Supervised Learning) |[Link](https://www.kaggle.com/code/mukeshmanral/evaluation-metrics-supervisedlearning/notebook) | 
+|📙 Mapping Business Problem into Data Science Problem |[Private Link](https://www.kaggle.com/code/mukeshmanral/mapping-business-problem-into-data-science-problem/notebook) | 
+|📙 Answer to --> How to Perform EDA |[Private Link](https://www.kaggle.com/mukeshmanral/answer-to-how-to-perform-eda) | 
+|📙 Evaluation Metrics (Supervised Learning) |[Private Link](https://www.kaggle.com/code/mukeshmanral/evaluation-metrics-supervisedlearning/notebook) | 
   
   
 # 🔴Machine Learning 
