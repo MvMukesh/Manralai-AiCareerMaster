@@ -130,7 +130,7 @@
 | Deep Learning| Code + Blog Link |
 |--------------|------------------|
 |📙 `kNN to Parameterised Learning` |[Link](https://www.kaggle.com/code/mukeshmanral/knn-to-parameterised-learning) | 
-|📙 `Deep Learning` & `Perceptron Trick` |[Link](https://www.kaggle.com/code/mukeshmanral/perceptron-deeplearning/) | 
+|📙 `Deep Learning` & `Perceptron Trick` |[Private Link](https://www.kaggle.com/code/mukeshmanral/perceptron-deeplearning/) | 
 |📙 `Neural Network using NumPy` |[Link](https://www.kaggle.com/code/mukeshmanral/implementing-neural-network-using-numpy/notebook) | 
 |📙 `Hyper Parameter Tuning` + `Activation Functions` + `Selecting Right Activation Function` + `Optimizer` + `Loss`, `Error`, `Cost Functions` + Project(Keras): Loan Prediction + Project: Image Classification(Emergency Vs Non-Emergency Vehicle) using NN |  [Link](https://www.kaggle.com/code/mukeshmanral/activation-loss-optimisation-project/)|
 |📙 `Gradient Descent from Scratch` |[Link](https://www.kaggle.com/mukeshmanral/gradient-descent-from-scratch) | 
