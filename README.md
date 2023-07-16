@@ -77,9 +77,9 @@
 
 
 
-| Machine Learning                | Code + Blog Link                                                | Blog - Video Link   |
+| Machine Learning                | Code                                                            | Blog - Video Link   |
 |---------------------------------|-----------------------------------------------------------------|---------------------|
-|📙 Machine Learning Life Cycle      |[Link](https://www.kaggle.com/mukeshmanral/machine-learning-life-cycle-basic/edit/run/88227239)| |
+|📙 Machine Learning Life Cycle      |[Private Link](https://www.kaggle.com/code/mukeshmanral/machine-learning-life-cycle/notebook)| |
 |📙 Simple to understand ML framework| [Link](https://github.com/MvMukesh/ML-ProblemSolving-FrameWork) |  |
 |📙 Problem Solving[Mapping Business Problem to Data Science Problem] | [Link](https://www.kaggle.com/code/mukeshmanral/mapping-business-problem-to-data-science-problem/)| |
 |📙 First Classificaton + Regression Models - How to?? When to?? of Modeling |[Link](https://www.kaggle.com/mukeshmanral/first-model-how-to-what-to-classif-regre) | |
