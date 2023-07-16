@@ -82,9 +82,9 @@
 |📙 Machine Learning Life Cycle      |[Private Link](https://www.kaggle.com/code/mukeshmanral/machine-learning-life-cycle/notebook)| |
 |📙 Simple to understand ML framework| [Link](https://github.com/MvMukesh/ML-ProblemSolving-FrameWork) |  |
 |📙 Problem Solving[Mapping Business Problem to Data Science Problem] | [Private Link](https://www.kaggle.com/code/mukeshmanral/mapping-business-problem-to-data-science-problem/)| |
-|📙 First Classificaton + Regression Models - How to?? When to?? of Modeling |[Link](https://www.kaggle.com/mukeshmanral/first-model-how-to-what-to-classif-regre) | |
-|📙 Logistic Regression Derivation(Probabilistic,Geometric,Loss Interpretations)|[Link](https://www.kaggle.com/mukeshmanral/derivinglogisticregression-maths-application) | |
-|📙 Linear Regression derivation|[Link](https://www.kaggle.com/mukeshmanral/linear-regression-derivation/) | |
+|📙 First Classificaton + Regression Models - How to?? When to?? of Modeling |[Private Link](https://www.kaggle.com/mukeshmanral/first-model-how-to-what-to-classif-regre) | |
+|📙 Logistic Regression Derivation(Probabilistic,Geometric,Loss Interpretations)|[Private Link](https://www.kaggle.com/mukeshmanral/derivinglogisticregression-maths-application) | |
+|📙 Linear Regression derivation|[Private Link](https://www.kaggle.com/mukeshmanral/linear-regression-derivation/) | |
 |📙 Linear Regression Hypothesis + interview questions|[Link](https://www.kaggle.com/mukeshmanral/linear-regression)||
 |📙 Linear Regression implementing Cost Function |[Link](https://www.kaggle.com/mukeshmanral/linear-regression-basic)| |
 |📙 Multiple Linear Regression (Basic) |[Link](https://www.kaggle.com/mukeshmanral/multiple-linear-regression-basic/notebook) | |
