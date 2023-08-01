@@ -38,6 +38,7 @@
 |📙 `Python - Patterns Practice` |[YT Private Playlist](https://www.kaggle.com/code/mukeshmanral/python-pattern-practice/notebook) |
 |📙 `Python - Functions & OOP's` |[YT Private Playlist](https://www.kaggle.com/mukeshmanral/python-functions-oop-s) |
 |📙 `Learn Python the Applied Way` |[YT Playlist + Notebook](https://www.kaggle.com/code/mukeshmanral/learn-python-by-applied-way/notebook) |
+|📙 `Python Project Outline` |[YT Private Playlist](https://www.kaggle.com/code/mukeshmanral/python-projectoutline/notebook) |
 
 # 🔴Python to Expert
 |Pyton         | Guide + Video Link |
