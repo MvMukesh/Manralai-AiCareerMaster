@@ -43,7 +43,6 @@
 # 🔴Python to Expert
 |Pyton         | Guide + Video Link |
 |--------------|--------------------|
-|📙 `Python Tips & Tricks`|[Add Link]() |
 |📙 `Algorithms - LeetCode Crux`|[Private Link](https://www.kaggle.com/code/mukeshmanral/algorithms-tips-leetcode-crux-python-3-x/notebook)|
 |📙 `Python - Data Structure & TimeComplexities Crux`|[Private Link](https://www.kaggle.com/code/mukeshmanral/python-datastructure-timecomplexities/notebook)|
 |📙 `Asymptotic Notations [Big-(O,Omega),Small-(O,Omega),Theta] Crux` | [Update Private Link]() |
