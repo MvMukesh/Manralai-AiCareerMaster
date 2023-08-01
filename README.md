@@ -35,7 +35,7 @@
 |Pyton         | Guide + Video Link |
 |--------------|--------------------|
 |📙 `Python - Guide & Playlist` |[YT Playlist + Guide](https://www.youtube.com/playlist?list=PLREhfdPXr-ejNS4IOyY8bwDEH6JCLAsDJ)|
-|📙 `Python - Patterns Playlist` |[YT Private Playlist](https://www.kaggle.com/mukeshmanral/python-practice) |
+|📙 `Python - Patterns Practice` |[YT Private Playlist](https://www.kaggle.com/code/mukeshmanral/python-pattern-practice/notebook) |
 |📙 `Python - Functions & OOP's` |[YT Private Playlist](https://www.kaggle.com/mukeshmanral/python-functions-oop-s) |
 
 # 🔴Python to Expert
