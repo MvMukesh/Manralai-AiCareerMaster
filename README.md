@@ -48,6 +48,7 @@
 |📙 `Python - Data Structure and Algorithm Foundation` | [Private Link](https://www.kaggle.com/code/mukeshmanral/data-structure-and-algorithm-foundation-in-python/) |
 |📙 `Python Data Structure - Array,Strings` | [Private](https://www.kaggle.com/code/mukeshmanral/data-structure-array/notebook) |
 |📙 `Python Coding Interview Questions` |[Private](https://www.kaggle.com/code/mukeshmanral/python-interview-questions/) |
+|📙 `Python Quick Revision` |[Private](https://www.kaggle.com/code/mukeshmanral/python-quick-revision/notebook) |
 |📙 `Python RevisionQuestions Set-1` |[Private](https://www.kaggle.com/code/mukeshmanral/python-interviewquestions/notebook) |
 |📙 `Python-RevisionQuestions` |[Private](https://www.kaggle.com/code/mukeshmanral/python-revisionquestions/) |
 
