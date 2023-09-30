@@ -221,6 +221,7 @@
 |RNN Network + Implementation|[Link](https://www.kaggle.com/mukeshmanral/rnn-basics-implementation)|
 |RNN Architecture + Embedding|[Link](https://www.kaggle.com/code/mukeshmanral/rnn-architecture-basics-embedding/notebook)|  
 |LSTM |[Link](https://www.kaggle.com/code/mukeshmanral/lstm-basics-types/)|
+|GAN's from Scratch|[Link](https://www.kaggle.com/code/mukeshmanral/gans-generative-net)|
 
 
 
