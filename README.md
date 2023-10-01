@@ -161,7 +161,8 @@
 |📙 `Fast R-CNN` - `Object Detection` |[Update Link](#) | 
 |📙 `Faster R-CNN` - `Object Detection` |[Link](https://www.kaggle.com/mukeshmanral/faster-r-cnn) | 
 |📙 `SSD` - `Single Shot Detector` | | 
-|📙 `YOLO` - `Single Shot Detector`| | 
+|📙 `YOLO` - `Single Shot Detector`| |
+|📙 `SceneClassificatio(On-places365_small)`|[Link](https://www.kaggle.com/mukeshmanral/sceneclassificatio-on-places365-small) |
 
 <hr style="border:40px solid gray"> </hr>
 
