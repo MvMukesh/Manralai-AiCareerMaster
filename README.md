@@ -178,6 +178,11 @@
 | MobileNet | Very efficient, but not as accurate as some of the other algorithms. | Mobile devices and other resource-constrained environments. |
 | EfficientNet | Accurate and efficient, but can be overfitting to small datasets. | Medium-sized datasets and simple scene classification tasks. |
 
+When `choosing an algorithm` for **`Scene Classification`**, consider following factors:
+
+* `Size and complexity of the dataset`: More complex algorithms, such as `ResNet and InceptionNet`, typically require larger datasets to train effectively
+* `Computational resources available`: Some algorithms, such as `VGGNet and InceptionNet`, can be computationally expensive to train and run
+* `Specific application`: For example, if algorithm will be deployed on a mobile device, then a `lightweight and efficient algorithm, such as MobileNet or EfficientNet`, may be best choice
 <hr style="border:40px solid gray"> </hr>
 <hr style="border:40px solid gray"> </hr>
 
