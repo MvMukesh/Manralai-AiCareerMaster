@@ -164,10 +164,19 @@
 |📙 `YOLO` - `Single Shot Detector`| |
 |📙 `SceneClassificatio(On-places365_small)`|[Link](https://www.kaggle.com/mukeshmanral/sceneclassificatio-on-places365-small) |
 
-* `ResNet` is used by Google for scene classification in its image search engine.
-* `EfficientNet` is used by Facebook for scene classification in its photo tagging system.
-* `MobileNet` is used by Snapchat for scene classification in its augmented reality filters.
-* `InceptionNet` is used by Microsoft for scene classification in its Azure Cognitive Services.
+`Scene Classification Algos : Mostly used ones`
+* `ResNet` is used by Google for scene classification in its image search engine
+* `EfficientNet` is used by Facebook for scene classification in its photo tagging system
+* `MobileNet` is used by Snapchat for scene classification in its augmented reality filters
+* `InceptionNet` is used by Microsoft for scene classification in its Azure Cognitive Services
+
+`Object Detection Algos : Mostly used ones`
+* `YOLO` is used by Google for object detection in its self-driving car project
+* `EfficientDet` is used by Facebook for object detection in its video surveillance system
+* `Faster R-CNN` is used by Amazon for object detection in its warehouse automation system
+* `Cascade R-CNN` is used by Microsoft for object detection in its Azure Cognitive Services
+* `Mask R-CNN` is used by Tesla for object detection in its self-driving car project
+* `SwinT and ViT` are still under development
 
 <hr style="border:40px solid gray"> </hr>
 <hr style="border:40px solid gray"> </hr>
