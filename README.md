@@ -164,22 +164,15 @@
 |📙 `YOLO` - `Single Shot Detector`| |
 |📙 `SceneClassificatio(On-places365_small)`|[Link](https://www.kaggle.com/mukeshmanral/sceneclassificatio-on-places365-small) |
 
+
+<hr style="border:40px solid gray"> </hr>
+<hr style="border:40px solid gray"> </hr>
+
 `Scene Classification Algos : Mostly used ones`
 * `ResNet` is used by Google for scene classification in its image search engine
 * `EfficientNet` is used by Facebook for scene classification in its photo tagging system
 * `MobileNet` is used by Snapchat for scene classification in its augmented reality filters
 * `InceptionNet` is used by Microsoft for scene classification in its Azure Cognitive Services
-
-`Object Detection Algos : Mostly used ones`
-* `YOLO` is used by Google for object detection in its self-driving car project
-* `EfficientDet` is used by Facebook for object detection in its video surveillance system
-* `Faster R-CNN` is used by Amazon for object detection in its warehouse automation system
-* `Cascade R-CNN` is used by Microsoft for object detection in its Azure Cognitive Services
-* `Mask R-CNN` is used by Tesla for object detection in its self-driving car project
-* `SwinT and ViT` are still under development
-
-<hr style="border:40px solid gray"> </hr>
-<hr style="border:40px solid gray"> </hr>
 
 | Algorithm | Strengths | Weaknesses | Best suited for |
 |---|---|---|---|
@@ -192,22 +185,33 @@
 | MobileNet | Very efficient, but not as accurate as some of the other algorithms. | Mobile devices and other resource-constrained environments. |
 | EfficientNet | Accurate and efficient, but can be overfitting to small datasets. | Medium-sized datasets and simple scene classification tasks. |
 
-| Algorithm | Speed | Accuracy | Scalability | Ease of use | Example use cases | Strengths | Weaknesses | Best suited for |
-|---|---|---|---|---|---|---|---|
-| YOLO | Fast | Accurate | Scalable | Easy to use | Self-driving cars, surveillance systems, robotics | Fast and accurate, can be deployed on mobile devices | May not be as accurate as other algorithms for complex tasks | Real-time object detection, object detection on mobile devices |
-| EfficientDet | Fast | Accurate | Scalable | Easy to use | Self-driving cars, surveillance systems, robotics | Fast and accurate, efficient use of computational resources | May not be as accurate as other algorithms for complex tasks | Real-time object detection, object detection on resource-constrained devices |
-| Faster R-CNN | Slow | Accurate | Scalable | Difficult to use | Self-driving cars, surveillance systems, robotics | Accurate, can be scaled to different sizes and speeds | Can be slower than other algorithms | Object detection on high-performance devices |
-| Cascade R-CNN | Slow | Accurate | Scalable | Difficult to use | Self-driving cars, surveillance systems, robotics | Very accurate, can be scaled to different sizes and speeds | Can be slower than other algorithms | Object detection on high-performance devices for complex tasks |
-| Mask R-CNN | Slow | Accurate | Scalable | Difficult to use | Self-driving cars, surveillance systems, robotics | Accurate, can segment objects in images | Can be slower than other algorithms | Object detection and segmentation on high-performance devices |
-| SwinT | Fast | Accurate | Scalable | Easy to use | Self-driving cars, surveillance systems, robotics | Fast and accurate, can be deployed on mobile devices | Still under development, may not be as well-supported as other algorithms | Real-time object detection, object detection on mobile devices |
-| ViT | Fast | Accurate | Scalable | Easy to use | Self-driving cars, surveillance systems, robotics | Fast and accurate, can be deployed on mobile devices | Still under development, may not be as well-supported as other algorithms | Real-time object detection, object detection on mobile devices |
-| SSD | Fast | Accurate | Scalable | Easy to use | Self-driving cars, surveillance systems, robotics | Fast and accurate, efficient use of computational resources | May not be as accurate as other algorithms for complex tasks | Real-time object detection, object detection on resource-constrained devices |
-
-When `choosing an algorithm` for **`Scene Classification`**, consider following factors:
+While `choosing an algorithm` for **`Scene Classification`**, consider following factors:
 
 * `Size and complexity of the dataset`: More complex algorithms, such as `ResNet and InceptionNet`, typically require larger datasets to train effectively
 * `Computational resources available`: Some algorithms, such as `VGGNet and InceptionNet`, can be computationally expensive to train and run
 * `Specific application`: For example, if algorithm will be deployed on a mobile device, then a `lightweight and efficient algorithm, such as MobileNet or EfficientNet`, may be best choice
+
+<hr style="border:40px solid gray"> </hr>
+<hr style="border:40px solid gray"> </hr>
+
+`Object Detection Algos : Mostly used ones`
+* `YOLO` is used by Google for object detection in its self-driving car project
+* `EfficientDet` is used by Facebook for object detection in its video surveillance system
+* `Faster R-CNN` is used by Amazon for object detection in its warehouse automation system
+* `Cascade R-CNN` is used by Microsoft for object detection in its Azure Cognitive Services
+* `Mask R-CNN` is used by Tesla for object detection in its self-driving car project
+* `SwinT and ViT` are still under development
+
+| Algorithm | Strengths | Weaknesses | Best suited for |
+|---|---|---|---|
+| YOLO | Fast, accurate, can be deployed on mobile devices | May not be as accurate as other algorithms for complex tasks | Real-time object detection, object detection on mobile devices |
+| SSD | Fast, accurate, efficient use of computational resources | May not be as accurate as other algorithms for complex tasks | Real-time object detection, object detection on resource-constrained devices |
+| EfficientDet | Fast, accurate, efficient use of computational resources | May not be as accurate as other algorithms for complex tasks | Real-time object detection, object detection on resource-constrained devices |
+| Faster R-CNN | Accurate, can be scaled to different sizes and speeds | Can be slower than other algorithms | Object detection on high-performance devices |
+| Cascade R-CNN | Very accurate, can be scaled to different sizes and speeds | Can be slower than other algorithms | Object detection on high-performance devices for complex tasks |
+| Mask R-CNN | Accurate, can segment objects in images | Can be slower than other algorithms | Object detection and segmentation on high-performance devices |
+
+
 <hr style="border:40px solid gray"> </hr>
 <hr style="border:40px solid gray"> </hr>
 
