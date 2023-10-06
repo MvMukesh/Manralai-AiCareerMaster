@@ -165,6 +165,21 @@
 |📙 `SceneClassificatio(On-places365_small)`|[Link](https://www.kaggle.com/mukeshmanral/sceneclassificatio-on-places365-small) |
 
 <hr style="border:40px solid gray"> </hr>
+<hr style="border:40px solid gray"> </hr>
+
+| Algorithm | Strengths | Weaknesses | Best suited for |
+|---|---|---|---|
+| ResNet | Accurate, efficient, and robust to noise. | Can be computationally expensive to train. | Large datasets and complex scene classification tasks. |
+| VGGNet | Very accurate, but computationally expensive. | Can be overfitting to small datasets. | Medium-sized datasets and simple scene classification tasks. |
+| GoogleNet | Accurate and efficient, but not as robust to noise as ResNet. | Can be overfitting to small datasets. | Medium-sized datasets and simple scene classification tasks. |
+| DenseNet | Accurate and efficient, but can be overfitting to small datasets. | Medium-sized datasets and simple scene classification tasks. |
+| InceptionNet | Very accurate, but computationally expensive. | Can be overfitting to small datasets. | Large datasets and complex scene classification tasks. |
+| Xception | Accurate and efficient, but not as robust to noise as ResNet. | Medium-sized datasets and simple scene classification tasks. |
+| MobileNet | Very efficient, but not as accurate as some of the other algorithms. | Mobile devices and other resource-constrained environments. |
+| EfficientNet | Accurate and efficient, but can be overfitting to small datasets. | Medium-sized datasets and simple scene classification tasks. |
+
+<hr style="border:40px solid gray"> </hr>
+<hr style="border:40px solid gray"> </hr>
 
 # 🔴Computer Vision + OpenCV [CNN CheatSheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
 
