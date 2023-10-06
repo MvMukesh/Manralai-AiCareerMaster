@@ -192,6 +192,17 @@
 | MobileNet | Very efficient, but not as accurate as some of the other algorithms. | Mobile devices and other resource-constrained environments. |
 | EfficientNet | Accurate and efficient, but can be overfitting to small datasets. | Medium-sized datasets and simple scene classification tasks. |
 
+| Algorithm | Speed | Accuracy | Scalability | Ease of use | Example use cases | Strengths | Weaknesses | Best suited for |
+|---|---|---|---|---|---|---|---|
+| YOLO | Fast | Accurate | Scalable | Easy to use | Self-driving cars, surveillance systems, robotics | Fast and accurate, can be deployed on mobile devices | May not be as accurate as other algorithms for complex tasks | Real-time object detection, object detection on mobile devices |
+| EfficientDet | Fast | Accurate | Scalable | Easy to use | Self-driving cars, surveillance systems, robotics | Fast and accurate, efficient use of computational resources | May not be as accurate as other algorithms for complex tasks | Real-time object detection, object detection on resource-constrained devices |
+| Faster R-CNN | Slow | Accurate | Scalable | Difficult to use | Self-driving cars, surveillance systems, robotics | Accurate, can be scaled to different sizes and speeds | Can be slower than other algorithms | Object detection on high-performance devices |
+| Cascade R-CNN | Slow | Accurate | Scalable | Difficult to use | Self-driving cars, surveillance systems, robotics | Very accurate, can be scaled to different sizes and speeds | Can be slower than other algorithms | Object detection on high-performance devices for complex tasks |
+| Mask R-CNN | Slow | Accurate | Scalable | Difficult to use | Self-driving cars, surveillance systems, robotics | Accurate, can segment objects in images | Can be slower than other algorithms | Object detection and segmentation on high-performance devices |
+| SwinT | Fast | Accurate | Scalable | Easy to use | Self-driving cars, surveillance systems, robotics | Fast and accurate, can be deployed on mobile devices | Still under development, may not be as well-supported as other algorithms | Real-time object detection, object detection on mobile devices |
+| ViT | Fast | Accurate | Scalable | Easy to use | Self-driving cars, surveillance systems, robotics | Fast and accurate, can be deployed on mobile devices | Still under development, may not be as well-supported as other algorithms | Real-time object detection, object detection on mobile devices |
+| SSD | Fast | Accurate | Scalable | Easy to use | Self-driving cars, surveillance systems, robotics | Fast and accurate, efficient use of computational resources | May not be as accurate as other algorithms for complex tasks | Real-time object detection, object detection on resource-constrained devices |
+
 When `choosing an algorithm` for **`Scene Classification`**, consider following factors:
 
 * `Size and complexity of the dataset`: More complex algorithms, such as `ResNet and InceptionNet`, typically require larger datasets to train effectively
