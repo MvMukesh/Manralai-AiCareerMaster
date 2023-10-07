@@ -271,6 +271,7 @@ While `choosing an algorithm` for **`Scene Classification`**, consider following
 |RNN Maths+Implementation|[Link](https://www.kaggle.com/mukeshmanral/rnn-basics-implementation)|
 |RNN Architecture + Embedding|[Link](https://www.kaggle.com/code/mukeshmanral/rnn-architecture-basics-embedding/notebook)|  
 |LSTM |[Link](https://www.kaggle.com/code/mukeshmanral/lstm-basics-types/)|
+||RNN_LSTM_GRU Implementation + HyperBand | [Link](https://www.kaggle.com/mukeshmanral/rnn-lstm-gru-implementation-hyperparametertunin)
 |GAN's from Scratch|[Link](https://www.kaggle.com/code/mukeshmanral/gans-generative-net)|
 
 
