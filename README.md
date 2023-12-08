@@ -330,3 +330,11 @@ While `choosing an algorithm` for **`Scene Classification`**, consider following
 🎈[LinkedIn](https://www.linkedin.com/in/mukesh-manral/)
 
 <hr style="border:40px solid gray"> </hr>
+
+<footer class="footer">
+    <span>&copy; 2023 <a href="https://www.linkedin.com/in/mukesh-manral">Mukesh&#39;Manral</a></span>
+    <span>
+        Powered by
+        <a href="https://manralai.in/" rel="Apply First Learning" target="_blank">Manralai.in</a>
+    </span>
+</footer>
