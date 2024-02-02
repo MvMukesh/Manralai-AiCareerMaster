@@ -91,11 +91,12 @@
 |📙 Linear Regression implementing Cost Function |[Link](https://www.kaggle.com/mukeshmanral/linear-regression-basic)| |
 |📙 Multiple Linear Regression (Basic) |[Link](https://www.kaggle.com/mukeshmanral/multiple-linear-regression-basic/notebook) | |
 |📙 Polynomial Regression (Basic) |[Link](https://www.kaggle.com/mukeshmanral/polynomial-regression-basic) | |
-|📙 Advance Linear Regression  +GridSearchCV + HyperParameterTuning(Basic) |[Link](https://www.kaggle.com/mukeshmanral/advance-linear-regression-gridsearchcv-hpt-basic?scriptVersionId=77957379) | |
+|📙 Advance Linear Regression  + GridSearchCV + HyperParameterTuning(Basic) |[Link](https://www.kaggle.com/mukeshmanral/advance-linear-regression-gridsearchcv-hpt-basic?scriptVersionId=77957379) | |
 |📙 K-NN Deriving |[Private Link](https://www.kaggle.com/code/mukeshmanral/deriving-knn/notebook) | |
 |📙 k-NN Algorithm-1 (Basic) |[Link](https://www.kaggle.com/mukeshmanral/k-nn-algorithm-1-basic/notebook) | |
 |📙 k-NN Algorithm-2 (Basic) |[Link](https://www.kaggle.com/mukeshmanral/k-nn-algorithm-2-basic) | |
 |📙 Propose Saving Options for for India based Poultry Farm having spending of appx 22 billion | [Link+KPI's](https://github.com/MvMukesh/Spend_Analysis-ProposedSavingOptions)| |
+|📙 Mastering Dimensionality Reduction Techniques|[Link](https://www.kaggle.com/code/mukeshmanral/masteringdimensionalityreduction-in-2024) | |
 |📙 PCA application you must know things |[Link](https://www.kaggle.com/mukeshmanral/pca-basic) | [PCA - Second Principal Component have to be orthogonal to first one? See Why!](https://www.linkedin.com/pulse/pca-second-principal-component-have-orthogonal-first-mukesh-manral/) |
 |📙 PCA application step by step - 2 | [Link](https://www.kaggle.com/mukeshmanral/pca-2-reducing-dimensions/)|[PCA-1](https://www.linkedin.com/pulse/principal-component-analysis-dimension-reduction-1-mukesh-manral/?trackingId=rRnwC6pA6hD%2BzFWumbYjlw%3D%3D), [PCA-2]()|
 |📙 Vehicle Loan Default Prediction [EDA + Model]|[Link](https://www.kaggle.com/mukeshmanral/vehicle-loan-default-prediction-eda-model)||
