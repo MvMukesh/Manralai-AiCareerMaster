@@ -42,6 +42,13 @@
 |📙 `Learn Python the Applied Way` |[YT Playlist + Notebook](https://www.kaggle.com/code/mukeshmanral/learn-python-by-applied-way/notebook) |
 |📙 `Python Project Outline` |[Private Code](https://www.kaggle.com/code/mukeshmanral/python-projectoutline/notebook) |
 
+|Pyton Challenges      | Guide + Video Link |
+|--------------|--------------------|
+|`Control Flow - Practice if/elif/else Statements`|[Practice Questions - working on it]()|
+|`Loops - Practice while/for loops`|[Practice Questions - working on it]()|
+|`Functions - Practice functions`|[Practice Questions - working on it]()|
+|`Lists - Practice Lists`|[Practice Questions - working on it]()|
+
 # 🔴Python to Expert
 |Pyton         | Guide + Video Link |
 |--------------|--------------------|
