@@ -35,6 +35,7 @@
 # 🔴 0 to Python 
 |Pyton         | Guide + Video Link |
 |--------------|--------------------|
+|`Python for Data Science in 4hours`|[Private YT Playlist + Guide](https://www.kaggle.com/code/mukeshmanral/python/)|
 |📙 `Python - Guide & Playlist` |[YT Playlist + Guide](https://www.youtube.com/playlist?list=PLREhfdPXr-ejNS4IOyY8bwDEH6JCLAsDJ)|
 |📙 `Python - Patterns Practice` |[YT Private Playlist](https://www.kaggle.com/code/mukeshmanral/python-pattern-practice/notebook) |
 |📙 `Python - Functions & OOP's` |[YT Private Playlist](https://www.kaggle.com/mukeshmanral/python-functions-oop-s) |
