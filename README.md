@@ -13,6 +13,24 @@
     This is Mukesh Manral
   <!--<kbd><img src="https://github.com/MvMukesh/Manral.Ai/blob/main/images/face_parts.png" /></kbd> --> </p>
 
+# 🔴Linear Algebra
+|Topic         | Guide + Video Link |
+|--------------|--------------------|
+|📙 `Matrix`|[Updating ...]()|
+|📙 `Matrix types` |[Updating ...]()|
+|📙 `Matrices Opearions` |[Updating ...]()|
+|📙 `Gauss elimination` |[Updating ...]()|
+|📙 `Matrix reduction to Diagonal Form` |[Updating ...]()|
+|📙 `Determinants` |[Updating ...]()|
+|📙 `Tensor` |[Updating ...]()|
+|📙 `Matrix Products (Scalar & Vector)` |[Updating ...]()|
+|📙 `Implementing Vectorization in Python` |[Updating ...]()|
+|📙 `Eigen Values & Eigen Vectors` |[Updating ...]()|
+|📙 `Types of Distance Based Metrics` |[Link](https://www.linkedin.com/pulse/data-science-must-know-distance-metrics-mukesh-manral/)|
+|📙 `Euclidean Distance` |[Updating ...]()|
+|📙 `Manhattan Distance` |[Updating ...]()|
+
+
 # 🔴Statistics
 
 <p align="center">
@@ -30,6 +48,23 @@
 |📙 `Inferential Statistics` |* [t-Test & it's Types](#) <br> * [z-Test](#) <br> * [Hypothesis Testing](#) <br> * [Typr-I & Type-II Error](#) <br> * [One way ANOVA](#) <br> * [Two way ANOVA](#) <br> * [Chi-Square Test](#)|
 |`Statistical Test's for Data Science in Python` |[Link](https://www.kaggle.com/code/mukeshmanral/statisticaltest-for-datascience-in-python/) |
 
+
+# 🔴Probability
+|Topic        | Guide + Video Link |
+|--------------|--------------------|
+|📙 `About Probability`|[Updating ...]()|
+|📙 `About Random Variables` |[Updating ...]()|
+|📙 `Random Variable (Discrete Vs. Continuous)` |[Updating ...]()|
+|📙 `Random Variable (Independent & Identically Distributed)` |[Updating ...]()|
+|📙 `Binomial Random Variable` |[Updating ...]()|
+|📙 `P&C` |[Updating ...]()|
+|📙 `Bayesian Estimation` |[Updating ...]()|
+|📙 `Bernoulli Trials` |[Updating ...]()|
+|📙 `Poisson Distribution` |[Updating ...]()|
+|📙 `PDF` |[Updating ...]()|
+|📙 `CDF` |[Updating ...]()|
+
+<hr style="border:40px solid gray"> </hr>
 <hr style="border:40px solid gray"> </hr>
 
 # 🔴 0 to Python 
