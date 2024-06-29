@@ -19,11 +19,11 @@
 |📙 `Matrix`|[Updating ...]()|
 |📙 `Matrix types` |[Updating ...]()|
 |📙 `Matrices Opearions` |[Updating ...]()|
-|📙 `Gauss elimination` |[Updating ...]()|
 |📙 `Matrix reduction to Diagonal Form` |[Updating ...]()|
+|📙 `Matrix Products (Scalar & Vector)` |[Updating ...]()|
+|📙 `Gauss elimination` |[Updating ...]()|
 |📙 `Determinants` |[Updating ...]()|
 |📙 `Tensor` |[Updating ...]()|
-|📙 `Matrix Products (Scalar & Vector)` |[Updating ...]()|
 |📙 `Implementing Vectorization in Python` |[Updating ...]()|
 |📙 `Eigen Values & Eigen Vectors` |[Updating ...]()|
 |📙 `Types of Distance Based Metrics` |[Link](https://www.linkedin.com/pulse/data-science-must-know-distance-metrics-mukesh-manral/)|
@@ -32,6 +32,16 @@
 
 
 # 🔴Statistics
+
+|Topic         | Guide + Video Link |
+|--------------|--------------------|
+|📙 `Statistics Inroduction`|[Updating ...]()|
+|📙 `Descriptive Statistics` |[Updating ...]()|
+|📙 `Variance & Standard Deviation`|[Updating ...]()|
+|📙 `Skewness & Kurtosis` |[Updating ...]()|
+|📙 `Measure of Central Tendency (Categorical Data )`|[Updating ...]()|
+|📙 `Measure of Central Tendency (Numerical Data)` |[Updating ...]()|
+|📙 `Hypothesis Testing`|[Updating ...]()|
 
 <p align="center">
   <kbd><img src="https://user-images.githubusercontent.com/26667491/221352642-da977395-8449-439f-aefe-405fac5bc914.png" width=350 height=200 alt="Intension of analysis.png"></kbd> </p>
