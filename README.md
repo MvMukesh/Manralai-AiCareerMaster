@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header" alt="GitHub Overview">
 
-## 👇🏻Find Me🔗:
+## 🔗Find Me 👇🏻:
 
 [<img align="left" alt="mukeshmanral | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="mukeshmanral | YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][YouTube]
