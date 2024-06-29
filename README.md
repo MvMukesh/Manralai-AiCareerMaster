@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header" alt="GitHub Overview">
 
-## 👇🏻 Find Me:
+## 👇🏻Find Me🔗:
 
 [<img align="left" alt="mukeshmanral | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="mukeshmanral | YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][YouTube]
@@ -97,7 +97,7 @@
 <hr style="border:40px solid gray"> </hr>
 <hr style="border:40px solid gray"> </hr>
 
-## 🔴 0 to Python 
+## 🐍0 to Python 
 |Pyton         | Guide + Video Link |
 |--------------|--------------------|
 |`Python for Data Science in 4hours`|[Private YT Playlist + Guide](https://www.kaggle.com/code/mukeshmanral/python/)|
@@ -114,7 +114,7 @@
 |`Functions - Practice functions`|[Practice Questions - working on it]()|
 |`Lists - Practice Lists`|[Practice Questions - working on it]()|
 
-## 🔴Python to Expert
+## 🐍🐍Python to Expert
 |Pyton         | Guide + Video Link |
 |--------------|--------------------|
 |📙 `Algorithms - LeetCode Crux`|[Private Link](https://www.kaggle.com/code/mukeshmanral/algorithms-tips-leetcode-crux-python-3-x/notebook)|
@@ -182,7 +182,7 @@
 |📙 `SVM`|[Link](https://www.kaggle.com/mukeshmanral/support-vector-machine-svm) | |
 
 
-## 🔴Feature Engineering 
+## 🎳Feature Engineering 
 | Feature Engineering| Code + Blog Link |
 |--------------------|------------------|
 |📙 Creating New Features |[Link](https://www.kaggle.com/code/mukeshmanral/feature-engineering-creating-new-feature) | 
@@ -291,7 +291,7 @@ While `choosing an algorithm` for **`Scene Classification`**, consider following
 <hr style="border:40px solid gray"> </hr>
 <hr style="border:40px solid gray"> </hr>
 
-## 🔴Computer Vision + OpenCV [CNN CheatSheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
+## 👀Computer Vision + OpenCV [CNN CheatSheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
 
 <p align="center">
   <kbd><img src="https://user-images.githubusercontent.com/26667491/221357335-f61e957a-d2ca-42f5-bb3b-cbe852f0e4c5.gif" tag='vision.gif' width="600"></kbd>
@@ -310,7 +310,7 @@ While `choosing an algorithm` for **`Scene Classification`**, consider following
 
 <hr style="border:40px solid gray"> </hr>
 
-## 🔴NLP : [RNN Cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
+## 🗣️NLP : [RNN Cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
 
 <h4>RNN architectures depending on task</h4>
 <p align="center">
@@ -355,7 +355,7 @@ While `choosing an algorithm` for **`Scene Classification`**, consider following
 
 <hr style="border:40px solid gray"> </hr>
 
-## 🔴Recommender System 
+## 🗿Recommender System 
 
 | Recommender System                | Code + Blog Link                                                                       |
 |-----------------------------------|----------------------------------------------------------------------------------------|
@@ -375,7 +375,7 @@ While `choosing an algorithm` for **`Scene Classification`**, consider following
 
 <hr style="border:40px solid gray"> </hr>
 
-## 🔴AWS
+## ☁️AWS
 
 | AWS | Blog Link  | Video Link  |
 |--------------|-----------|-----------|
@@ -385,7 +385,7 @@ While `choosing an algorithm` for **`Scene Classification`**, consider following
 
 <hr style="border:40px solid gray"> </hr>
 
-## 🔴Deployment
+## 🌀Deployment
 
 | Deployment  |Code + Blog Link  |  Video Link|
 |-------------|-------------|------------------|
@@ -393,14 +393,14 @@ While `choosing an algorithm` for **`Scene Classification`**, consider following
 
 <hr style="border:40px solid gray"> </hr>
 
-## 🔴MLOps
+## ⚙️MLOps
 ![mlops_cicd](https://user-images.githubusercontent.com/26667491/221462555-4ff921ec-6f31-4bf8-a7d9-5ab62f7d3630.png)
 
 * [Model in Production](https://github.com/MvMukesh/Models-InProduction)
 * [Testing and Monitoring Deployments](https://github.com/MvMukesh/Monitoring-Testing-Deployments)
 
 
-## Connect With me 
+## 🔗Connect With me 
 🎈[AI NewsLatter](https://www.linkedin.com/newsletters/6872441622500585472/) <br>
 🎈[LinkedIn](https://www.linkedin.com/in/mukesh-manral/)
 
