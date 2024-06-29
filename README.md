@@ -19,6 +19,8 @@
 [Kaggle]: https://www.kaggle.com/mukeshmanral
 [Instagram]: https://www.instagram.com/manralai/
 
+<hr style="border:40px solid gray"> </hr>
+
 ## 📙Aggregating Data Science
 
 **`This repository serves as a comprehensive log of my contributions to the field of data, as well as a testament to my unwavering commitment to making complex concepts accessible to others through clear and concise explanations`**
@@ -27,11 +29,14 @@
 
 <hr style="border:40px solid gray"> </hr>
 
-<p align="center">
-    <!--This is Mukesh Manral-->
-  <!--<kbd><img src="https://github.com/MvMukesh/Manral.Ai/blob/main/images/face_parts.png" /></kbd> --> </p>
+<!--<p align="center">
+    This is Mukesh Manral
+  <kbd><img src="https://github.com/MvMukesh/Manral.Ai/blob/main/images/face_parts.png" /></kbd> --> </p>
+
 
 <center><h2>Math's</h2></center>
+
+<hr style="border:40px solid gray"> </hr>
 
 ## 📝Linear Algebra
 |Topic         | Guide + Video Link |
@@ -50,6 +55,7 @@
 |📙 `Euclidean Distance` |[Updating ...]()|
 |📙 `Manhattan Distance` |[Updating ...]()|
 
+<hr style="border:40px solid gray"> </hr>
 
 ## 📟Statistics
 
@@ -71,6 +77,7 @@
   <kbd><img src="https://user-images.githubusercontent.com/26667491/221352714-b8cc82fa-3fa7-4e5d-9fe9-852697eb4ce4.png" alt="choose_stats_test.png"></kbd> 
 </p>
 
+<hr style="border:40px solid gray"> </hr>
 
 |Statistics    | Understant these Basics(will update) |
 |--------------|--------------------------------------|
@@ -78,6 +85,7 @@
 |📙 `Inferential Statistics` |* [t-Test & it's Types](#) <br> * [z-Test](#) <br> * [Hypothesis Testing](#) <br> * [Typr-I & Type-II Error](#) <br> * [One way ANOVA](#) <br> * [Two way ANOVA](#) <br> * [Chi-Square Test](#)|
 |`Statistical Test's for Data Science in Python` |[Link](https://www.kaggle.com/code/mukeshmanral/statisticaltest-for-datascience-in-python/) |
 
+<hr style="border:40px solid gray"> </hr>
 
 ## 🧩Probability
 |Topic        | Guide + Video Link |
@@ -114,6 +122,8 @@
 |`Functions - Practice functions`|[Practice Questions - working on it]()|
 |`Lists - Practice Lists`|[Practice Questions - working on it]()|
 
+<hr style="border:40px solid gray"> </hr>
+
 ## 🐍🐍Python to Expert
 |Pyton         | Guide + Video Link |
 |--------------|--------------------|
@@ -142,7 +152,8 @@
 |📙 Mapping Business Problem into Data Science Problem |[Private Link](https://www.kaggle.com/code/mukeshmanral/mapping-business-problem-into-data-science-problem/notebook) | 
 |📙 Answer to --> How to Perform EDA |[Private Link](https://www.kaggle.com/mukeshmanral/answer-to-how-to-perform-eda) | 
 |📙 Evaluation Metrics (Supervised Learning) |[Private Link](https://www.kaggle.com/code/mukeshmanral/evaluation-metrics-supervisedlearning/notebook) | 
-  
+
+<hr style="border:40px solid gray"> </hr>
   
 ## 🤖Machine Learning 
 
@@ -181,6 +192,7 @@
 |📙 Employees-earnings (Model comparison, EDA many more) |[Link](https://www.kaggle.com/code/mukeshmanral/employees-earnings/notebook) | |
 |📙 `SVM`|[Link](https://www.kaggle.com/mukeshmanral/support-vector-machine-svm) | |
 
+<hr style="border:40px solid gray"> </hr>
 
 ## 🎳Feature Engineering 
 | Feature Engineering| Code + Blog Link |
