@@ -1,7 +1,25 @@
-![text](https://user-images.githubusercontent.com/26667491/223444590-107a5cfe-5949-4c21-b4a4-b6a83300dbcf.gif)
+<!--![text](https://user-images.githubusercontent.com/26667491/223444590-107a5cfe-5949-4c21-b4a4-b6a83300dbcf.gif) -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header" alt="GitHub Overview">
+
+## 👇🏻 Find Me:
+
+[<img align="left" alt="mukeshmanral | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="mukeshmanral | YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][YouTube]
+[<img align="left" alt="mukeshmanral | Kaggle" width="30px" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" />][Kaggle]
+[<img align="left" alt="mukeshmanral | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
+[<img align="left" alt="mukeshmanral | Medium" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" />][Medium]
 
 
-# 🔵 Aggregating Data Science : My Newsletter📩[Manralai : AI Career Master](https://www.linkedin.com/newsletters/6872441622500585472/)
+<br>
+
+[linkedin]: https://www.linkedin.com/in/mukesh-manral/
+[YouTube]: https://www.youtube.com/@manralai
+[Medium]: https://medium.com/@manralai/lists
+[Kaggle]: https://www.kaggle.com/mukeshmanral
+[Instagram]: https://www.instagram.com/manralai/
+
+# 📙 Aggregating Data Science
 
 **`This repository serves as a comprehensive log of my contributions to the field of data, as well as a testament to my unwavering commitment to making complex concepts accessible to others through clear and concise explanations`**
 <br>
@@ -13,7 +31,9 @@
     <!--This is Mukesh Manral-->
   <!--<kbd><img src="https://github.com/MvMukesh/Manral.Ai/blob/main/images/face_parts.png" /></kbd> --> </p>
 
-# 🔴Linear Algebra
+<center><h2>Math's</h2></center>
+
+## 🔴Linear Algebra
 |Topic         | Guide + Video Link |
 |--------------|--------------------|
 |📙 `Matrix`|[Updating ...]()|
@@ -31,7 +51,7 @@
 |📙 `Manhattan Distance` |[Updating ...]()|
 
 
-# 🔴Statistics
+## 🔴Statistics
 
 |Topic         | Guide + Video Link |
 |--------------|--------------------|
@@ -59,7 +79,7 @@
 |`Statistical Test's for Data Science in Python` |[Link](https://www.kaggle.com/code/mukeshmanral/statisticaltest-for-datascience-in-python/) |
 
 
-# 🔴Probability
+## 🔴Probability
 |Topic        | Guide + Video Link |
 |--------------|--------------------|
 |📙 `About Probability`|[Updating ...]()|
@@ -77,7 +97,7 @@
 <hr style="border:40px solid gray"> </hr>
 <hr style="border:40px solid gray"> </hr>
 
-# 🔴 0 to Python 
+## 🔴 0 to Python 
 |Pyton         | Guide + Video Link |
 |--------------|--------------------|
 |`Python for Data Science in 4hours`|[Private YT Playlist + Guide](https://www.kaggle.com/code/mukeshmanral/python/)|
@@ -94,7 +114,7 @@
 |`Functions - Practice functions`|[Practice Questions - working on it]()|
 |`Lists - Practice Lists`|[Practice Questions - working on it]()|
 
-# 🔴Python to Expert
+## 🔴Python to Expert
 |Pyton         | Guide + Video Link |
 |--------------|--------------------|
 |📙 `Algorithms - LeetCode Crux`|[Private Link](https://www.kaggle.com/code/mukeshmanral/algorithms-tips-leetcode-crux-python-3-x/notebook)|
@@ -109,7 +129,7 @@
 
 <hr style="border:40px solid gray"> </hr>
 
-# 🔴Data Analysis
+## 🔴Data Analysis
 
 <p align="center">
   <kbd><img src="https://user-images.githubusercontent.com/26667491/221353659-7cb8882c-49aa-44eb-8a40-30329a02005a.png" alt="chart_selection.png"></kbd>
@@ -124,7 +144,7 @@
 |📙 Evaluation Metrics (Supervised Learning) |[Private Link](https://www.kaggle.com/code/mukeshmanral/evaluation-metrics-supervisedlearning/notebook) | 
   
   
-# 🔴Machine Learning 
+## 🔴Machine Learning 
 
 <h2><u>Imbalanced Binary Classification Metrices Guide</u></h2>
 <p align="center">
@@ -162,7 +182,7 @@
 |📙 `SVM`|[Link](https://www.kaggle.com/mukeshmanral/support-vector-machine-svm) | |
 
 
-# 🔴Feature Engineering 
+## 🔴Feature Engineering 
 | Feature Engineering| Code + Blog Link |
 |--------------------|------------------|
 |📙 Creating New Features |[Link](https://www.kaggle.com/code/mukeshmanral/feature-engineering-creating-new-feature) | 
@@ -172,7 +192,7 @@
   
 <hr style="border:40px solid gray"> </hr>
 
-# 🔴Deep Learning
+## 🔴Deep Learning
   
 <p align="center">
   <kbd><img src="https://user-images.githubusercontent.com/26667491/221328067-954ea17f-8ba3-49d1-9766-126056fc287f.png" alt="dl timeline.png"></kbd>
@@ -271,7 +291,7 @@ While `choosing an algorithm` for **`Scene Classification`**, consider following
 <hr style="border:40px solid gray"> </hr>
 <hr style="border:40px solid gray"> </hr>
 
-# 🔴Computer Vision + OpenCV [CNN CheatSheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
+## 🔴Computer Vision + OpenCV [CNN CheatSheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
 
 <p align="center">
   <kbd><img src="https://user-images.githubusercontent.com/26667491/221357335-f61e957a-d2ca-42f5-bb3b-cbe852f0e4c5.gif" tag='vision.gif' width="600"></kbd>
@@ -290,7 +310,7 @@ While `choosing an algorithm` for **`Scene Classification`**, consider following
 
 <hr style="border:40px solid gray"> </hr>
 
-# 🔴NLP : [RNN Cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
+## 🔴NLP : [RNN Cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
 
 <h4>RNN architectures depending on task</h4>
 <p align="center">
@@ -335,7 +355,7 @@ While `choosing an algorithm` for **`Scene Classification`**, consider following
 
 <hr style="border:40px solid gray"> </hr>
 
-# 🔴Recommender System 
+## 🔴Recommender System 
 
 | Recommender System                | Code + Blog Link                                                                       |
 |-----------------------------------|----------------------------------------------------------------------------------------|
@@ -346,7 +366,7 @@ While `choosing an algorithm` for **`Scene Classification`**, consider following
 
 <hr style="border:40px solid gray"> </hr>
 
-# 🔴Spark Ecosystem
+## 🔴Spark Ecosystem
 
 |Spark Ecosystem | Code + Blog Link|
 |--------------|-----------|
@@ -355,7 +375,7 @@ While `choosing an algorithm` for **`Scene Classification`**, consider following
 
 <hr style="border:40px solid gray"> </hr>
 
-# 🔴AWS
+## 🔴AWS
 
 | AWS | Blog Link  | Video Link  |
 |--------------|-----------|-----------|
@@ -365,7 +385,7 @@ While `choosing an algorithm` for **`Scene Classification`**, consider following
 
 <hr style="border:40px solid gray"> </hr>
 
-# 🔴Deployment
+## 🔴Deployment
 
 | Deployment  |Code + Blog Link  |  Video Link|
 |-------------|-------------|------------------|
@@ -373,14 +393,14 @@ While `choosing an algorithm` for **`Scene Classification`**, consider following
 
 <hr style="border:40px solid gray"> </hr>
 
-# 🔴MLOps
+## 🔴MLOps
 ![mlops_cicd](https://user-images.githubusercontent.com/26667491/221462555-4ff921ec-6f31-4bf8-a7d9-5ab62f7d3630.png)
 
 * [Model in Production](https://github.com/MvMukesh/Models-InProduction)
 * [Testing and Monitoring Deployments](https://github.com/MvMukesh/Monitoring-Testing-Deployments)
 
 
-# Connect With me 
+## Connect With me 
 🎈[AI NewsLatter](https://www.linkedin.com/newsletters/6872441622500585472/) <br>
 🎈[LinkedIn](https://www.linkedin.com/in/mukesh-manral/)
 
