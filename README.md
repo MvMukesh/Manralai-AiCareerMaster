@@ -66,7 +66,7 @@
 <p align="center">
   <kbd><img src="https://user-images.githubusercontent.com/26667491/221352642-da977395-8449-439f-aefe-405fac5bc914.png" width=350 height=200 alt="Intension of analysis.png"></kbd> </p>
 
-<h2><u>Framework to Select Statistical Test</u></h2>
+<h2><u>🔖Framework to Select Statistical Test</u></h2>
 <p align="center">
   <kbd><img src="https://user-images.githubusercontent.com/26667491/221352714-b8cc82fa-3fa7-4e5d-9fe9-852697eb4ce4.png" alt="choose_stats_test.png"></kbd> 
 </p>
