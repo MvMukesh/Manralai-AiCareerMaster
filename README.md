@@ -19,7 +19,7 @@
 [Kaggle]: https://www.kaggle.com/mukeshmanral
 [Instagram]: https://www.instagram.com/manralai/
 
-# 📙 Aggregating Data Science
+## 📙Aggregating Data Science
 
 **`This repository serves as a comprehensive log of my contributions to the field of data, as well as a testament to my unwavering commitment to making complex concepts accessible to others through clear and concise explanations`**
 <br>
@@ -33,7 +33,7 @@
 
 <center><h2>Math's</h2></center>
 
-## 🔴Linear Algebra
+## 📝Linear Algebra
 |Topic         | Guide + Video Link |
 |--------------|--------------------|
 |📙 `Matrix`|[Updating ...]()|
@@ -51,7 +51,7 @@
 |📙 `Manhattan Distance` |[Updating ...]()|
 
 
-## 🔴Statistics
+## 📟Statistics
 
 |Topic         | Guide + Video Link |
 |--------------|--------------------|
@@ -79,7 +79,7 @@
 |`Statistical Test's for Data Science in Python` |[Link](https://www.kaggle.com/code/mukeshmanral/statisticaltest-for-datascience-in-python/) |
 
 
-## 🔴Probability
+## 🧩Probability
 |Topic        | Guide + Video Link |
 |--------------|--------------------|
 |📙 `About Probability`|[Updating ...]()|
@@ -129,7 +129,7 @@
 
 <hr style="border:40px solid gray"> </hr>
 
-## 🔴Data Analysis
+## 🧩Data Analysis
 
 <p align="center">
   <kbd><img src="https://user-images.githubusercontent.com/26667491/221353659-7cb8882c-49aa-44eb-8a40-30329a02005a.png" alt="chart_selection.png"></kbd>
@@ -144,7 +144,7 @@
 |📙 Evaluation Metrics (Supervised Learning) |[Private Link](https://www.kaggle.com/code/mukeshmanral/evaluation-metrics-supervisedlearning/notebook) | 
   
   
-## 🔴Machine Learning 
+## 🤖Machine Learning 
 
 <h2><u>Imbalanced Binary Classification Metrices Guide</u></h2>
 <p align="center">
@@ -192,7 +192,7 @@
   
 <hr style="border:40px solid gray"> </hr>
 
-## 🔴Deep Learning
+## 👾Deep Learning
   
 <p align="center">
   <kbd><img src="https://user-images.githubusercontent.com/26667491/221328067-954ea17f-8ba3-49d1-9766-126056fc287f.png" alt="dl timeline.png"></kbd>
