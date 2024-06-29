@@ -10,7 +10,7 @@
 <hr style="border:40px solid gray"> </hr>
 
 <p align="center">
-    This is Mukesh Manral
+    <!--This is Mukesh Manral-->
   <!--<kbd><img src="https://github.com/MvMukesh/Manral.Ai/blob/main/images/face_parts.png" /></kbd> --> </p>
 
 # 🔴Linear Algebra
