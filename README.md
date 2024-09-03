@@ -23,7 +23,7 @@
 
 ## 📙Level Up Your AI Game Now
 
-**`Whether you're a seasoned pro or just starting out, <u>Manralai</u> offers something for everyone. Don't miss out on this unique opportunity to accelerate your learning and grow your network!`**
+**`Whether you're a seasoned pro or just starting out, Manralai offers something for everyone. Don't miss out on this unique opportunity to accelerate your learning and grow your network!`**
 <br>
 
 
