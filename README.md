@@ -1,11 +1,9 @@
 <!--![text](https://user-images.githubusercontent.com/26667491/223444590-107a5cfe-5949-4c21-b4a4-b6a83300dbcf.gif) -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header" alt="GitHub Overview">
-
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Gilroy&weight=700&size=40&pause=1000&color=F7F7F7&width=600&height=60&lines=Level+up+your+AI+Game+🚀)](https://git.io/typing-svg)
   
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Gilroy&weight=700&size=40&pause=1000&color=F7F7F7&width=600&height=60&lines=Level+up+your+AI+Game+🚀)](https://git.io/typing-svg)
 </div>  
 
 <div align="center"> 
@@ -25,12 +23,9 @@
 </a> -->
 </div>
 
+<hr style="border:40px solid gray"> </hr>
 
 **`Whether you're a seasoned pro or just starting out, Manralai offers something for everyone. Don't miss out on this unique opportunity to accelerate your learning and grow your network!`**
-<br>
-
-
-<hr style="border:40px solid gray"> </hr>
 
 <!--<p align="center">
     This is Mukesh Manral
