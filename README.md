@@ -8,27 +8,23 @@
   
 </div>  
 
+<div align="center"> 
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/mukesh-manral/"><img src="https://img.shields.io/badge/LinkedIn-411AFF?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>  
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@manralai"><img src="https://img.shields.io/badge/Youtube-411AFF?style=for-the-badge&logo=Youtube&logoColor=white" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://medium.com/@manralai/lists"><img src="https://img.shields.io/badge/Medium-411AFF?style=for-the-badge&logo=Medium&logoColor=white" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="https://www.instagram.com/manralai/"><img src="https://img.shields.io/badge/Instagram-411AFF?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="https://www.kaggle.com/mukeshmanral"><img src="https://img.shields.io/badge/Kaggle-411AFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
+<!-- <a href="https://discord.user"><img alt="discord_logo" src="https://img.shields.io/badge/Discord-411AFF?style=for-the-badge&logo=discord&logoColor=white"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp; 
+#<a href="https://twitter.com/WebXDAO"> <img src="https://img.shields.io/badge/X_(Twitter)-411AFF?style=for-the-badge&logo=x&logoColor=white" />
+</a> -->
+</div>
 
-## 🔗Find Me 👇🏻:
-
-[<img align="left" alt="mukeshmanral | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="mukeshmanral | YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][YouTube]
-[<img align="left" alt="mukeshmanral | Kaggle" width="30px" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" />][Kaggle]
-[<img align="left" alt="mukeshmanral | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
-[<img align="left" alt="mukeshmanral | Medium" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" />][Medium]
-
-
-<br>
-
-[linkedin]: https://www.linkedin.com/in/mukesh-manral/
-[YouTube]: https://www.youtube.com/@manralai
-[Medium]: https://medium.com/@manralai/lists
-[Kaggle]: https://www.kaggle.com/mukeshmanral
-[Instagram]: https://www.instagram.com/manralai/
-
-<hr style="border:40px solid gray"> </hr>
-
-## 📙Level Up Your AI Game Now
 
 **`Whether you're a seasoned pro or just starting out, Manralai offers something for everyone. Don't miss out on this unique opportunity to accelerate your learning and grow your network!`**
 <br>
